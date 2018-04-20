@@ -111,10 +111,10 @@ Append stdout to a file
 $ cat file1.txt >> file2.txt
 ```  
 
-# cat
 # Pipe : | 
-OSx : Shift + alt + L
+> OSx : Shift + alt + L
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3ODI5NDg0MywtMTMxMTAxODM1Nl19
+eyJoaXN0b3J5IjpbLTE1NTI2NjkzOTQsLTQ3ODI5NDg0MywtMT
+MxMTAxODM1Nl19
 -->
