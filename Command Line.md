@@ -105,7 +105,6 @@ $ cat  myfile.txt
 >> Hello
 $ cat file1.txt > file2.txt
 ``` 
-> Replace the original content of files2.txt by the content of file1.txt
 
 Append stdout to a file
 ```
@@ -117,5 +116,6 @@ $ cat file1.txt >> file2.txt
 OSx : Shift + alt + L
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTEwMTgzNTZdfQ==
+eyJoaXN0b3J5IjpbLTEyNDc1NzU4NDAsLTEzMTEwMTgzNTZdfQ
+==
 -->
