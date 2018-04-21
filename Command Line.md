@@ -1,21 +1,22 @@
+
 # Navigation
 ## Change directory
-```
+```shell
 $ cd 
 $ cd Desktop/
 $ cd ..
 ```
 ## List files 
 Current directory
-```
+```shell 
 $ ls
 ```
 Specific directory 
-```
+```shell 
 $ ls Desktop/
 ```
 With options
-```
+```shell
 $ ls -a
 ```
 > -a : list all contents of a directory, including hidden files and directories
@@ -23,58 +24,58 @@ $ ls -a
 > -t : order by time (last modification date)
 
 Combination of options 
-```
+```shell
 $ ls -alt
 ```
 ## Print working directory
-```
+```shell
 $ pwd
 ```
 
 # Manipulating files
 ## Create file
-```
+```shell
 $ touch myFile
 ```
 ## Create directory
-```
+```shell
 $ mkdir myDirectory
 ```
 ## Copy file
 Copy a file in a directory
-```
+```shell
 $ cp fichier.txt myDirectory/
 ```
 Copy a file from a directory in another directory
-```
+```shell
 $ cp myDirectory1/fichier.txt myDirectory2/
 ```
 Copy many files 
-```
+```shell
 $ cp fichier1.txt fichier2.txt myDirectory/
 ```
 Wildcard
-```
+```shell
 $ cp *.txt myDirectory2/
 $ cp m*.txt myDirectory3/
 ```
 ## Move/Rename
 Move a file 
-```
+```shell
 $ mv myfile.txt myDirectory/
 ```
 Rename a file
-```
+```shell
 $ mv fichier.txt myFile.txt
 ```
 
 ## Remove file/directory
 Remove a file 
-```
+```shell
 $ rm myFile.txt
 ```
 Remove a directory 
-```
+```shell
 $ rm -r myDirectory/
 ```  
 
@@ -84,22 +85,22 @@ $ rm -r myDirectory/
 
 ## Print to terminal
 Print a string
-```
+```shell
 $ echo "Hello"
 >> Hello
 ``` 
 Output content of a file to the terminal 
-```
+```shell
 $ cat  hello.txt
 >> Hello World!
 ``` 
 Redirect to a file 
-```
+```shell
 $ echo "Hello" > myfile.txt
 ``` 
 ## Redirection
 Overwrite a file
-```
+```shell
 $ echo "Hello" > myfile.txt
 $ cat  myfile.txt
 >> Hello
@@ -115,6 +116,6 @@ $ cat file1.txt >> file2.txt
 > OSx : Shift + alt + L
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTI2NjkzOTQsLTQ3ODI5NDg0MywtMT
-MxMTAxODM1Nl19
+eyJoaXN0b3J5IjpbLTEzMjE1MDg5MjAsLTE1NTI2NjkzOTQsLT
+Q3ODI5NDg0MywtMTMxMTAxODM1Nl19
 -->
