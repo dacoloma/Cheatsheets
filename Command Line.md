@@ -108,7 +108,7 @@ $ cat file1.txt > file2.txt
 ``` 
 
 Append stdout to a file
-```
+```shell
 $ cat file1.txt >> file2.txt
 ```  
 
@@ -116,6 +116,6 @@ $ cat file1.txt >> file2.txt
 > OSx : Shift + alt + L
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjE1MDg5MjAsLTE1NTI2NjkzOTQsLT
-Q3ODI5NDg0MywtMTMxMTAxODM1Nl19
+eyJoaXN0b3J5IjpbMTQxNDc4NTc4MiwtMTU1MjY2OTM5NCwtND
+c4Mjk0ODQzLC0xMzExMDE4MzU2XX0=
 -->
