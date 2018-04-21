@@ -1,4 +1,5 @@
 
+
 # Navigation
 ## Change directory
 ```shell
@@ -11,11 +12,11 @@ $ cd ..
 ```shell 
 $ ls
 ```
-Specific directory 
+- Specific directory 
 ```shell 
 $ ls Desktop/
 ```
-With options
+- With options
 ```shell
 $ ls -a
 ```
@@ -23,7 +24,7 @@ $ ls -a
 > -l : list all contents in long format with access rights, last modification date...
 > -t : order by time (last modification date)
 
-Combination of options 
+- Combination of options 
 ```shell
 $ ls -alt
 ```
@@ -42,39 +43,39 @@ $ touch myFile
 $ mkdir myDirectory
 ```
 ## Copy file
-Copy a file in a directory
+- Copy a file in a directory
 ```shell
 $ cp fichier.txt myDirectory/
 ```
-Copy a file from a directory in another directory
+- Copy a file from a directory in another directory
 ```shell
 $ cp myDirectory1/fichier.txt myDirectory2/
 ```
-Copy many files 
+- Copy many files 
 ```shell
 $ cp fichier1.txt fichier2.txt myDirectory/
 ```
-Wildcard
+- Wildcard
 ```shell
 $ cp *.txt myDirectory2/
 $ cp m*.txt myDirectory3/
 ```
 ## Move/Rename
-Move a file 
+- Move a file 
 ```shell
 $ mv myfile.txt myDirectory/
 ```
-Rename a file
+- Rename a file
 ```shell
 $ mv fichier.txt myFile.txt
 ```
 
 ## Remove file/directory
-Remove a file 
+- Remove a file 
 ```shell
 $ rm myFile.txt
 ```
-Remove a directory 
+- Remove a directory 
 ```shell
 $ rm -r myDirectory/
 ```  
@@ -84,22 +85,22 @@ $ rm -r myDirectory/
 # Redirecting Input/Output
 
 ## Print to terminal
-Print a string
+- Print a string
 ```shell
 $ echo "Hello"
 >> Hello
 ``` 
-Output content of a file to the terminal 
+- Output content of a file to the terminal 
 ```shell
 $ cat  hello.txt
 >> Hello World!
 ``` 
-Redirect to a file 
+- Redirect to a file 
 ```shell
 $ echo "Hello" > myfile.txt
 ``` 
 ## Redirection
-Overwrite a file
+- Overwrite a file
 ```shell
 $ echo "Hello" > myfile.txt
 $ cat  myfile.txt
@@ -107,7 +108,7 @@ $ cat  myfile.txt
 $ cat file1.txt > file2.txt
 ``` 
 
-Append stdout to a file
+- Append stdout to a file
 ```shell
 $ cat file1.txt >> file2.txt
 ```  
@@ -117,6 +118,7 @@ Pipe : |
 > OSx : Shift + alt + L
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzI2NTUyNzgsMTQxNDc4NTc4MiwtMT
-U1MjY2OTM5NCwtNDc4Mjk0ODQzLC0xMzExMDE4MzU2XX0=
+eyJoaXN0b3J5IjpbLTIwNTA3MDAzMTAsLTEwNzI2NTUyNzgsMT
+QxNDc4NTc4MiwtMTU1MjY2OTM5NCwtNDc4Mjk0ODQzLC0xMzEx
+MDE4MzU2XX0=
 -->
