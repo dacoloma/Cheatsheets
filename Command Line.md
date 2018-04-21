@@ -7,7 +7,7 @@ $ cd Desktop/
 $ cd ..
 ```
 ## List files 
-Current directory
+- Current directory
 ```shell 
 $ ls
 ```
@@ -117,6 +117,6 @@ Pipe : |
 > OSx : Shift + alt + L
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5NDE2NDI5MywxNDE0Nzg1NzgyLC0xNT
-UyNjY5Mzk0LC00NzgyOTQ4NDMsLTEzMTEwMTgzNTZdfQ==
+eyJoaXN0b3J5IjpbLTEwNzI2NTUyNzgsMTQxNDc4NTc4MiwtMT
+U1MjY2OTM5NCwtNDc4Mjk0ODQzLC0xMzExMDE4MzU2XX0=
 -->
