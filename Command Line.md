@@ -120,10 +120,14 @@ $ cat file1.txt >> file2.txt
 
 - Pipe : | (OSx : Shift + alt + L)
 > "command to command" redirection.
- 
+```shell
+$ cat hello.txt | wc
+
+```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTI3NjYzODQsMTk1NjYzMzk2Nyw1OT
-k5NzQ4MTgsLTEwNzI2NTUyNzgsMTQxNDc4NTc4MiwtMTU1MjY2
-OTM5NCwtNDc4Mjk0ODQzLC0xMzExMDE4MzU2XX0=
+eyJoaXN0b3J5IjpbLTE0OTEwMDA3NDQsLTEzMTI3NjYzODQsMT
+k1NjYzMzk2Nyw1OTk5NzQ4MTgsLTEwNzI2NTUyNzgsMTQxNDc4
+NTc4MiwtMTU1MjY2OTM5NCwtNDc4Mjk0ODQzLC0xMzExMDE4Mz
+U2XX0=
 -->
