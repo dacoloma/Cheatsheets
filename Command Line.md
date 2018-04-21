@@ -63,7 +63,7 @@ $ cp m*.txt myDirectory3/
 ## Word counting
 ```shell
 $ wc hello.txt
->> 
+>>      1     1     6 hello.txt
 ```
 ## Move/Rename
 - Move a file 
@@ -123,7 +123,7 @@ $ cat file1.txt >> file2.txt
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTUzNjAwMDM2LDE5NTY2MzM5NjcsNTk5OT
-c0ODE4LC0xMDcyNjU1Mjc4LDE0MTQ3ODU3ODIsLTE1NTI2Njkz
-OTQsLTQ3ODI5NDg0MywtMTMxMTAxODM1Nl19
+eyJoaXN0b3J5IjpbLTEzMTI3NjYzODQsMTk1NjYzMzk2Nyw1OT
+k5NzQ4MTgsLTEwNzI2NTUyNzgsMTQxNDc4NTc4MiwtMTU1MjY2
+OTM5NCwtNDc4Mjk0ODQzLC0xMzExMDE4MzU2XX0=
 -->
