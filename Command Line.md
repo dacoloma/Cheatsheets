@@ -113,13 +113,13 @@ $ cat file1.txt > file2.txt
 $ cat file1.txt >> file2.txt
 ```  
 
-- Pipe : | 
+- Pipe : | (OSx : Shift + alt + L)
 
-Takes the standard output of the command on the left, and _pipes_ it as standard input to the command on the right. You can think of this as "command to command" redirection.
-> OSx : Shift + alt + L
+ "command to command" redirection.
+> 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk5OTc0ODE4LC0xMDcyNjU1Mjc4LDE0MT
-Q3ODU3ODIsLTE1NTI2NjkzOTQsLTQ3ODI5NDg0MywtMTMxMTAx
-ODM1Nl19
+eyJoaXN0b3J5IjpbMTcwODI4NDcwNyw1OTk5NzQ4MTgsLTEwNz
+I2NTUyNzgsMTQxNDc4NTc4MiwtMTU1MjY2OTM5NCwtNDc4Mjk0
+ODQzLC0xMzExMDE4MzU2XX0=
 -->
