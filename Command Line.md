@@ -60,6 +60,8 @@ $ cp fichier1.txt fichier2.txt myDirectory/
 $ cp *.txt myDirectory2/
 $ cp m*.txt myDirectory3/
 ```
+## Word counting
+
 ## Move/Rename
 - Move a file 
 ```shell
@@ -118,7 +120,7 @@ $ cat file1.txt >> file2.txt
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1NjYzMzk2Nyw1OTk5NzQ4MTgsLTEwNz
-I2NTUyNzgsMTQxNDc4NTc4MiwtMTU1MjY2OTM5NCwtNDc4Mjk0
-ODQzLC0xMzExMDE4MzU2XX0=
+eyJoaXN0b3J5IjpbLTg5ODYwNDc5OCwxOTU2NjMzOTY3LDU5OT
+k3NDgxOCwtMTA3MjY1NTI3OCwxNDE0Nzg1NzgyLC0xNTUyNjY5
+Mzk0LC00NzgyOTQ4NDMsLTEzMTEwMTgzNTZdfQ==
 -->
