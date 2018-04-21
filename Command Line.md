@@ -65,6 +65,7 @@ $ cp m*.txt myDirectory3/
 $ wc hello.txt
 >>      1     1     6 hello.txt
 ```
+> Return the number of lines, words, and characters
 ## Move/Rename
 - Move a file 
 ```shell
@@ -126,8 +127,8 @@ $ cat hello.txt | wc
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTEwMDA3NDQsLTEzMTI3NjYzODQsMT
-k1NjYzMzk2Nyw1OTk5NzQ4MTgsLTEwNzI2NTUyNzgsMTQxNDc4
-NTc4MiwtMTU1MjY2OTM5NCwtNDc4Mjk0ODQzLC0xMzExMDE4Mz
-U2XX0=
+eyJoaXN0b3J5IjpbMjAzMDc0MDU5MCwtMTMxMjc2NjM4NCwxOT
+U2NjMzOTY3LDU5OTk3NDgxOCwtMTA3MjY1NTI3OCwxNDE0Nzg1
+NzgyLC0xNTUyNjY5Mzk0LC00NzgyOTQ4NDMsLTEzMTEwMTgzNT
+ZdfQ==
 -->
