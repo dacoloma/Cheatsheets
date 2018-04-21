@@ -113,12 +113,12 @@ $ cat file1.txt > file2.txt
 $ cat file1.txt >> file2.txt
 ```  
 
-Pipe : | 
-
+- Pipe : | 
+`|` is a "pipe". The `|` takes the standard output of the command on the left, and _pipes_ it as standard input to the command on the right. You can think of this as "command to command" redirection.
 > OSx : Shift + alt + L
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTA3MDAzMTAsLTEwNzI2NTUyNzgsMT
+eyJoaXN0b3J5IjpbLTE0NDMwMzYwMTIsLTEwNzI2NTUyNzgsMT
 QxNDc4NTc4MiwtMTU1MjY2OTM5NCwtNDc4Mjk0ODQzLC0xMzEx
 MDE4MzU2XX0=
 -->
