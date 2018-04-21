@@ -114,12 +114,11 @@ $ cat file1.txt >> file2.txt
 ```  
 
 - Pipe : | (OSx : Shift + alt + L)
-
- "command to command" redirection.
-> 
+> "command to command" redirection.
+ 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwODI4NDcwNyw1OTk5NzQ4MTgsLTEwNz
+eyJoaXN0b3J5IjpbMTk1NjYzMzk2Nyw1OTk5NzQ4MTgsLTEwNz
 I2NTUyNzgsMTQxNDc4NTc4MiwtMTU1MjY2OTM5NCwtNDc4Mjk0
 ODQzLC0xMzExMDE4MzU2XX0=
 -->
