@@ -123,11 +123,12 @@ $ cat file1.txt >> file2.txt
 > "command to command" redirection.
 ```shell
 $ cat hello.txt | wc
-
+>>      1     1     6 
 ```
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzMDc0MDU5MCwtMTMxMjc2NjM4NCwxOT
+eyJoaXN0b3J5IjpbLTk4MjgxNzA1MiwtMTMxMjc2NjM4NCwxOT
 U2NjMzOTY3LDU5OTk3NDgxOCwtMTA3MjY1NTI3OCwxNDE0Nzg1
 NzgyLC0xNTUyNjY5Mzk0LC00NzgyOTQ4NDMsLTEzMTEwMTgzNT
 ZdfQ==
