@@ -138,12 +138,14 @@ $ sort MyFileToSort.txt
 $ uniq list.txt
 ```
 - Grep : Global regular expression print
-> Search 
+> Searches files for lines that match a pattern 
 ```shell
-
+```
+grep Mount mountains.txt
+```
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwNjcyMjg0MiwyMTQwNjkwODE4LC0xNj
+eyJoaXN0b3J5IjpbMjEyNjAxMDIzNSwyMTQwNjkwODE4LC0xNj
 c1MjE4NTYyLDEwMzg1OTYxNywtOTgyODE3MDUyLC0xMzEyNzY2
 Mzg0LDE5NTY2MzM5NjcsNTk5OTc0ODE4LC0xMDcyNjU1Mjc4LD
 E0MTQ3ODU3ODIsLTE1NTI2NjkzOTQsLTQ3ODI5NDg0MywtMTMx
