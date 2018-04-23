@@ -94,6 +94,7 @@ $ sort MyFileToSort.txt
 ## Filter
 - Print unique elements in a list 
 ```shell
+$ uniq list.txt
 
 # Redirecting Input/Output
 
@@ -138,8 +139,8 @@ $ cat ListOfWords.txt | sort > SortedList.txt
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyNTA1NDM5MSwxMDM4NTk2MTcsLTk4Mj
-gxNzA1MiwtMTMxMjc2NjM4NCwxOTU2NjMzOTY3LDU5OTk3NDgx
-OCwtMTA3MjY1NTI3OCwxNDE0Nzg1NzgyLC0xNTUyNjY5Mzk0LC
-00NzgyOTQ4NDMsLTEzMTEwMTgzNTZdfQ==
+eyJoaXN0b3J5IjpbLTE2NzUyMTg1NjIsMTAzODU5NjE3LC05OD
+I4MTcwNTIsLTEzMTI3NjYzODQsMTk1NjYzMzk2Nyw1OTk5NzQ4
+MTgsLTEwNzI2NTUyNzgsMTQxNDc4NTc4MiwtMTU1MjY2OTM5NC
+wtNDc4Mjk0ODQzLC0xMzExMDE4MzU2XX0=
 -->
