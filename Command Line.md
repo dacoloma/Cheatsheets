@@ -149,12 +149,13 @@ $ grep -rl Mount my_directory/
 > -r : return all the filenames with lines that match the pattern (even in subdirectories)
 > -l : return list of filename that match the pattern
 
+Sed : Stream editor
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3OTQ0NTUwNSwyMTIwMjg1MTIwLC0xNj
-EyNDg5MjYyLDE1NTUzNDgwMzgsNzA0NzQ1MjgxLDIxNDA2OTA4
-MTgsLTE2NzUyMTg1NjIsMTAzODU5NjE3LC05ODI4MTcwNTIsLT
-EzMTI3NjYzODQsMTk1NjYzMzk2Nyw1OTk5NzQ4MTgsLTEwNzI2
-NTUyNzgsMTQxNDc4NTc4MiwtMTU1MjY2OTM5NCwtNDc4Mjk0OD
-QzLC0xMzExMDE4MzU2XX0=
+eyJoaXN0b3J5IjpbLTY1MzMxNTA5NiwxNzc5NDQ1NTA1LDIxMj
+AyODUxMjAsLTE2MTI0ODkyNjIsMTU1NTM0ODAzOCw3MDQ3NDUy
+ODEsMjE0MDY5MDgxOCwtMTY3NTIxODU2MiwxMDM4NTk2MTcsLT
+k4MjgxNzA1MiwtMTMxMjc2NjM4NCwxOTU2NjMzOTY3LDU5OTk3
+NDgxOCwtMTA3MjY1NTI3OCwxNDE0Nzg1NzgyLC0xNTUyNjY5Mz
+k0LC00NzgyOTQ4NDMsLTEzMTEwMTgzNTZdfQ==
 -->
