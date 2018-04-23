@@ -149,14 +149,19 @@ $ grep -rl Mount my_directory/
 > -r : return all the filenames with lines that match the pattern (even in subdirectories)
 > -l : return list of filename that match the pattern
 
-Sed : Stream editor ('find and replace)
+Sed : Stream editor ('find and replace')
+```
+$ sed 's/snow/rain/' forests.txt
+$ sed 's/snow/rain/g' forests.txt
+
+```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTE1OTg3ODIsLTY1MzMxNTA5NiwxNz
-c5NDQ1NTA1LDIxMjAyODUxMjAsLTE2MTI0ODkyNjIsMTU1NTM0
-ODAzOCw3MDQ3NDUyODEsMjE0MDY5MDgxOCwtMTY3NTIxODU2Mi
-wxMDM4NTk2MTcsLTk4MjgxNzA1MiwtMTMxMjc2NjM4NCwxOTU2
-NjMzOTY3LDU5OTk3NDgxOCwtMTA3MjY1NTI3OCwxNDE0Nzg1Nz
-gyLC0xNTUyNjY5Mzk0LC00NzgyOTQ4NDMsLTEzMTEwMTgzNTZd
-fQ==
+eyJoaXN0b3J5IjpbNjE0MjgzODgwLC02NTMzMTUwOTYsMTc3OT
+Q0NTUwNSwyMTIwMjg1MTIwLC0xNjEyNDg5MjYyLDE1NTUzNDgw
+MzgsNzA0NzQ1MjgxLDIxNDA2OTA4MTgsLTE2NzUyMTg1NjIsMT
+AzODU5NjE3LC05ODI4MTcwNTIsLTEzMTI3NjYzODQsMTk1NjYz
+Mzk2Nyw1OTk5NzQ4MTgsLTEwNzI2NTUyNzgsMTQxNDc4NTc4Mi
+wtMTU1MjY2OTM5NCwtNDc4Mjk0ODQzLC0xMzExMDE4MzU2XX0=
+
 -->
