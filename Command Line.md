@@ -139,15 +139,16 @@ $ uniq list.txt
 ```
 ## Search
 Grep : Global regular expression print
+- Searches 
 ```shell
 $ grep Mount mountains.txt
 $ grep -i Mount mountains.txt
 ```
 > -i : case insensitive 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1NTM0ODAzOCw3MDQ3NDUyODEsMjE0MD
-Y5MDgxOCwtMTY3NTIxODU2MiwxMDM4NTk2MTcsLTk4MjgxNzA1
-MiwtMTMxMjc2NjM4NCwxOTU2NjMzOTY3LDU5OTk3NDgxOCwtMT
-A3MjY1NTI3OCwxNDE0Nzg1NzgyLC0xNTUyNjY5Mzk0LC00Nzgy
-OTQ4NDMsLTEzMTEwMTgzNTZdfQ==
+eyJoaXN0b3J5IjpbMjA4Njc3MzM0MywxNTU1MzQ4MDM4LDcwND
+c0NTI4MSwyMTQwNjkwODE4LC0xNjc1MjE4NTYyLDEwMzg1OTYx
+NywtOTgyODE3MDUyLC0xMzEyNzY2Mzg0LDE5NTY2MzM5NjcsNT
+k5OTc0ODE4LC0xMDcyNjU1Mjc4LDE0MTQ3ODU3ODIsLTE1NTI2
+NjkzOTQsLTQ3ODI5NDg0MywtMTMxMTAxODM1Nl19
 -->
