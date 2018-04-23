@@ -139,14 +139,14 @@ $ uniq list.txt
 ```
 ## Search
 Grep : Global regular expression print
-- Searches 
+- Search for lines of a file matching a pattern
 ```shell
 $ grep Mount mountains.txt
 $ grep -i Mount mountains.txt
 ```
 > -i : case insensitive 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4Njc3MzM0MywxNTU1MzQ4MDM4LDcwND
+eyJoaXN0b3J5IjpbLTE5NzEzNTUwNSwxNTU1MzQ4MDM4LDcwND
 c0NTI4MSwyMTQwNjkwODE4LC0xNjc1MjE4NTYyLDEwMzg1OTYx
 NywtOTgyODE3MDUyLC0xMzEyNzY2Mzg0LDE5NTY2MzM5NjcsNT
 k5OTc0ODE4LC0xMDcyNjU1Mjc4LDE0MTQ3ODU3ODIsLTE1NTI2
