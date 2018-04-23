@@ -140,14 +140,14 @@ $ uniq list.txt
 - Grep : Global regular expression print
 > Searches files for lines that match a pattern 
 ```shell
+$ grep Mount mountains.txt
+$ grep -i Mount mountains.txt
 ```
-grep Mount mountains.txt
-```
-```
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyNjAxMDIzNSwyMTQwNjkwODE4LC0xNj
-c1MjE4NTYyLDEwMzg1OTYxNywtOTgyODE3MDUyLC0xMzEyNzY2
-Mzg0LDE5NTY2MzM5NjcsNTk5OTc0ODE4LC0xMDcyNjU1Mjc4LD
-E0MTQ3ODU3ODIsLTE1NTI2NjkzOTQsLTQ3ODI5NDg0MywtMTMx
-MTAxODM1Nl19
+eyJoaXN0b3J5IjpbLTE3MzQ2Mzc5NjIsMjE0MDY5MDgxOCwtMT
+Y3NTIxODU2MiwxMDM4NTk2MTcsLTk4MjgxNzA1MiwtMTMxMjc2
+NjM4NCwxOTU2NjMzOTY3LDU5OTk3NDgxOCwtMTA3MjY1NTI3OC
+wxNDE0Nzg1NzgyLC0xNTUyNjY5Mzk0LC00NzgyOTQ4NDMsLTEz
+MTEwMTgzNTZdfQ==
 -->
