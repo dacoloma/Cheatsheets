@@ -109,7 +109,7 @@ $ cat  hello.txt
 $ echo "Hello" > myfile.txt
 ``` 
 ## Redirection
-- Overwrite a file
+- Create/Overwrite a file
 ```shell
 $ echo "Hello" > myfile.txt
 $ cat  myfile.txt
@@ -127,12 +127,12 @@ $ cat file1.txt >> file2.txt
 ```shell
 $ cat hello.txt | wc
 >>      1     1     6 
-$ cat ListOfWords.txt | sort > SortedList.txt
 ```
-
+- Combination
+- 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3MTgwNDc3NiwtOTgyODE3MDUyLC0xMz
+eyJoaXN0b3J5IjpbMTQyODM1OTQ3MywtOTgyODE3MDUyLC0xMz
 EyNzY2Mzg0LDE5NTY2MzM5NjcsNTk5OTc0ODE4LC0xMDcyNjU1
 Mjc4LDE0MTQ3ODU3ODIsLTE1NTI2NjkzOTQsLTQ3ODI5NDg0My
 wtMTMxMTAxODM1Nl19
