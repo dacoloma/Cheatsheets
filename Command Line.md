@@ -137,11 +137,11 @@ $ cat hello.txt | wc
 ```shell
 $ cat ListOfWords.txt | sort > SortedList.txt
 ```
-
+global regular expression print
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0MDY5MDgxOCwtMTY3NTIxODU2MiwxMD
-M4NTk2MTcsLTk4MjgxNzA1MiwtMTMxMjc2NjM4NCwxOTU2NjMz
-OTY3LDU5OTk3NDgxOCwtMTA3MjY1NTI3OCwxNDE0Nzg1NzgyLC
-0xNTUyNjY5Mzk0LC00NzgyOTQ4NDMsLTEzMTEwMTgzNTZdfQ==
-
+eyJoaXN0b3J5IjpbMjIxMzE5NjI4LDIxNDA2OTA4MTgsLTE2Nz
+UyMTg1NjIsMTAzODU5NjE3LC05ODI4MTcwNTIsLTEzMTI3NjYz
+ODQsMTk1NjYzMzk2Nyw1OTk5NzQ4MTgsLTEwNzI2NTUyNzgsMT
+QxNDc4NTc4MiwtMTU1MjY2OTM5NCwtNDc4Mjk0ODQzLC0xMzEx
+MDE4MzU2XX0=
 -->
