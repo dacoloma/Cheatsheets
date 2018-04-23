@@ -149,13 +149,14 @@ $ grep -rl Mount my_directory/
 > -r : return all the filenames with lines that match the pattern (even in subdirectories)
 > -l : return list of filename that match the pattern
 
-Sed : Stream editor
+Sed : Stream editor ('find and replace)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1MzMxNTA5NiwxNzc5NDQ1NTA1LDIxMj
-AyODUxMjAsLTE2MTI0ODkyNjIsMTU1NTM0ODAzOCw3MDQ3NDUy
-ODEsMjE0MDY5MDgxOCwtMTY3NTIxODU2MiwxMDM4NTk2MTcsLT
-k4MjgxNzA1MiwtMTMxMjc2NjM4NCwxOTU2NjMzOTY3LDU5OTk3
-NDgxOCwtMTA3MjY1NTI3OCwxNDE0Nzg1NzgyLC0xNTUyNjY5Mz
-k0LC00NzgyOTQ4NDMsLTEzMTEwMTgzNTZdfQ==
+eyJoaXN0b3J5IjpbLTE3NTE1OTg3ODIsLTY1MzMxNTA5NiwxNz
+c5NDQ1NTA1LDIxMjAyODUxMjAsLTE2MTI0ODkyNjIsMTU1NTM0
+ODAzOCw3MDQ3NDUyODEsMjE0MDY5MDgxOCwtMTY3NTIxODU2Mi
+wxMDM4NTk2MTcsLTk4MjgxNzA1MiwtMTMxMjc2NjM4NCwxOTU2
+NjMzOTY3LDU5OTk3NDgxOCwtMTA3MjY1NTI3OCwxNDE0Nzg1Nz
+gyLC0xNTUyNjY5Mzk0LC00NzgyOTQ4NDMsLTEzMTEwMTgzNTZd
+fQ==
 -->
