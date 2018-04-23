@@ -145,11 +145,11 @@ $ grep Mount mountains.txt
 $ grep -i Mount mountains.txt
 ```
 > -i : case insensitive 
-- Search all files in a directory that match and return the filename and lines
+- Search all files in a directory that match and output the filename and lines
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1NjE0MzM1LDE1NTUzNDgwMzgsNzA0Nz
-Q1MjgxLDIxNDA2OTA4MTgsLTE2NzUyMTg1NjIsMTAzODU5NjE3
-LC05ODI4MTcwNTIsLTEzMTI3NjYzODQsMTk1NjYzMzk2Nyw1OT
-k5NzQ4MTgsLTEwNzI2NTUyNzgsMTQxNDc4NTc4MiwtMTU1MjY2
-OTM5NCwtNDc4Mjk0ODQzLC0xMzExMDE4MzU2XX0=
+eyJoaXN0b3J5IjpbLTE2MTI0ODkyNjIsMTU1NTM0ODAzOCw3MD
+Q3NDUyODEsMjE0MDY5MDgxOCwtMTY3NTIxODU2MiwxMDM4NTk2
+MTcsLTk4MjgxNzA1MiwtMTMxMjc2NjM4NCwxOTU2NjMzOTY3LD
+U5OTk3NDgxOCwtMTA3MjY1NTI3OCwxNDE0Nzg1NzgyLC0xNTUy
+NjY5Mzk0LC00NzgyOTQ4NDMsLTEzMTEwMTgzNTZdfQ==
 -->
