@@ -87,15 +87,6 @@ $ rm -r myDirectory/
 ```  
 > Careful when using this command, especially with the options combined -rf
 
-## Sort
-```shell
-$ sort MyFileToSort.txt
-```
-## Filter
-- Print unique elements in a list 
-```shell
-$ uniq list.txt
-```
 # Redirecting Input/Output
 
 ## Print to terminal
@@ -137,9 +128,18 @@ $ cat hello.txt | wc
 ```shell
 $ cat ListOfWords.txt | sort > SortedList.txt
 ```
-global regular expression print
+- Sort
+```shell
+$ sort MyFileToSort.txt
+```
+- Filter
+	>Print unique elements in a list 
+```shell
+$ uniq list.txt
+```
+- Grep : Global regular expression print
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjIxMzE5NjI4LDIxNDA2OTA4MTgsLTE2Nz
+eyJoaXN0b3J5IjpbLTU1NzE0OTkyLDIxNDA2OTA4MTgsLTE2Nz
 UyMTg1NjIsMTAzODU5NjE3LC05ODI4MTcwNTIsLTEzMTI3NjYz
 ODQsMTk1NjYzMzk2Nyw1OTk5NzQ4MTgsLTEwNzI2NTUyNzgsMT
 QxNDc4NTc4MiwtMTU1MjY2OTM5NCwtNDc4Mjk0ODQzLC0xMzEx
