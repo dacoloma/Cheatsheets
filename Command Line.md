@@ -155,18 +155,21 @@ $ sed 's/snow/rain/' forests.txt
 $ sed 's/snow/rain/g' forests.txt
 ```
 # Environment
-Go to ~/.bash_profile
 ## Alias
+Go to ~/.bash_profile and write : 
 ```
 alias myAlias="my_new_shortcut"
 ```
+Save and quit, then type : 
+```shell
+$ source ~/.bash_profile
 ## Environment variable
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4Mzk5MTYwNiwtMTEyMTcyNDIwMiwtNj
-UzMzE1MDk2LDE3Nzk0NDU1MDUsMjEyMDI4NTEyMCwtMTYxMjQ4
-OTI2MiwxNTU1MzQ4MDM4LDcwNDc0NTI4MSwyMTQwNjkwODE4LC
-0xNjc1MjE4NTYyLDEwMzg1OTYxNywtOTgyODE3MDUyLC0xMzEy
-NzY2Mzg0LDE5NTY2MzM5NjcsNTk5OTc0ODE4LC0xMDcyNjU1Mj
-c4LDE0MTQ3ODU3ODIsLTE1NTI2NjkzOTQsLTQ3ODI5NDg0Mywt
-MTMxMTAxODM1Nl19
+eyJoaXN0b3J5IjpbLTIwNDk5NTUzMzYsLTExMjE3MjQyMDIsLT
+Y1MzMxNTA5NiwxNzc5NDQ1NTA1LDIxMjAyODUxMjAsLTE2MTI0
+ODkyNjIsMTU1NTM0ODAzOCw3MDQ3NDUyODEsMjE0MDY5MDgxOC
+wtMTY3NTIxODU2MiwxMDM4NTk2MTcsLTk4MjgxNzA1MiwtMTMx
+Mjc2NjM4NCwxOTU2NjMzOTY3LDU5OTk3NDgxOCwtMTA3MjY1NT
+I3OCwxNDE0Nzg1NzgyLC0xNTUyNjY5Mzk0LC00NzgyOTQ4NDMs
+LTEzMTEwMTgzNTZdfQ==
 -->
