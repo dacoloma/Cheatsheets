@@ -85,9 +85,11 @@ $ rm myFile.txt
 ```shell
 $ rm -r myDirectory/
 ```  
-
 > Careful when using this command, especially with the options combined -rf
 
+## Sort
+```shell
+sort MyFIleToSort.txt
 # Redirecting Input/Output
 
 ## Print to terminal
@@ -128,8 +130,8 @@ $ cat hello.txt | wc
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4MjgxNzA1MiwtMTMxMjc2NjM4NCwxOT
-U2NjMzOTY3LDU5OTk3NDgxOCwtMTA3MjY1NTI3OCwxNDE0Nzg1
-NzgyLC0xNTUyNjY5Mzk0LC00NzgyOTQ4NDMsLTEzMTEwMTgzNT
-ZdfQ==
+eyJoaXN0b3J5IjpbLTc1ODU1NjIyOSwtOTgyODE3MDUyLC0xMz
+EyNzY2Mzg0LDE5NTY2MzM5NjcsNTk5OTc0ODE4LC0xMDcyNjU1
+Mjc4LDE0MTQ3ODU3ODIsLTE1NTI2NjkzOTQsLTQ3ODI5NDg0My
+wtMTMxMTAxODM1Nl19
 -->
