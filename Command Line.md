@@ -129,11 +129,13 @@ $ cat hello.txt | wc
 >>      1     1     6 
 ```
 - Combination
-- 
+```shell
+$ cat ListOfWords.txt | sort > SortedList.txt
+```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyODM1OTQ3MywtOTgyODE3MDUyLC0xMz
-EyNzY2Mzg0LDE5NTY2MzM5NjcsNTk5OTc0ODE4LC0xMDcyNjU1
-Mjc4LDE0MTQ3ODU3ODIsLTE1NTI2NjkzOTQsLTQ3ODI5NDg0My
-wtMTMxMTAxODM1Nl19
+eyJoaXN0b3J5IjpbMTAzODU5NjE3LC05ODI4MTcwNTIsLTEzMT
+I3NjYzODQsMTk1NjYzMzk2Nyw1OTk5NzQ4MTgsLTEwNzI2NTUy
+NzgsMTQxNDc4NTc4MiwtMTU1MjY2OTM5NCwtNDc4Mjk0ODQzLC
+0xMzExMDE4MzU2XX0=
 -->
