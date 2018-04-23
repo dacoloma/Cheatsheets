@@ -155,12 +155,14 @@ $ sed 's/snow/rain/' forests.txt
 $ sed 's/snow/rain/g' forests.txt
 ```
 # Environment
-Go to 
+Go to ~/.bash_profile
 ## Alias
-
+```
+alias myAlias="my_new_shortcut"
+```
 ## Environment variable
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyNzgzMjcxMiwtMTEyMTcyNDIwMiwtNj
+eyJoaXN0b3J5IjpbMTI4Mzk5MTYwNiwtMTEyMTcyNDIwMiwtNj
 UzMzE1MDk2LDE3Nzk0NDU1MDUsMjEyMDI4NTEyMCwtMTYxMjQ4
 OTI2MiwxNTU1MzQ4MDM4LDcwNDc0NTI4MSwyMTQwNjkwODE4LC
 0xNjc1MjE4NTYyLDEwMzg1OTYxNywtOTgyODE3MDUyLC0xMzEy
