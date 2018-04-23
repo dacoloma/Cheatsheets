@@ -143,13 +143,15 @@ Grep : Global regular expression print
 ```shell
 $ grep Mount mountains.txt
 $ grep -i Mount mountains.txt
+$ grep -rl 
 ```
 > -i : case insensitive 
-- Search all files in a directory that match and output the filename and lines
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTI0ODkyNjIsMTU1NTM0ODAzOCw3MD
-Q3NDUyODEsMjE0MDY5MDgxOCwtMTY3NTIxODU2MiwxMDM4NTk2
-MTcsLTk4MjgxNzA1MiwtMTMxMjc2NjM4NCwxOTU2NjMzOTY3LD
-U5OTk3NDgxOCwtMTA3MjY1NTI3OCwxNDE0Nzg1NzgyLC0xNTUy
-NjY5Mzk0LC00NzgyOTQ4NDMsLTEzMTEwMTgzNTZdfQ==
+eyJoaXN0b3J5IjpbLTExMDE0Mzg0NzMsLTE2MTI0ODkyNjIsMT
+U1NTM0ODAzOCw3MDQ3NDUyODEsMjE0MDY5MDgxOCwtMTY3NTIx
+ODU2MiwxMDM4NTk2MTcsLTk4MjgxNzA1MiwtMTMxMjc2NjM4NC
+wxOTU2NjMzOTY3LDU5OTk3NDgxOCwtMTA3MjY1NTI3OCwxNDE0
+Nzg1NzgyLC0xNTUyNjY5Mzk0LC00NzgyOTQ4NDMsLTEzMTEwMT
+gzNTZdfQ==
 -->
