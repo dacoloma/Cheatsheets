@@ -91,7 +91,10 @@ $ rm -r myDirectory/
 ```shell
 $ sort MyFileToSort.txt
 ```
-## Uniq
+## Filter
+- Print unique elements in a list 
+```shell
+
 # Redirecting Input/Output
 
 ## Print to terminal
@@ -135,7 +138,7 @@ $ cat ListOfWords.txt | sort > SortedList.txt
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0OTQ5NzIzMCwxMDM4NTk2MTcsLTk4Mj
+eyJoaXN0b3J5IjpbMTEyNTA1NDM5MSwxMDM4NTk2MTcsLTk4Mj
 gxNzA1MiwtMTMxMjc2NjM4NCwxOTU2NjMzOTY3LDU5OTk3NDgx
 OCwtMTA3MjY1NTI3OCwxNDE0Nzg1NzgyLC0xNTUyNjY5Mzk0LC
 00NzgyOTQ4NDMsLTEzMTEwMTgzNTZdfQ==
