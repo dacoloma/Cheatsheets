@@ -142,9 +142,9 @@ $ uniq list.txt
 $ grep Mount mountains.txt
 $ grep -i Mount mountains.txt
 ```
-> -i :  
+> -i : case insensitive 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE4MjU5NDI0LDIxNDA2OTA4MTgsLTE2Nz
+eyJoaXN0b3J5IjpbNzA0NzQ1MjgxLDIxNDA2OTA4MTgsLTE2Nz
 UyMTg1NjIsMTAzODU5NjE3LC05ODI4MTcwNTIsLTEzMTI3NjYz
 ODQsMTk1NjYzMzk2Nyw1OTk5NzQ4MTgsLTEwNzI2NTUyNzgsMT
 QxNDc4NTc4MiwtMTU1MjY2OTM5NCwtNDc4Mjk0ODQzLC0xMzEx
