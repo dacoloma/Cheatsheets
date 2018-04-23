@@ -89,7 +89,8 @@ $ rm -r myDirectory/
 
 ## Sort
 ```shell
-sort MyFIleToSort.txt
+$ sort MyFileToSort.txt
+```
 # Redirecting Input/Output
 
 ## Print to terminal
@@ -126,11 +127,12 @@ $ cat file1.txt >> file2.txt
 ```shell
 $ cat hello.txt | wc
 >>      1     1     6 
+$ cat ListOfWords.txt |
 ```
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1ODU1NjIyOSwtOTgyODE3MDUyLC0xMz
+eyJoaXN0b3J5IjpbMTQ5Nzk0Mzg2MywtOTgyODE3MDUyLC0xMz
 EyNzY2Mzg0LDE5NTY2MzM5NjcsNTk5OTc0ODE4LC0xMDcyNjU1
 Mjc4LDE0MTQ3ODU3ODIsLTE1NTI2NjkzOTQsLTQ3ODI5NDg0My
 wtMTMxMTAxODM1Nl19
