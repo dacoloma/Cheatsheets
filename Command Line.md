@@ -146,13 +146,14 @@ $ grep -i Mount mountains.txt
 $ grep -rl Mount my_directory/
 ```
 > -i : case insensitive 
-> -r : return all the filenames
+> -r : return all the filenames with lines that match the pattern
+> 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTU0MTE3MTYsLTE2MTI0ODkyNjIsMT
-U1NTM0ODAzOCw3MDQ3NDUyODEsMjE0MDY5MDgxOCwtMTY3NTIx
-ODU2MiwxMDM4NTk2MTcsLTk4MjgxNzA1MiwtMTMxMjc2NjM4NC
-wxOTU2NjMzOTY3LDU5OTk3NDgxOCwtMTA3MjY1NTI3OCwxNDE0
-Nzg1NzgyLC0xNTUyNjY5Mzk0LC00NzgyOTQ4NDMsLTEzMTEwMT
-gzNTZdfQ==
+eyJoaXN0b3J5IjpbMjEyMDI4NTEyMCwtMTYxMjQ4OTI2MiwxNT
+U1MzQ4MDM4LDcwNDc0NTI4MSwyMTQwNjkwODE4LC0xNjc1MjE4
+NTYyLDEwMzg1OTYxNywtOTgyODE3MDUyLC0xMzEyNzY2Mzg0LD
+E5NTY2MzM5NjcsNTk5OTc0ODE4LC0xMDcyNjU1Mjc4LDE0MTQ3
+ODU3ODIsLTE1NTI2NjkzOTQsLTQ3ODI5NDg0MywtMTMxMTAxOD
+M1Nl19
 -->
