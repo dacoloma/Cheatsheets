@@ -137,16 +137,17 @@ $ sort MyFileToSort.txt
 ```shell
 $ uniq list.txt
 ```
-- Grep : Searches files for lines that match a pattern 
+## Search
+Grep : Searches files for lines that match a pattern 
 ```shell
 $ grep Mount mountains.txt
 $ grep -i Mount mountains.txt
 ```
 > -i : case insensitive 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA0NzQ1MjgxLDIxNDA2OTA4MTgsLTE2Nz
-UyMTg1NjIsMTAzODU5NjE3LC05ODI4MTcwNTIsLTEzMTI3NjYz
-ODQsMTk1NjYzMzk2Nyw1OTk5NzQ4MTgsLTEwNzI2NTUyNzgsMT
-QxNDc4NTc4MiwtMTU1MjY2OTM5NCwtNDc4Mjk0ODQzLC0xMzEx
-MDE4MzU2XX0=
+eyJoaXN0b3J5IjpbLTEzNzQ4OTYyNTAsNzA0NzQ1MjgxLDIxND
+A2OTA4MTgsLTE2NzUyMTg1NjIsMTAzODU5NjE3LC05ODI4MTcw
+NTIsLTEzMTI3NjYzODQsMTk1NjYzMzk2Nyw1OTk5NzQ4MTgsLT
+EwNzI2NTUyNzgsMTQxNDc4NTc4MiwtMTU1MjY2OTM5NCwtNDc4
+Mjk0ODQzLC0xMzExMDE4MzU2XX0=
 -->
