@@ -33,7 +33,7 @@ $ ls -alt
 $ pwd
 ```
 
-# Manipulating files
+# Manipulating files/directories
 ## Create file
 ```shell
 $ touch myFile
@@ -91,6 +91,7 @@ $ rm -r myDirectory/
 ```shell
 $ sort MyFileToSort.txt
 ```
+## Uniq
 # Redirecting Input/Output
 
 ## Print to terminal
@@ -134,8 +135,8 @@ $ cat ListOfWords.txt | sort > SortedList.txt
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzODU5NjE3LC05ODI4MTcwNTIsLTEzMT
-I3NjYzODQsMTk1NjYzMzk2Nyw1OTk5NzQ4MTgsLTEwNzI2NTUy
-NzgsMTQxNDc4NTc4MiwtMTU1MjY2OTM5NCwtNDc4Mjk0ODQzLC
-0xMzExMDE4MzU2XX0=
+eyJoaXN0b3J5IjpbLTQ0OTQ5NzIzMCwxMDM4NTk2MTcsLTk4Mj
+gxNzA1MiwtMTMxMjc2NjM4NCwxOTU2NjMzOTY3LDU5OTk3NDgx
+OCwtMTA3MjY1NTI3OCwxNDE0Nzg1NzgyLC0xNTUyNjY5Mzk0LC
+00NzgyOTQ4NDMsLTEzMTEwMTgzNTZdfQ==
 -->
