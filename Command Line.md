@@ -163,13 +163,23 @@ alias myAlias="my_new_shortcut"
 Save and quit, then type : 
 ```shell
 $ source ~/.bash_profile
+```
 ## Environment variable
+Go to ~/.bash_profile and write : 
+```
+export USER="Jane Doe"
+```
+Save and quit, then type : 
+```shell
+$ source ~/.bash_profile
+```
+To check, 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDk5NTUzMzYsLTExMjE3MjQyMDIsLT
-Y1MzMxNTA5NiwxNzc5NDQ1NTA1LDIxMjAyODUxMjAsLTE2MTI0
-ODkyNjIsMTU1NTM0ODAzOCw3MDQ3NDUyODEsMjE0MDY5MDgxOC
-wtMTY3NTIxODU2MiwxMDM4NTk2MTcsLTk4MjgxNzA1MiwtMTMx
-Mjc2NjM4NCwxOTU2NjMzOTY3LDU5OTk3NDgxOCwtMTA3MjY1NT
-I3OCwxNDE0Nzg1NzgyLC0xNTUyNjY5Mzk0LC00NzgyOTQ4NDMs
-LTEzMTEwMTgzNTZdfQ==
+eyJoaXN0b3J5IjpbMjU5MzkxMDE3LC0xMTIxNzI0MjAyLC02NT
+MzMTUwOTYsMTc3OTQ0NTUwNSwyMTIwMjg1MTIwLC0xNjEyNDg5
+MjYyLDE1NTUzNDgwMzgsNzA0NzQ1MjgxLDIxNDA2OTA4MTgsLT
+E2NzUyMTg1NjIsMTAzODU5NjE3LC05ODI4MTcwNTIsLTEzMTI3
+NjYzODQsMTk1NjYzMzk2Nyw1OTk5NzQ4MTgsLTEwNzI2NTUyNz
+gsMTQxNDc4NTc4MiwtMTU1MjY2OTM5NCwtNDc4Mjk0ODQzLC0x
+MzExMDE4MzU2XX0=
 -->
