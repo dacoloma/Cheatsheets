@@ -147,10 +147,11 @@ $ grep -rl Mount my_directory/
 ```
 > -i : case insensitive 
 > -r : return all the filenames with lines that match the pattern (even in subdirectories)
-> 
+> -l : return list of filename that match the pattern
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxOTUwMTA4MSwyMTIwMjg1MTIwLC0xNj
+eyJoaXN0b3J5IjpbMTc3OTQ0NTUwNSwyMTIwMjg1MTIwLC0xNj
 EyNDg5MjYyLDE1NTUzNDgwMzgsNzA0NzQ1MjgxLDIxNDA2OTA4
 MTgsLTE2NzUyMTg1NjIsMTAzODU5NjE3LC05ODI4MTcwNTIsLT
 EzMTI3NjYzODQsMTk1NjYzMzk2Nyw1OTk5NzQ4MTgsLTEwNzI2
