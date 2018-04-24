@@ -13,27 +13,13 @@ print "test",x
 ## Comment
 ```python
 # Single line comment
-```
-Item | Value
--------- | -----
-''' 
-Multi
-line 
-comment
-''' | $1600
-Phone | $12
-Pipe | $1
 ''' 
 Multi
 line 
 comment
 '''
-"""
-Multi
-line 
-comment
-"""
 ```
+> 
 ## Function
 ### Anonymous function
 ## Iteration
@@ -49,6 +35,6 @@ comment
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3NTc2OTUzNSwyNzY4NzA1NTIsMzAxNz
+eyJoaXN0b3J5IjpbMTY5MDQ2MzY1NSwyNzY4NzA1NTIsMzAxNz
 g2NTIzXX0=
 -->
