@@ -70,7 +70,7 @@ datetime.now().day
 datetime.now().minute
 # etc.
 ```
-> in python shell IDLE, type `help(datetim
+> in python shell IDLE, type `help(datetime)`for more information
 
 ## Iteration
 ### For-loop
@@ -85,7 +85,7 @@ datetime.now().minute
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjA0NTkxNTEsLTEzODYzMzkyNzUsLT
-IwMzkyODk1MTEsOTc5NTUxODA4LC01NjA4MjEyNDEsMjc2ODcw
-NTUyLDMwMTc4NjUyM119
+eyJoaXN0b3J5IjpbLTExNzE2NzE4OSwtMTM4NjMzOTI3NSwtMj
+AzOTI4OTUxMSw5Nzk1NTE4MDgsLTU2MDgyMTI0MSwyNzY4NzA1
+NTIsMzAxNzg2NTIzXX0=
 -->
