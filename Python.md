@@ -30,7 +30,10 @@ comment
 > Simple quote (') can be replaced by double quotes (")
 
 ## Integer
-### Formatting
+### Convert to string
+```python
+str(2)
+```
 
 ## String
 ### Length
@@ -45,10 +48,8 @@ my_string.lower()
 ```python
 my_string.upper()
 ```
-### Convert to string
-```python
-str(2)
-```
+
+
 
 
 ## Function
@@ -116,9 +117,9 @@ else:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDE2Nzc1MTgsMTYzODUyMDkwLDQyND
-I0MzI2Nyw0NTY4MjQ1ODcsLTM2NjA2NTI1NCwtOTM2NDA1MTUx
-LC0xNTk0MTk1MTQ4LDE3Mzk1ODEyNzAsLTEzODYzMzkyNzUsLT
-IwMzkyODk1MTEsOTc5NTUxODA4LC01NjA4MjEyNDEsMjc2ODcw
-NTUyLDMwMTc4NjUyM119
+eyJoaXN0b3J5IjpbMTc3OTI0MTM3MCwtMjEwMTY3NzUxOCwxNj
+M4NTIwOTAsNDI0MjQzMjY3LDQ1NjgyNDU4NywtMzY2MDY1MjU0
+LC05MzY0MDUxNTEsLTE1OTQxOTUxNDgsMTczOTU4MTI3MCwtMT
+M4NjMzOTI3NSwtMjAzOTI4OTUxMSw5Nzk1NTE4MDgsLTU2MDgy
+MTI0MSwyNzY4NzA1NTIsMzAxNzg2NTIzXX0=
 -->
