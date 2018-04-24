@@ -122,12 +122,16 @@ list[x:y:z]
 > x : start index
 > y : stop index (exclude)
 > z : step (optional)
+
+
 ### Comprehension list
 ## Iteration
 ### For-loop
 Looping a list : `list = [2,5,4,8,5]`
 ```python
 for number in list:
+	# code
+```
 ## Dictionary
 ## Filter
 
@@ -136,10 +140,10 @@ for number in list:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjMyNjE5MTQsMTEyMzQwNzg2MywtOD
-YwODk0OTczLDE3NzkyNDEzNzAsLTIxMDE2Nzc1MTgsMTYzODUy
-MDkwLDQyNDI0MzI2Nyw0NTY4MjQ1ODcsLTM2NjA2NTI1NCwtOT
-M2NDA1MTUxLC0xNTk0MTk1MTQ4LDE3Mzk1ODEyNzAsLTEzODYz
-MzkyNzUsLTIwMzkyODk1MTEsOTc5NTUxODA4LC01NjA4MjEyND
-EsMjc2ODcwNTUyLDMwMTc4NjUyM119
+eyJoaXN0b3J5IjpbLTc2MDkzMTk3OCwxMTIzNDA3ODYzLC04Nj
+A4OTQ5NzMsMTc3OTI0MTM3MCwtMjEwMTY3NzUxOCwxNjM4NTIw
+OTAsNDI0MjQzMjY3LDQ1NjgyNDU4NywtMzY2MDY1MjU0LC05Mz
+Y0MDUxNTEsLTE1OTQxOTUxNDgsMTczOTU4MTI3MCwtMTM4NjMz
+OTI3NSwtMjAzOTI4OTUxMSw5Nzk1NTE4MDgsLTU2MDgyMTI0MS
+wyNzY4NzA1NTIsMzAxNzg2NTIzXX0=
 -->
