@@ -13,9 +13,20 @@ print "test",x
 ## Comment
 ```python
 # Single line comment
-/* Multi
+''' 
+Multi
 line 
-comments*/
+comment
+'''
+|  |  |
+|--|--|
+|  |  |
+
+"""
+Multi
+line 
+comment
+"""
 ```
 ## Function
 ### Anonymous function
@@ -32,5 +43,6 @@ comments*/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc2ODcwNTUyLDMwMTc4NjUyM119
+eyJoaXN0b3J5IjpbLTEyNDc3OTkzMDcsMjc2ODcwNTUyLDMwMT
+c4NjUyM119
 -->
