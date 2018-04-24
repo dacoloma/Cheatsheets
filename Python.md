@@ -9,8 +9,12 @@
 ### Append/Expand
 ### Comprehension list
 ## Dictionnary
+## Filter
+
+# POO
+## Initialize class
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQwMTgzMjM2XX0=
+eyJoaXN0b3J5IjpbMzAxNzg2NTIzXX0=
 -->
