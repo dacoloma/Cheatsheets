@@ -39,7 +39,10 @@ my_string.upper()
 str(2)
 ```
 ### Formatting
-
+```python
+name = "Mike"
+print "Hello %s" % (name)
+```
 ## Function
 ### Define a simple function
 ```python
@@ -60,6 +63,6 @@ def my_function:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwOTQzNDYzNCwtNTYwODIxMjQxLDI3Nj
+eyJoaXN0b3J5IjpbMTI5OTA4MTAwNCwtNTYwODIxMjQxLDI3Nj
 g3MDU1MiwzMDE3ODY1MjNdfQ==
 -->
