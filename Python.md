@@ -20,6 +20,8 @@ comment
 '''
 ```
 > Simple quote (') can be replaced by double quotes (")
+## String
+
 ## Function
 ### Define a simple function
 ```python
@@ -40,6 +42,6 @@ def my_function:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTIyNzA4MTksMjc2ODcwNTUyLDMwMT
-c4NjUyM119
+eyJoaXN0b3J5IjpbMTMxNDE5OTY5NCwyNzY4NzA1NTIsMzAxNz
+g2NTIzXX0=
 -->
