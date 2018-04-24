@@ -104,14 +104,18 @@ elif something_else_true:
 	# code 
 else:
 	# code
+```
 ## Iteration
 ### For-loop
 ## List
 ```python
 list = ['a','b','c']
-
+```
 ### Append/Expand
-
+```python
+list.append('d')
+list.expand('e','f'
+```
 ### Comprehension list
 ## Dictionary
 ## Filter
@@ -121,10 +125,10 @@ list = ['a','b','c']
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyNTU1Mzg5NiwtODYwODk0OTczLDE3Nz
-kyNDEzNzAsLTIxMDE2Nzc1MTgsMTYzODUyMDkwLDQyNDI0MzI2
-Nyw0NTY4MjQ1ODcsLTM2NjA2NTI1NCwtOTM2NDA1MTUxLC0xNT
-k0MTk1MTQ4LDE3Mzk1ODEyNzAsLTEzODYzMzkyNzUsLTIwMzky
-ODk1MTEsOTc5NTUxODA4LC01NjA4MjEyNDEsMjc2ODcwNTUyLD
-MwMTc4NjUyM119
+eyJoaXN0b3J5IjpbLTEwNjk3MjMxNjAsLTg2MDg5NDk3MywxNz
+c5MjQxMzcwLC0yMTAxNjc3NTE4LDE2Mzg1MjA5MCw0MjQyNDMy
+NjcsNDU2ODI0NTg3LC0zNjYwNjUyNTQsLTkzNjQwNTE1MSwtMT
+U5NDE5NTE0OCwxNzM5NTgxMjcwLC0xMzg2MzM5Mjc1LC0yMDM5
+Mjg5NTExLDk3OTU1MTgwOCwtNTYwODIxMjQxLDI3Njg3MDU1Mi
+wzMDE3ODY1MjNdfQ==
 -->
