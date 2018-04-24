@@ -23,7 +23,8 @@ comment
 ## Function
 ### Define a simple function
 ```python
-def my_function
+def my_function:
+# code
 ```
 ### Anonymous function
 ## Iteration
@@ -39,6 +40,6 @@ def my_function
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzg1NDY2MjcsMjc2ODcwNTUyLDMwMT
+eyJoaXN0b3J5IjpbLTE1NTIyNzA4MTksMjc2ODcwNTUyLDMwMT
 c4NjUyM119
 -->
