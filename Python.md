@@ -10,6 +10,12 @@ Python V2
 print "test"
 print "test",x
 ```
+
+Python V3 | Python V2
+-------- | -----
+'print("test") | print "test"
+print("test",x) | print "test",x
+
 ## Comment
 ```python
 # Single line comment
@@ -109,8 +115,8 @@ else:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDk3NDEzNTksLTkzNjQwNTE1MSwtMT
-U5NDE5NTE0OCwxNzM5NTgxMjcwLC0xMzg2MzM5Mjc1LC0yMDM5
-Mjg5NTExLDk3OTU1MTgwOCwtNTYwODIxMjQxLDI3Njg3MDU1Mi
-wzMDE3ODY1MjNdfQ==
+eyJoaXN0b3J5IjpbLTcwOTA4MDQwNiwtOTM2NDA1MTUxLC0xNT
+k0MTk1MTQ4LDE3Mzk1ODEyNzAsLTEzODYzMzkyNzUsLTIwMzky
+ODk1MTEsOTc5NTUxODA4LC01NjA4MjEyNDEsMjc2ODcwNTUyLD
+MwMTc4NjUyM119
 -->
