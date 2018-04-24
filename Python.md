@@ -53,7 +53,12 @@ my_function()
 ```
 > Indent code when defining function. 
 
-### D
+### Define a function with argument
+```python
+def my_function(x):
+	# code
+my_function(my_var)
+```
 ### Anonymous function
 
 ## Date & Time
@@ -89,7 +94,7 @@ datetime.now().minute
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxMTg1Mjk3MiwxNzM5NTgxMjcwLC0xMz
-g2MzM5Mjc1LC0yMDM5Mjg5NTExLDk3OTU1MTgwOCwtNTYwODIx
-MjQxLDI3Njg3MDU1MiwzMDE3ODY1MjNdfQ==
+eyJoaXN0b3J5IjpbLTE1OTQxOTUxNDgsMTczOTU4MTI3MCwtMT
+M4NjMzOTI3NSwtMjAzOTI4OTUxMSw5Nzk1NTE4MDgsLTU2MDgy
+MTI0MSwyNzY4NzA1NTIsMzAxNzg2NTIzXX0=
 -->
