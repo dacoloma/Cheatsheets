@@ -21,22 +21,25 @@ comment
 ```
 > Simple quote (') can be replaced by double quotes (")
 ## String
-### Length
+### Methods
+#### Length
 ```python
 len(my_string)
 ```
-### Downcase
+#### Downcase
 ```python
 my_string.lower()
 ```
-### Upcase
+#### Upcase
 ```python
 my_string.upper()
 ```
-### Convert to string
+#### Convert to string
 ```python
 str(2)
 ```
+### Formatting
+
 ## Function
 ### Define a simple function
 ```python
@@ -57,6 +60,6 @@ def my_function:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2MDgyMTI0MSwyNzY4NzA1NTIsMzAxNz
-g2NTIzXX0=
+eyJoaXN0b3J5IjpbLTQwOTQzNDYzNCwtNTYwODIxMjQxLDI3Nj
+g3MDU1MiwzMDE3ODY1MjNdfQ==
 -->
