@@ -111,10 +111,11 @@ else:
 ```python
 list = ['a','b','c']
 ```
-### Append/Expand
+### Append/Expand/Insert
 ```python
 list.append('d')
-list.expand('e','f','g')
+list.expand('f','g')
+list.insert(4,'e')
 ```
 ### Slice
 ```python
@@ -132,10 +133,10 @@ list[x:y:z]
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyMzQwNzg2MywtODYwODk0OTczLDE3Nz
-kyNDEzNzAsLTIxMDE2Nzc1MTgsMTYzODUyMDkwLDQyNDI0MzI2
-Nyw0NTY4MjQ1ODcsLTM2NjA2NTI1NCwtOTM2NDA1MTUxLC0xNT
-k0MTk1MTQ4LDE3Mzk1ODEyNzAsLTEzODYzMzkyNzUsLTIwMzky
-ODk1MTEsOTc5NTUxODA4LC01NjA4MjEyNDEsMjc2ODcwNTUyLD
-MwMTc4NjUyM119
+eyJoaXN0b3J5IjpbLTg4MzQyMjcxLDExMjM0MDc4NjMsLTg2MD
+g5NDk3MywxNzc5MjQxMzcwLC0yMTAxNjc3NTE4LDE2Mzg1MjA5
+MCw0MjQyNDMyNjcsNDU2ODI0NTg3LC0zNjYwNjUyNTQsLTkzNj
+QwNTE1MSwtMTU5NDE5NTE0OCwxNzM5NTgxMjcwLC0xMzg2MzM5
+Mjc1LC0yMDM5Mjg5NTExLDk3OTU1MTgwOCwtNTYwODIxMjQxLD
+I3Njg3MDU1MiwzMDE3ODY1MjNdfQ==
 -->
