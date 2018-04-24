@@ -1,17 +1,16 @@
 # Syntax
 ## Print
-Python V2
+Python V3
 ```python
 print("test")
 print("test",x)
 ```
-Python V3
+Python V2
 ```python
 print "test"
 print "test",x
 ```
-## Variable
-
+## Comment
 ## Function
 ### Anonymous function
 ## Iteration
@@ -27,5 +26,5 @@ print "test",x
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0OTA3NDQsMzAxNzg2NTIzXX0=
+eyJoaXN0b3J5IjpbMTUzNTc0NjM1OSwzMDE3ODY1MjNdfQ==
 -->
