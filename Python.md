@@ -21,16 +21,15 @@ comment
 ### Formatting
 
 ## String
-### Methods
-#### Length
+### Length
 ```python
 len(my_string)
 ```
-#### Downcase
+### Downcase
 ```python
 my_string.lower()
 ```
-#### Upcase
+### Upcase
 ```python
 my_string.upper()
 ```
@@ -38,12 +37,8 @@ my_string.upper()
 ```python
 str(2)
 ```
-### Formatting
-```python
-name = "Mike"
-print "Hello %s" % (name)
-print "The %s who %s %s!" % ("Knights", "say", "Ni")
-```
+
+
 ## Function
 ### Define/Call a simple function
 ```python
@@ -109,8 +104,8 @@ else:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU2ODI0NTg3LC0zNjYwNjUyNTQsLTkzNj
-QwNTE1MSwtMTU5NDE5NTE0OCwxNzM5NTgxMjcwLC0xMzg2MzM5
-Mjc1LC0yMDM5Mjg5NTExLDk3OTU1MTgwOCwtNTYwODIxMjQxLD
-I3Njg3MDU1MiwzMDE3ODY1MjNdfQ==
+eyJoaXN0b3J5IjpbLTk5NTczMzgwNCw0NTY4MjQ1ODcsLTM2Nj
+A2NTI1NCwtOTM2NDA1MTUxLC0xNTk0MTk1MTQ4LDE3Mzk1ODEy
+NzAsLTEzODYzMzkyNzUsLTIwMzkyODk1MTEsOTc5NTUxODA4LC
+01NjA4MjEyNDEsMjc2ODcwNTUyLDMwMTc4NjUyM119
 -->
