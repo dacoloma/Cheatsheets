@@ -1,6 +1,9 @@
 # Syntax
-## Defining a function
+## Print
+## Variables
+## Function
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjM0MjI1MDFdfQ==
+eyJoaXN0b3J5IjpbLTE0ODQwNDYyMF19
 -->
