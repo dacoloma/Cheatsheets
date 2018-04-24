@@ -42,6 +42,7 @@ str(2)
 ```python
 name = "Mike"
 print "Hello %s" % (name)
+print "The %s who %s %s!" % ("Knights", "say", "Ni")
 ```
 ## Function
 ### Define a simple function
@@ -63,6 +64,6 @@ def my_function:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5OTA4MTAwNCwtNTYwODIxMjQxLDI3Nj
+eyJoaXN0b3J5IjpbLTUwMTE2MTE4NywtNTYwODIxMjQxLDI3Nj
 g3MDU1MiwzMDE3ODY1MjNdfQ==
 -->
