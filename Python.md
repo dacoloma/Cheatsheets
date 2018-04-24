@@ -105,8 +105,6 @@ elif something_else_true:
 else:
 	# code
 ```
-## Iteration
-### For-loop
 ## List
 ```python
 list = ['a','b','c']
@@ -125,6 +123,11 @@ list[x:y:z]
 > y : stop index (exclude)
 > z : step (optional)
 ### Comprehension list
+## Iteration
+### For-loop
+Looping a list
+```python
+for 
 ## Dictionary
 ## Filter
 
@@ -133,7 +136,7 @@ list[x:y:z]
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4MzQyMjcxLDExMjM0MDc4NjMsLTg2MD
+eyJoaXN0b3J5IjpbNDExNDgwMTMxLDExMjM0MDc4NjMsLTg2MD
 g5NDk3MywxNzc5MjQxMzcwLC0yMTAxNjc3NTE4LDE2Mzg1MjA5
 MCw0MjQyNDMyNjcsNDU2ODI0NTg3LC0zNjYwNjUyNTQsLTkzNj
 QwNTE1MSwtMTU5NDE5NTE0OCwxNzM5NTgxMjcwLC0xMzg2MzM5
