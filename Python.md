@@ -2,7 +2,9 @@
 ## Print
 Python V2
 ```python
-print("
+print("test")
+print("test",x)
+```
 ## Variable
 ## Function
 ### Anonymous function
@@ -19,5 +21,5 @@ print("
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjU1OTQ5NjYsMzAxNzg2NTIzXX0=
+eyJoaXN0b3J5IjpbLTkwNTQyODE0MywzMDE3ODY1MjNdfQ==
 -->
