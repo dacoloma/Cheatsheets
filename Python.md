@@ -44,6 +44,9 @@ name = "Mike"
 print "Hello %s" % (name)
 print "The %s who %s %s!" % ("Knights", "say", "Ni")
 ```
+## Date & Time
+Import library
+
 ## Function
 ### Define a simple function
 ```python
@@ -64,6 +67,6 @@ def my_function:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwMTE2MTE4NywtNTYwODIxMjQxLDI3Nj
+eyJoaXN0b3J5IjpbLTExOTM5Nzg0NCwtNTYwODIxMjQxLDI3Nj
 g3MDU1MiwzMDE3ODY1MjNdfQ==
 -->
