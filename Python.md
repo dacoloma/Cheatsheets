@@ -17,7 +17,7 @@ print("%d" % 4)
 > %s : string format
 > %d : integer format
 > %02d : print at least 2 digits
-> %.2f : float format. 
+> %.2f : float format. Print 2 digits after comma
 ## Comment
 ```python
 # Single line comment
@@ -116,9 +116,9 @@ else:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzODUyMDkwLDQyNDI0MzI2Nyw0NTY4Mj
-Q1ODcsLTM2NjA2NTI1NCwtOTM2NDA1MTUxLC0xNTk0MTk1MTQ4
-LDE3Mzk1ODEyNzAsLTEzODYzMzkyNzUsLTIwMzkyODk1MTEsOT
-c5NTUxODA4LC01NjA4MjEyNDEsMjc2ODcwNTUyLDMwMTc4NjUy
-M119
+eyJoaXN0b3J5IjpbLTIxMDE2Nzc1MTgsMTYzODUyMDkwLDQyND
+I0MzI2Nyw0NTY4MjQ1ODcsLTM2NjA2NTI1NCwtOTM2NDA1MTUx
+LC0xNTk0MTk1MTQ4LDE3Mzk1ODEyNzAsLTEzODYzMzkyNzUsLT
+IwMzkyODk1MTEsOTc5NTUxODA4LC01NjA4MjEyNDEsMjc2ODcw
+NTUyLDMwMTc4NjUyM119
 -->
