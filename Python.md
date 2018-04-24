@@ -45,10 +45,10 @@ print "Hello %s" % (name)
 print "The %s who %s %s!" % ("Knights", "say", "Ni")
 ```
 ## Function
-### Define a simple function
+### Define/Call a simple function
 ```python
 def my_function:
-# code
+	# code
 ```
 ### Anonymous function
 
@@ -85,7 +85,7 @@ datetime.now().minute
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzE2NzE4OSwtMTM4NjMzOTI3NSwtMj
+eyJoaXN0b3J5IjpbMTczOTU4MTI3MCwtMTM4NjMzOTI3NSwtMj
 AzOTI4OTUxMSw5Nzk1NTE4MDgsLTU2MDgyMTI0MSwyNzY4NzA1
 NTIsMzAxNzg2NTIzXX0=
 -->
