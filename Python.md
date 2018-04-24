@@ -1,5 +1,6 @@
 # Syntax
+## Defining a function
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3OTA5OTk4MF19
+eyJoaXN0b3J5IjpbLTEzNjM0MjI1MDFdfQ==
 -->
