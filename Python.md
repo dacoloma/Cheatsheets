@@ -13,15 +13,21 @@ print "test",x
 ## Comment
 ```python
 # Single line comment
+```
+Item | Value
+-------- | -----
+''' 
+Multi
+line 
+comment
+''' | $1600
+Phone | $12
+Pipe | $1
 ''' 
 Multi
 line 
 comment
 '''
-|  |  |
-|--|--|
-|  |  |
-
 """
 Multi
 line 
@@ -43,6 +49,6 @@ comment
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDc3OTkzMDcsMjc2ODcwNTUyLDMwMT
-c4NjUyM119
+eyJoaXN0b3J5IjpbMTg3NTc2OTUzNSwyNzY4NzA1NTIsMzAxNz
+g2NTIzXX0=
 -->
