@@ -85,6 +85,10 @@ datetime.now().minute
 ```python
 if something_true:
 	# code
+elsif something_else_true:
+	# code 
+else:
+	# code
 ## Iteration
 ### For-loop
 ## List
@@ -98,7 +102,7 @@ if something_true:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzNjQ1MTUwMCwtMTU5NDE5NTE0OCwxNz
+eyJoaXN0b3J5IjpbLTkzNjQwNTE1MSwtMTU5NDE5NTE0OCwxNz
 M5NTgxMjcwLC0xMzg2MzM5Mjc1LC0yMDM5Mjg5NTExLDk3OTU1
 MTgwOCwtNTYwODIxMjQxLDI3Njg3MDU1MiwzMDE3ODY1MjNdfQ
 ==
