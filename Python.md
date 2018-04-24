@@ -21,7 +21,22 @@ comment
 ```
 > Simple quote (') can be replaced by double quotes (")
 ## String
+### Length
+```python
 
+```
+### Downcase
+```python
+
+```
+### Upcase
+```python
+
+```
+### Length
+```python
+
+```
 ## Function
 ### Define a simple function
 ```python
@@ -42,6 +57,6 @@ def my_function:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxNDE5OTY5NCwyNzY4NzA1NTIsMzAxNz
+eyJoaXN0b3J5IjpbLTI0MDQ2NjAwNywyNzY4NzA1NTIsMzAxNz
 g2NTIzXX0=
 -->
