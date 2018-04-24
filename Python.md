@@ -4,6 +4,7 @@ Python V3 | Python V2
 -------- | -----
 `print("test")` | `print "test"`
 `print("test",x)` | `print "test",x`
+`print("test number %d" % x)` | `print "test number %d" % x`
 
 ## Comment
 ```python
@@ -108,8 +109,8 @@ else:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2NjA2NTI1NCwtOTM2NDA1MTUxLC0xNT
-k0MTk1MTQ4LDE3Mzk1ODEyNzAsLTEzODYzMzkyNzUsLTIwMzky
-ODk1MTEsOTc5NTUxODA4LC01NjA4MjEyNDEsMjc2ODcwNTUyLD
-MwMTc4NjUyM119
+eyJoaXN0b3J5IjpbNDU2ODI0NTg3LC0zNjYwNjUyNTQsLTkzNj
+QwNTE1MSwtMTU5NDE5NTE0OCwxNzM5NTgxMjcwLC0xMzg2MzM5
+Mjc1LC0yMDM5Mjg5NTExLDk3OTU1MTgwOCwtNTYwODIxMjQxLD
+I3Njg3MDU1MiwzMDE3ODY1MjNdfQ==
 -->
