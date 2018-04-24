@@ -123,7 +123,10 @@ list[x:y:z]
 > y : stop index (exclude)
 > z : step (optional)
 
-
+### Sort
+```python
+list.sort()
+```
 ### Comprehension list
 ## Iteration
 ### For-loop
@@ -140,7 +143,7 @@ for number in list:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2MDkzMTk3OCwxMTIzNDA3ODYzLC04Nj
+eyJoaXN0b3J5IjpbLTc5NjM2Mjk2MCwxMTIzNDA3ODYzLC04Nj
 A4OTQ5NzMsMTc3OTI0MTM3MCwtMjEwMTY3NzUxOCwxNjM4NTIw
 OTAsNDI0MjQzMjY3LDQ1NjgyNDU4NywtMzY2MDY1MjU0LC05Mz
 Y0MDUxNTEsLTE1OTQxOTUxNDgsMTczOTU4MTI3MCwtMTM4NjMz
