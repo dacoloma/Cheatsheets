@@ -13,8 +13,8 @@ print "test",x
 
 Python V3 | Python V2
 -------- | -----
-'print("test") | print "test"
-print("test",x) | print "test",x
+`print("test")` | `print "test"`
+`print("test",x)` | `print "test",x`
 
 ## Comment
 ```python
@@ -115,8 +115,8 @@ else:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwOTA4MDQwNiwtOTM2NDA1MTUxLC0xNT
-k0MTk1MTQ4LDE3Mzk1ODEyNzAsLTEzODYzMzkyNzUsLTIwMzky
-ODk1MTEsOTc5NTUxODA4LC01NjA4MjEyNDEsMjc2ODcwNTUyLD
-MwMTc4NjUyM119
+eyJoaXN0b3J5IjpbODI1NTM3NTYxLC05MzY0MDUxNTEsLTE1OT
+QxOTUxNDgsMTczOTU4MTI3MCwtMTM4NjMzOTI3NSwtMjAzOTI4
+OTUxMSw5Nzk1NTE4MDgsLTU2MDgyMTI0MSwyNzY4NzA1NTIsMz
+AxNzg2NTIzXX0=
 -->
