@@ -62,7 +62,10 @@ from datetime import datetime
 ```python
 datetime.now()
 ```
-#### Extract data (month, year, day, minutes
+#### Extract data (month, year, day, minutes...)
+```python
+datetime.now()
+```
 
 ## Iteration
 ### For-loop
@@ -77,7 +80,7 @@ datetime.now()
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzAzNjU5NzEwLC0yMDM5Mjg5NTExLDk3OT
-U1MTgwOCwtNTYwODIxMjQxLDI3Njg3MDU1MiwzMDE3ODY1MjNd
-fQ==
+eyJoaXN0b3J5IjpbLTEzODYzMzkyNzUsLTIwMzkyODk1MTEsOT
+c5NTUxODA4LC01NjA4MjEyNDEsMjc2ODcwNTUyLDMwMTc4NjUy
+M119
 -->
