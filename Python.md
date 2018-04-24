@@ -59,6 +59,10 @@ from datetime import datetime
 ```
 ### Methods
 #### Current datetime
+```python
+datetime.now()
+```
+
 
 ## Iteration
 ### For-loop
@@ -73,6 +77,6 @@ from datetime import datetime
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTIzMjYwMTUsOTc5NTUxODA4LC01Nj
-A4MjEyNDEsMjc2ODcwNTUyLDMwMTc4NjUyM119
+eyJoaXN0b3J5IjpbODMxNzk3MTg1LDk3OTU1MTgwOCwtNTYwOD
+IxMjQxLDI3Njg3MDU1MiwzMDE3ODY1MjNdfQ==
 -->
