@@ -67,8 +67,8 @@ datetime.now()
 datetime.now().month
 datetime.now().year
 datetime.now().day
-datetime.now().month
-
+datetime.now().minute
+# etc...
 ```
 
 ## Iteration
@@ -84,7 +84,7 @@ datetime.now().month
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxNzcwODA5NiwtMTM4NjMzOTI3NSwtMj
+eyJoaXN0b3J5IjpbLTQ1NDQzNjM4MSwtMTM4NjMzOTI3NSwtMj
 AzOTI4OTUxMSw5Nzk1NTE4MDgsLTU2MDgyMTI0MSwyNzY4NzA1
 NTIsMzAxNzg2NTIzXX0=
 -->
