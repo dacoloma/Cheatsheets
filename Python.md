@@ -10,8 +10,9 @@ Python V3 | Python V2
 ### Formatting
 ```python
 name = "Mike"
-print "Hello %s" % (name)
-print "The %s who %s %s!" % ("Knights", "say", "Ni")
+print("Hello %s" % name)
+print("The %s who %s %s!" % "Knights", "say", "Ni")
+print("%d" % 4)
 ```
 ## Comment
 ```python
@@ -111,8 +112,8 @@ else:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzOTc1MTIyNCw0NTY4MjQ1ODcsLTM2Nj
-A2NTI1NCwtOTM2NDA1MTUxLC0xNTk0MTk1MTQ4LDE3Mzk1ODEy
-NzAsLTEzODYzMzkyNzUsLTIwMzkyODk1MTEsOTc5NTUxODA4LC
-01NjA4MjEyNDEsMjc2ODcwNTUyLDMwMTc4NjUyM119
+eyJoaXN0b3J5IjpbLTE2OTkxMzYzOTgsNDU2ODI0NTg3LC0zNj
+YwNjUyNTQsLTkzNjQwNTE1MSwtMTU5NDE5NTE0OCwxNzM5NTgx
+MjcwLC0xMzg2MzM5Mjc1LC0yMDM5Mjg5NTExLDk3OTU1MTgwOC
+wtNTYwODIxMjQxLDI3Njg3MDU1MiwzMDE3ODY1MjNdfQ==
 -->
