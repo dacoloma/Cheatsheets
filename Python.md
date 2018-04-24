@@ -51,7 +51,9 @@ def my_function:
 	# code
 my_function()
 ```
-> Indent code und
+> Indent code when defining function. 
+
+### D
 ### Anonymous function
 
 ## Date & Time
@@ -87,7 +89,7 @@ datetime.now().minute
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTAyOTY1NDQsMTczOTU4MTI3MCwtMT
-M4NjMzOTI3NSwtMjAzOTI4OTUxMSw5Nzk1NTE4MDgsLTU2MDgy
-MTI0MSwyNzY4NzA1NTIsMzAxNzg2NTIzXX0=
+eyJoaXN0b3J5IjpbLTYxMTg1Mjk3MiwxNzM5NTgxMjcwLC0xMz
+g2MzM5Mjc1LC0yMDM5Mjg5NTExLDk3OTU1MTgwOCwtNTYwODIx
+MjQxLDI3Njg3MDU1MiwzMDE3ODY1MjNdfQ==
 -->
