@@ -1,16 +1,5 @@
 # Syntax
 ## Print
-Python V3
-```python 
-print("test")
-print("test",x)
-```
-Python V2
-```python
-print "test"
-print "test",x
-```
-
 Python V3 | Python V2
 -------- | -----
 `print("test")` | `print "test"`
@@ -115,8 +104,8 @@ else:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI1NTM3NTYxLC05MzY0MDUxNTEsLTE1OT
-QxOTUxNDgsMTczOTU4MTI3MCwtMTM4NjMzOTI3NSwtMjAzOTI4
-OTUxMSw5Nzk1NTE4MDgsLTU2MDgyMTI0MSwyNzY4NzA1NTIsMz
-AxNzg2NTIzXX0=
+eyJoaXN0b3J5IjpbMTgxMTE0NzM3OCwtOTM2NDA1MTUxLC0xNT
+k0MTk1MTQ4LDE3Mzk1ODEyNzAsLTEzODYzMzkyNzUsLTIwMzky
+ODk1MTEsOTc5NTUxODA4LC01NjA4MjEyNDEsMjc2ODcwNTUyLD
+MwMTc4NjUyM119
 -->
