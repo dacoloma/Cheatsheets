@@ -118,7 +118,10 @@ list.expand('e','f','g')
 ```
 ### Slice
 ```python
-list[x
+list[x:y:z]
+```
+> x : start index
+> 
 ### Comprehension list
 ## Dictionary
 ## Filter
@@ -128,10 +131,10 @@ list[x
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczNjc0NDIyNiwtODYwODk0OTczLDE3Nz
-kyNDEzNzAsLTIxMDE2Nzc1MTgsMTYzODUyMDkwLDQyNDI0MzI2
-Nyw0NTY4MjQ1ODcsLTM2NjA2NTI1NCwtOTM2NDA1MTUxLC0xNT
-k0MTk1MTQ4LDE3Mzk1ODEyNzAsLTEzODYzMzkyNzUsLTIwMzky
-ODk1MTEsOTc5NTUxODA4LC01NjA4MjEyNDEsMjc2ODcwNTUyLD
-MwMTc4NjUyM119
+eyJoaXN0b3J5IjpbLTE4ODQ3Mzc5MDAsLTg2MDg5NDk3MywxNz
+c5MjQxMzcwLC0yMTAxNjc3NTE4LDE2Mzg1MjA5MCw0MjQyNDMy
+NjcsNDU2ODI0NTg3LC0zNjYwNjUyNTQsLTkzNjQwNTE1MSwtMT
+U5NDE5NTE0OCwxNzM5NTgxMjcwLC0xMzg2MzM5Mjc1LC0yMDM5
+Mjg5NTExLDk3OTU1MTgwOCwtNTYwODIxMjQxLDI3Njg3MDU1Mi
+wzMDE3ODY1MjNdfQ==
 -->
