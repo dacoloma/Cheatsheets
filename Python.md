@@ -2,6 +2,7 @@
 ## Print
 ## Variable
 ## Function
+### Anonymous function
 ## Iteration
 ### For-loop
 ## List
@@ -11,5 +12,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4OTE3MjMxOF19
+eyJoaXN0b3J5IjpbMjQwMTgzMjM2XX0=
 -->
