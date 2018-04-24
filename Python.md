@@ -100,7 +100,7 @@ datetime.now().minute
 ```python
 if something_true:
 	# code
-elsif something_else_true:
+elif something_else_true:
 	# code 
 else:
 	# code
@@ -117,9 +117,10 @@ else:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3OTI0MTM3MCwtMjEwMTY3NzUxOCwxNj
-M4NTIwOTAsNDI0MjQzMjY3LDQ1NjgyNDU4NywtMzY2MDY1MjU0
-LC05MzY0MDUxNTEsLTE1OTQxOTUxNDgsMTczOTU4MTI3MCwtMT
-M4NjMzOTI3NSwtMjAzOTI4OTUxMSw5Nzk1NTE4MDgsLTU2MDgy
-MTI0MSwyNzY4NzA1NTIsMzAxNzg2NTIzXX0=
+eyJoaXN0b3J5IjpbLTg2MDg5NDk3MywxNzc5MjQxMzcwLC0yMT
+AxNjc3NTE4LDE2Mzg1MjA5MCw0MjQyNDMyNjcsNDU2ODI0NTg3
+LC0zNjYwNjUyNTQsLTkzNjQwNTE1MSwtMTU5NDE5NTE0OCwxNz
+M5NTgxMjcwLC0xMzg2MzM5Mjc1LC0yMDM5Mjg5NTExLDk3OTU1
+MTgwOCwtNTYwODIxMjQxLDI3Njg3MDU1MiwzMDE3ODY1MjNdfQ
+==
 -->
