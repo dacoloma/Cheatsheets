@@ -5,7 +5,13 @@ Python V2
 print("test")
 print("test",x)
 ```
+Python V3
+```python
+print "test"
+print "test",x
+```
 ## Variable
+
 ## Function
 ### Anonymous function
 ## Iteration
@@ -21,5 +27,5 @@ print("test",x)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwNTQyODE0MywzMDE3ODY1MjNdfQ==
+eyJoaXN0b3J5IjpbLTQ0OTA3NDQsMzAxNzg2NTIzXX0=
 -->
