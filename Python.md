@@ -45,8 +45,11 @@ print "Hello %s" % (name)
 print "The %s who %s %s!" % ("Knights", "say", "Ni")
 ```
 ## Date & Time
-Import library
-
+### Import library
+```python
+from datetime import datetime
+```
+### Functions
 ## Function
 ### Define a simple function
 ```python
@@ -67,6 +70,6 @@ def my_function:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTM5Nzg0NCwtNTYwODIxMjQxLDI3Nj
-g3MDU1MiwzMDE3ODY1MjNdfQ==
+eyJoaXN0b3J5IjpbOTc5NTUxODA4LC01NjA4MjEyNDEsMjc2OD
+cwNTUyLDMwMTc4NjUyM119
 -->
