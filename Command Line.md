@@ -1,5 +1,6 @@
 
 
+
 # Navigation
 ## Change directory
 ```bash
@@ -9,15 +10,15 @@ $ cd ..
 ```
 ## List files 
 - Current directory
-```shell 
+```bash 
 $ ls
 ```
 - Specific directory 
-```shell 
+```bash 
 $ ls Desktop/
 ```
 - With options
-```shell
+```bash
 $ ls -a
 ```
 > -a : list all contents of a directory, including hidden files and directories
@@ -25,64 +26,64 @@ $ ls -a
 > -t : order by time (last modification date)
 
 - Combination of options 
-```shell
+```bash
 $ ls -alt
 ```
 ## Print working directory
-```shell
+```bash
 $ pwd
 ```
 
 # Manipulating files/directories
 ## Create file
-```shell
+```bash
 $ touch myFile
 ```
 ## Create directory
-```shell
+```bash
 $ mkdir myDirectory
 ```
 ## Copy file
 - Copy a file in a directory
-```shell
+```bash
 $ cp fichier.txt myDirectory/
 ```
 - Copy a file from a directory in another directory
-```shell
+```bash
 $ cp myDirectory1/fichier.txt myDirectory2/
 ```
 - Copy many files 
-```shell
+```bash
 $ cp fichier1.txt fichier2.txt myDirectory/
 ```
 - Wildcard
-```shell
+```bash
 $ cp *.txt myDirectory2/
 $ cp m*.txt myDirectory3/
 ```
 ## Word counting
-```shell
+```bash
 $ wc hello.txt
 >>      1     1     6 hello.txt
 ```
 > Return the number of lines, words, and characters
 ## Move/Rename
 - Move a file 
-```shell
+```bash
 $ mv myfile.txt myDirectory/
 ```
 - Rename a file
-```shell
+```bash
 $ mv fichier.txt myFile.txt
 ```
 
 ## Remove file/directory
 - Remove a file 
-```shell
+```bash
 $ rm myFile.txt
 ```
 - Remove a directory 
-```shell
+```bash
 $ rm -r myDirectory/
 ```  
 > Careful when using this command, especially with the options combined -rf
@@ -91,22 +92,22 @@ $ rm -r myDirectory/
 
 ## Print to terminal
 - Print a string
-```shell
+```bash
 $ echo "Hello"
 >> Hello
 ``` 
 - Output content of a file to the terminal 
-```shell
+```bash
 $ cat  hello.txt
 >> Hello World!
 ``` 
 - Redirect to a file 
-```shell
+```bash
 $ echo "Hello" > myfile.txt
 ``` 
 ## Redirection
 - Create/Overwrite a file
-```shell
+```bash
 $ echo "Hello" > myfile.txt
 $ cat  myfile.txt
 >> Hello
@@ -114,33 +115,33 @@ $ cat file1.txt > file2.txt
 ``` 
 
 - Append stdout to a file
-```shell
+```bash
 $ cat file1.txt >> file2.txt
 ```  
 
 - Pipe : | (OSx : Shift + alt + L)
 > "command to command" redirection.
-```shell
+```bash
 $ cat hello.txt | wc
 >>      1     1     6 
 ```
 - Combination
-```shell
+```bash
 $ cat ListOfWords.txt | sort > SortedList.txt
 ```
 - Sort
-```shell
+```bash
 $ sort MyFileToSort.txt
 ```
 - Filter
 	>Print unique elements in a list 
-```shell
+```bash
 $ uniq list.txt
 ```
 ## Search
 Grep : Global regular expression print
 - Search for lines of a file matching a pattern and return the lines
-```shell
+```bash
 $ grep Mount mountains.txt
 $ grep -i Mount mountains.txt
 $ grep -rl Mount my_directory/
@@ -161,7 +162,7 @@ Go to ~/.bash_profile and write :
 alias myAlias="my_new_shortcut"
 ```
 Save and quit, then type : 
-```shell
+```bash
 $ source ~/.bash_profile
 ```
 ## Environment variable
@@ -170,7 +171,7 @@ Go to ~/.bash_profile and write :
 export USER="Jane Doe"
 ```
 Save and quit, then type : 
-```shell
+```bash
 $ source ~/.bash_profile
 ```
 To check, type : 
@@ -178,11 +179,11 @@ To check, type :
 echo $USER
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5MzY4MjY5OSwtMTA3MzU1NTMyMywtMT
-EyMTcyNDIwMiwtNjUzMzE1MDk2LDE3Nzk0NDU1MDUsMjEyMDI4
-NTEyMCwtMTYxMjQ4OTI2MiwxNTU1MzQ4MDM4LDcwNDc0NTI4MS
-wyMTQwNjkwODE4LC0xNjc1MjE4NTYyLDEwMzg1OTYxNywtOTgy
-ODE3MDUyLC0xMzEyNzY2Mzg0LDE5NTY2MzM5NjcsNTk5OTc0OD
-E4LC0xMDcyNjU1Mjc4LDE0MTQ3ODU3ODIsLTE1NTI2NjkzOTQs
-LTQ3ODI5NDg0M119
+eyJoaXN0b3J5IjpbLTMwNzc5ODY1LC0xMDczNTU1MzIzLC0xMT
+IxNzI0MjAyLC02NTMzMTUwOTYsMTc3OTQ0NTUwNSwyMTIwMjg1
+MTIwLC0xNjEyNDg5MjYyLDE1NTUzNDgwMzgsNzA0NzQ1MjgxLD
+IxNDA2OTA4MTgsLTE2NzUyMTg1NjIsMTAzODU5NjE3LC05ODI4
+MTcwNTIsLTEzMTI3NjYzODQsMTk1NjYzMzk2Nyw1OTk5NzQ4MT
+gsLTEwNzI2NTUyNzgsMTQxNDc4NTc4MiwtMTU1MjY2OTM5NCwt
+NDc4Mjk0ODQzXX0=
 -->
