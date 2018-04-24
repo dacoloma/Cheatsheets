@@ -14,6 +14,9 @@ print("Hello %s" % name)
 print("The %s who %s %s!" % "Knights", "say", "Ni")
 print("%d" % 4)
 ```
+> %s : String format
+> %d : Integer format
+> %04d : replace 
 ## Comment
 ```python
 # Single line comment
@@ -112,8 +115,8 @@ else:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTkxMzYzOTgsNDU2ODI0NTg3LC0zNj
-YwNjUyNTQsLTkzNjQwNTE1MSwtMTU5NDE5NTE0OCwxNzM5NTgx
-MjcwLC0xMzg2MzM5Mjc1LC0yMDM5Mjg5NTExLDk3OTU1MTgwOC
-wtNTYwODIxMjQxLDI3Njg3MDU1MiwzMDE3ODY1MjNdfQ==
+eyJoaXN0b3J5IjpbODUzMTUyNjUxLDQ1NjgyNDU4NywtMzY2MD
+Y1MjU0LC05MzY0MDUxNTEsLTE1OTQxOTUxNDgsMTczOTU4MTI3
+MCwtMTM4NjMzOTI3NSwtMjAzOTI4OTUxMSw5Nzk1NTE4MDgsLT
+U2MDgyMTI0MSwyNzY4NzA1NTIsMzAxNzg2NTIzXX0=
 -->
