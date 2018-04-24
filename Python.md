@@ -125,9 +125,9 @@ list[x:y:z]
 ### Comprehension list
 ## Iteration
 ### For-loop
-Looping a list
+Looping a list : `list = [2,5,4,8,5]`
 ```python
-for 
+for number in list:
 ## Dictionary
 ## Filter
 
@@ -136,10 +136,10 @@ for
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDExNDgwMTMxLDExMjM0MDc4NjMsLTg2MD
-g5NDk3MywxNzc5MjQxMzcwLC0yMTAxNjc3NTE4LDE2Mzg1MjA5
-MCw0MjQyNDMyNjcsNDU2ODI0NTg3LC0zNjYwNjUyNTQsLTkzNj
-QwNTE1MSwtMTU5NDE5NTE0OCwxNzM5NTgxMjcwLC0xMzg2MzM5
-Mjc1LC0yMDM5Mjg5NTExLDk3OTU1MTgwOCwtNTYwODIxMjQxLD
-I3Njg3MDU1MiwzMDE3ODY1MjNdfQ==
+eyJoaXN0b3J5IjpbLTEyNjMyNjE5MTQsMTEyMzQwNzg2MywtOD
+YwODk0OTczLDE3NzkyNDEzNzAsLTIxMDE2Nzc1MTgsMTYzODUy
+MDkwLDQyNDI0MzI2Nyw0NTY4MjQ1ODcsLTM2NjA2NTI1NCwtOT
+M2NDA1MTUxLC0xNTk0MTk1MTQ4LDE3Mzk1ODEyNzAsLTEzODYz
+MzkyNzUsLTIwMzkyODk1MTEsOTc5NTUxODA4LC01NjA4MjEyND
+EsMjc2ODcwNTUyLDMwMTc4NjUyM119
 -->
