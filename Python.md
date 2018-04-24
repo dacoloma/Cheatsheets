@@ -11,6 +11,12 @@ print "test"
 print "test",x
 ```
 ## Comment
+```python
+# Single line comment
+/* Multi
+line 
+comments*/
+```
 ## Function
 ### Anonymous function
 ## Iteration
@@ -26,5 +32,5 @@ print "test",x
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzNTc0NjM1OSwzMDE3ODY1MjNdfQ==
+eyJoaXN0b3J5IjpbMjc2ODcwNTUyLDMwMTc4NjUyM119
 -->
