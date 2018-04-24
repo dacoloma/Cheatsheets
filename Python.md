@@ -27,15 +27,15 @@ len(my_string)
 ```
 ### Downcase
 ```python
-len(my_string)
+my_string.lower()
 ```
 ### Upcase
 ```python
-
+my_string.upper()
 ```
 ### Convert to string
 ```python
-
+str(2)
 ```
 ## Function
 ### Define a simple function
@@ -57,6 +57,6 @@ def my_function:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5OTIzNzAwNCwyNzY4NzA1NTIsMzAxNz
+eyJoaXN0b3J5IjpbLTU2MDgyMTI0MSwyNzY4NzA1NTIsMzAxNz
 g2NTIzXX0=
 -->
