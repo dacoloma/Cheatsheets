@@ -23,17 +23,17 @@ comment
 ## String
 ### Length
 ```python
-
+len(my_string)
 ```
 ### Downcase
 ```python
-
+len(my_string)
 ```
 ### Upcase
 ```python
 
 ```
-### Length
+### Convert to string
 ```python
 
 ```
@@ -57,6 +57,6 @@ def my_function:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0MDQ2NjAwNywyNzY4NzA1NTIsMzAxNz
+eyJoaXN0b3J5IjpbLTI5OTIzNzAwNCwyNzY4NzA1NTIsMzAxNz
 g2NTIzXX0=
 -->
