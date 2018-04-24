@@ -81,6 +81,10 @@ datetime.now().minute
 ```
 > in python shell IDLE, type `help(datetime)`for more information
 
+## Conditional statements
+```python
+if something_true:
+	# code
 ## Iteration
 ### For-loop
 ## List
@@ -94,7 +98,8 @@ datetime.now().minute
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTQxOTUxNDgsMTczOTU4MTI3MCwtMT
-M4NjMzOTI3NSwtMjAzOTI4OTUxMSw5Nzk1NTE4MDgsLTU2MDgy
-MTI0MSwyNzY4NzA1NTIsMzAxNzg2NTIzXX0=
+eyJoaXN0b3J5IjpbMTAzNjQ1MTUwMCwtMTU5NDE5NTE0OCwxNz
+M5NTgxMjcwLC0xMzg2MzM5Mjc1LC0yMDM5Mjg5NTExLDk3OTU1
+MTgwOCwtNTYwODIxMjQxLDI3Njg3MDU1MiwzMDE3ODY1MjNdfQ
+==
 -->
