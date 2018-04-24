@@ -17,6 +17,7 @@ print("%d" % 4)
 > %s : string format
 > %d : integer format
 > %02d : print at least 2 digits
+> %f
 ## Comment
 ```python
 # Single line comment
@@ -115,8 +116,8 @@ else:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1Nzc5Njk3NCw0NTY4MjQ1ODcsLTM2Nj
-A2NTI1NCwtOTM2NDA1MTUxLC0xNTk0MTk1MTQ4LDE3Mzk1ODEy
-NzAsLTEzODYzMzkyNzUsLTIwMzkyODk1MTEsOTc5NTUxODA4LC
-01NjA4MjEyNDEsMjc2ODcwNTUyLDMwMTc4NjUyM119
+eyJoaXN0b3J5IjpbNDI0MjQzMjY3LDQ1NjgyNDU4NywtMzY2MD
+Y1MjU0LC05MzY0MDUxNTEsLTE1OTQxOTUxNDgsMTczOTU4MTI3
+MCwtMTM4NjMzOTI3NSwtMjAzOTI4OTUxMSw5Nzk1NTE4MDgsLT
+U2MDgyMTI0MSwyNzY4NzA1NTIsMzAxNzg2NTIzXX0=
 -->
