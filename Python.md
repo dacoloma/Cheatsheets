@@ -68,8 +68,9 @@ datetime.now().month
 datetime.now().year
 datetime.now().day
 datetime.now().minute
-# etc...
+# etc.
 ```
+> in python shell IDLE, type `help(datetim
 
 ## Iteration
 ### For-loop
@@ -84,7 +85,7 @@ datetime.now().minute
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1NDQzNjM4MSwtMTM4NjMzOTI3NSwtMj
-AzOTI4OTUxMSw5Nzk1NTE4MDgsLTU2MDgyMTI0MSwyNzY4NzA1
-NTIsMzAxNzg2NTIzXX0=
+eyJoaXN0b3J5IjpbLTE4NjA0NTkxNTEsLTEzODYzMzkyNzUsLT
+IwMzkyODk1MTEsOTc5NTUxODA4LC01NjA4MjEyNDEsMjc2ODcw
+NTUyLDMwMTc4NjUyM119
 -->
