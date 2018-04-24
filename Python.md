@@ -15,6 +15,10 @@ comment
 '''
 ```
 > Simple quote (') can be replaced by double quotes (")
+
+## Integer
+### Formatting
+
 ## String
 ### Methods
 #### Length
@@ -104,7 +108,7 @@ else:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxMTE0NzM3OCwtOTM2NDA1MTUxLC0xNT
+eyJoaXN0b3J5IjpbLTM2NjA2NTI1NCwtOTM2NDA1MTUxLC0xNT
 k0MTk1MTQ4LDE3Mzk1ODEyNzAsLTEzODYzMzkyNzUsLTIwMzky
 ODk1MTEsOTc5NTUxODA4LC01NjA4MjEyNDEsMjc2ODcwNTUyLD
 MwMTc4NjUyM119
