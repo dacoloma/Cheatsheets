@@ -53,12 +53,14 @@ my_function()
 ```
 > Indent code when defining function. 
 
-### Define a function with argument
+### Define a function with argument...
 ```python
 def my_function(x):
 	# code
 my_function(my_var)
 ```
+### ... and return something
+
 ### Anonymous function
 
 ## Date & Time
@@ -102,8 +104,8 @@ else:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzNjQwNTE1MSwtMTU5NDE5NTE0OCwxNz
-M5NTgxMjcwLC0xMzg2MzM5Mjc1LC0yMDM5Mjg5NTExLDk3OTU1
-MTgwOCwtNTYwODIxMjQxLDI3Njg3MDU1MiwzMDE3ODY1MjNdfQ
-==
+eyJoaXN0b3J5IjpbLTExNTU2MzEzOTMsLTkzNjQwNTE1MSwtMT
+U5NDE5NTE0OCwxNzM5NTgxMjcwLC0xMzg2MzM5Mjc1LC0yMDM5
+Mjg5NTExLDk3OTU1MTgwOCwtNTYwODIxMjQxLDI3Njg3MDU1Mi
+wzMDE3ODY1MjNdfQ==
 -->
