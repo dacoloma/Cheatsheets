@@ -19,8 +19,12 @@ line
 comment
 '''
 ```
-> 
+> Simple quote (') can be replaced by double quotes (")
 ## Function
+### Define a simple function
+```python
+def my_function
+```
 ### Anonymous function
 ## Iteration
 ### For-loop
@@ -35,6 +39,6 @@ comment
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5MDQ2MzY1NSwyNzY4NzA1NTIsMzAxNz
-g2NTIzXX0=
+eyJoaXN0b3J5IjpbLTIwMzg1NDY2MjcsMjc2ODcwNTUyLDMwMT
+c4NjUyM119
 -->
