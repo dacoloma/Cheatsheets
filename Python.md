@@ -107,7 +107,11 @@ else:
 ## Iteration
 ### For-loop
 ## List
+```python
+list = ['a','b','c']
+
 ### Append/Expand
+
 ### Comprehension list
 ## Dictionary
 ## Filter
@@ -117,10 +121,10 @@ else:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2MDg5NDk3MywxNzc5MjQxMzcwLC0yMT
-AxNjc3NTE4LDE2Mzg1MjA5MCw0MjQyNDMyNjcsNDU2ODI0NTg3
-LC0zNjYwNjUyNTQsLTkzNjQwNTE1MSwtMTU5NDE5NTE0OCwxNz
-M5NTgxMjcwLC0xMzg2MzM5Mjc1LC0yMDM5Mjg5NTExLDk3OTU1
-MTgwOCwtNTYwODIxMjQxLDI3Njg3MDU1MiwzMDE3ODY1MjNdfQ
-==
+eyJoaXN0b3J5IjpbMjAyNTU1Mzg5NiwtODYwODk0OTczLDE3Nz
+kyNDEzNzAsLTIxMDE2Nzc1MTgsMTYzODUyMDkwLDQyNDI0MzI2
+Nyw0NTY4MjQ1ODcsLTM2NjA2NTI1NCwtOTM2NDA1MTUxLC0xNT
+k0MTk1MTQ4LDE3Mzk1ODEyNzAsLTEzODYzMzkyNzUsLTIwMzky
+ODk1MTEsOTc5NTUxODA4LC01NjA4MjEyNDEsMjc2ODcwNTUyLD
+MwMTc4NjUyM119
 -->
