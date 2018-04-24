@@ -49,7 +49,9 @@ print "The %s who %s %s!" % ("Knights", "say", "Ni")
 ```python
 def my_function:
 	# code
+my_function()
 ```
+> Indent code und
 ### Anonymous function
 
 ## Date & Time
@@ -85,7 +87,7 @@ datetime.now().minute
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczOTU4MTI3MCwtMTM4NjMzOTI3NSwtMj
-AzOTI4OTUxMSw5Nzk1NTE4MDgsLTU2MDgyMTI0MSwyNzY4NzA1
-NTIsMzAxNzg2NTIzXX0=
+eyJoaXN0b3J5IjpbLTE5OTAyOTY1NDQsMTczOTU4MTI3MCwtMT
+M4NjMzOTI3NSwtMjAzOTI4OTUxMSw5Nzk1NTE4MDgsLTU2MDgy
+MTI0MSwyNzY4NzA1NTIsMzAxNzg2NTIzXX0=
 -->
