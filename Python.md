@@ -1,11 +1,18 @@
 # Syntax
 ## Print
+### V2 & V3
 Python V3 | Python V2
 -------- | -----
 `print("test")` | `print "test"`
 `print("test",x)` | `print "test",x`
 `print("test number %d" % x)` | `print "test number %d" % x`
 
+### Formatting
+```python
+name = "Mike"
+print "Hello %s" % (name)
+print "The %s who %s %s!" % ("Knights", "say", "Ni")
+```
 ## Comment
 ```python
 # Single line comment
@@ -33,7 +40,7 @@ my_string.lower()
 ```python
 my_string.upper()
 ```
-#### Convert to string
+### Convert to string
 ```python
 str(2)
 ```
@@ -104,7 +111,7 @@ else:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5NTczMzgwNCw0NTY4MjQ1ODcsLTM2Nj
+eyJoaXN0b3J5IjpbLTIzOTc1MTIyNCw0NTY4MjQ1ODcsLTM2Nj
 A2NTI1NCwtOTM2NDA1MTUxLC0xNTk0MTk1MTQ4LDE3Mzk1ODEy
 NzAsLTEzODYzMzkyNzUsLTIwMzkyODk1MTEsOTc5NTUxODA4LC
 01NjA4MjEyNDEsMjc2ODcwNTUyLDMwMTc4NjUyM119
