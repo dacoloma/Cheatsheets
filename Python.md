@@ -64,7 +64,11 @@ datetime.now()
 ```
 #### Extract data (month, year, day, minutes...)
 ```python
-datetime.now()
+datetime.now().month
+datetime.now().year
+datetime.now().day
+datetime.now().month
+
 ```
 
 ## Iteration
@@ -80,7 +84,7 @@ datetime.now()
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODYzMzkyNzUsLTIwMzkyODk1MTEsOT
-c5NTUxODA4LC01NjA4MjEyNDEsMjc2ODcwNTUyLDMwMTc4NjUy
-M119
+eyJoaXN0b3J5IjpbMTAxNzcwODA5NiwtMTM4NjMzOTI3NSwtMj
+AzOTI4OTUxMSw5Nzk1NTE4MDgsLTU2MDgyMTI0MSwyNzY4NzA1
+NTIsMzAxNzg2NTIzXX0=
 -->
