@@ -1,5 +1,8 @@
 # Syntax
 ## Print
+Python V2
+```python
+print("
 ## Variable
 ## Function
 ### Anonymous function
@@ -8,7 +11,7 @@
 ## List
 ### Append/Expand
 ### Comprehension list
-## Dictionnary
+## Dictionary
 ## Filter
 
 # POO
@@ -16,5 +19,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzAxNzg2NTIzXX0=
+eyJoaXN0b3J5IjpbLTEwNjU1OTQ5NjYsMzAxNzg2NTIzXX0=
 -->
