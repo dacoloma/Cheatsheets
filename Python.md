@@ -136,7 +136,12 @@ for number in list:
 	# code
 ```
 ## Dictionary
-
+### define ```python
+my_dict = {
+	key1 = value1
+	key2 = value2
+}
+```
 ## Filter
 
 # POO
@@ -144,10 +149,10 @@ for number in list:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4Mzg3MzkyMiwtNzk2MzYyOTYwLDExMj
-M0MDc4NjMsLTg2MDg5NDk3MywxNzc5MjQxMzcwLC0yMTAxNjc3
-NTE4LDE2Mzg1MjA5MCw0MjQyNDMyNjcsNDU2ODI0NTg3LC0zNj
-YwNjUyNTQsLTkzNjQwNTE1MSwtMTU5NDE5NTE0OCwxNzM5NTgx
-MjcwLC0xMzg2MzM5Mjc1LC0yMDM5Mjg5NTExLDk3OTU1MTgwOC
-wtNTYwODIxMjQxLDI3Njg3MDU1MiwzMDE3ODY1MjNdfQ==
+eyJoaXN0b3J5IjpbNzYyMTYwODQ2LC03OTYzNjI5NjAsMTEyMz
+QwNzg2MywtODYwODk0OTczLDE3NzkyNDEzNzAsLTIxMDE2Nzc1
+MTgsMTYzODUyMDkwLDQyNDI0MzI2Nyw0NTY4MjQ1ODcsLTM2Nj
+A2NTI1NCwtOTM2NDA1MTUxLC0xNTk0MTk1MTQ4LDE3Mzk1ODEy
+NzAsLTEzODYzMzkyNzUsLTIwMzkyODk1MTEsOTc5NTUxODA4LC
+01NjA4MjEyNDEsMjc2ODcwNTUyLDMwMTc4NjUyM119
 -->
