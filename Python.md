@@ -169,7 +169,7 @@ print " ".join(letters)
 
 ### Control flow
 ```python
-if 
+if 'h' in letters
 ### Comprehension list
 ## Iteration
 ### For-loop
@@ -204,7 +204,7 @@ my_dict[key3]=value3
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2MzgwNjY4MiwxNTA4NDM2MjIzLC02Mj
+eyJoaXN0b3J5IjpbMTYxMDMwOTk3OCwxNTA4NDM2MjIzLC02Mj
 czNjA1MjksLTg4MjUxMjAwNywxNjQ0ODAxOTA2LC0xMDA5Nzg4
 NjQ3LDI5MjMwNzQwNiwtMTk1MjA2MTEzOSwxOTU1NDA1NzEyLC
 03OTYzNjI5NjAsMTEyMzQwNzg2MywtODYwODk0OTczLDE3Nzky
