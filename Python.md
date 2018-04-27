@@ -146,12 +146,13 @@ list.remove('b')
 ### Comprehension list
 ## Iteration
 ### For-loop
-Looping a list : `list = [2,5,4,8,5]`
+ `list = [2,5,4,8,5]`
+#### Looping a list 
 ```python
 for number in list:
 	# code
 ```
-
+###Looping
 ## Dictionary
 ### Define a dictionary
 ```python
@@ -171,11 +172,11 @@ my_dict[key3]=value3
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxMzM0MDUxMiwyOTIzMDc0MDYsLTE5NT
-IwNjExMzksMTk1NTQwNTcxMiwtNzk2MzYyOTYwLDExMjM0MDc4
-NjMsLTg2MDg5NDk3MywxNzc5MjQxMzcwLC0yMTAxNjc3NTE4LD
-E2Mzg1MjA5MCw0MjQyNDMyNjcsNDU2ODI0NTg3LC0zNjYwNjUy
-NTQsLTkzNjQwNTE1MSwtMTU5NDE5NTE0OCwxNzM5NTgxMjcwLC
-0xMzg2MzM5Mjc1LC0yMDM5Mjg5NTExLDk3OTU1MTgwOCwtNTYw
-ODIxMjQxXX0=
+eyJoaXN0b3J5IjpbODM2NDA4MTExLDI5MjMwNzQwNiwtMTk1Mj
+A2MTEzOSwxOTU1NDA1NzEyLC03OTYzNjI5NjAsMTEyMzQwNzg2
+MywtODYwODk0OTczLDE3NzkyNDEzNzAsLTIxMDE2Nzc1MTgsMT
+YzODUyMDkwLDQyNDI0MzI2Nyw0NTY4MjQ1ODcsLTM2NjA2NTI1
+NCwtOTM2NDA1MTUxLC0xNTk0MTk1MTQ4LDE3Mzk1ODEyNzAsLT
+EzODYzMzkyNzUsLTIwMzkyODk1MTEsOTc5NTUxODA4LC01NjA4
+MjEyNDFdfQ==
 -->
