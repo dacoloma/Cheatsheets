@@ -139,11 +139,10 @@ del(list[1])
 > Doesn't return anything
 
 #### By value
+```python
+list.remove('b')
 ```
-list.remove('b))
-# Doesn't return anything
-print n
-```
+> Doesn't return anything
 ### Comprehension list
 ## Iteration
 ### For-loop
@@ -171,11 +170,11 @@ my_dict[key3]=value3
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyODkzMTk2OCwtMTk1MjA2MTEzOSwxOT
-U1NDA1NzEyLC03OTYzNjI5NjAsMTEyMzQwNzg2MywtODYwODk0
-OTczLDE3NzkyNDEzNzAsLTIxMDE2Nzc1MTgsMTYzODUyMDkwLD
-QyNDI0MzI2Nyw0NTY4MjQ1ODcsLTM2NjA2NTI1NCwtOTM2NDA1
-MTUxLC0xNTk0MTk1MTQ4LDE3Mzk1ODEyNzAsLTEzODYzMzkyNz
-UsLTIwMzkyODk1MTEsOTc5NTUxODA4LC01NjA4MjEyNDEsMjc2
-ODcwNTUyXX0=
+eyJoaXN0b3J5IjpbMjkyMzA3NDA2LC0xOTUyMDYxMTM5LDE5NT
+U0MDU3MTIsLTc5NjM2Mjk2MCwxMTIzNDA3ODYzLC04NjA4OTQ5
+NzMsMTc3OTI0MTM3MCwtMjEwMTY3NzUxOCwxNjM4NTIwOTAsND
+I0MjQzMjY3LDQ1NjgyNDU4NywtMzY2MDY1MjU0LC05MzY0MDUx
+NTEsLTE1OTQxOTUxNDgsMTczOTU4MTI3MCwtMTM4NjMzOTI3NS
+wtMjAzOTI4OTUxMSw5Nzk1NTE4MDgsLTU2MDgyMTI0MSwyNzY4
+NzA1NTJdfQ==
 -->
