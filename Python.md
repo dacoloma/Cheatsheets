@@ -162,12 +162,12 @@ list.remove('b')
 ## Iteration
 ### For-loop
  `list = [2,5,4,8,5]`
-#### Looping a list 
+#### Looping over a list 
 ```python
 for number in list:
 	# code
 ```
->
+> Same way for iterating over a string
 #### Looping n times
 ```python
 for i in range(n):
@@ -192,7 +192,7 @@ my_dict[key3]=value3
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3MzQ1NTI4MCwxNjQ0ODAxOTA2LC0xMD
+eyJoaXN0b3J5IjpbLTg4MjUxMjAwNywxNjQ0ODAxOTA2LC0xMD
 A5Nzg4NjQ3LDI5MjMwNzQwNiwtMTk1MjA2MTEzOSwxOTU1NDA1
 NzEyLC03OTYzNjI5NjAsMTEyMzQwNzg2MywtODYwODk0OTczLD
 E3NzkyNDEzNzAsLTIxMDE2Nzc1MTgsMTYzODUyMDkwLDQyNDI0
