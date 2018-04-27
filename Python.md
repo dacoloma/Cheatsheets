@@ -129,7 +129,8 @@ list.sort()
 ```
 ### Delete
 ```python
-list.sort()
+list.pop(1)
+>> 
 ```
 ### Comprehension list
 ## Iteration
@@ -158,7 +159,7 @@ my_dict[key3]=value3
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1MDU0NDI4MCwtMTk1MjA2MTEzOSwxOT
+eyJoaXN0b3J5IjpbMjAyMjIzODU3MCwtMTk1MjA2MTEzOSwxOT
 U1NDA1NzEyLC03OTYzNjI5NjAsMTEyMzQwNzg2MywtODYwODk0
 OTczLDE3NzkyNDEzNzAsLTIxMDE2Nzc1MTgsMTYzODUyMDkwLD
 QyNDI0MzI2Nyw0NTY4MjQ1ODcsLTM2NjA2NTI1NCwtOTM2NDA1
