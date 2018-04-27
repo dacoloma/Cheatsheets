@@ -114,7 +114,12 @@ Declare quickly a list of numbers
 ```python
 numbers = range(10)
 ```
-> 
+> [0,1,2,3,4,5,6,7,8,9]
+
+```python
+numbers = range(X,Y,Z)
+```
+> X: start number
 ### Append/Expand/Insert
 ```python
 list.append('d')
@@ -182,11 +187,11 @@ my_dict[key3]=value3
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwODM0Nzg0OSwtMTAwOTc4ODY0NywyOT
-IzMDc0MDYsLTE5NTIwNjExMzksMTk1NTQwNTcxMiwtNzk2MzYy
-OTYwLDExMjM0MDc4NjMsLTg2MDg5NDk3MywxNzc5MjQxMzcwLC
-0yMTAxNjc3NTE4LDE2Mzg1MjA5MCw0MjQyNDMyNjcsNDU2ODI0
-NTg3LC0zNjYwNjUyNTQsLTkzNjQwNTE1MSwtMTU5NDE5NTE0OC
-wxNzM5NTgxMjcwLC0xMzg2MzM5Mjc1LC0yMDM5Mjg5NTExLDk3
-OTU1MTgwOF19
+eyJoaXN0b3J5IjpbLTE5ODQwMDYyMTUsLTEwMDk3ODg2NDcsMj
+kyMzA3NDA2LC0xOTUyMDYxMTM5LDE5NTU0MDU3MTIsLTc5NjM2
+Mjk2MCwxMTIzNDA3ODYzLC04NjA4OTQ5NzMsMTc3OTI0MTM3MC
+wtMjEwMTY3NzUxOCwxNjM4NTIwOTAsNDI0MjQzMjY3LDQ1Njgy
+NDU4NywtMzY2MDY1MjU0LC05MzY0MDUxNTEsLTE1OTQxOTUxND
+gsMTczOTU4MTI3MCwtMTM4NjMzOTI3NSwtMjAzOTI4OTUxMSw5
+Nzk1NTE4MDhdfQ==
 -->
