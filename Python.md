@@ -130,7 +130,7 @@ list.append('d')
 list.expand('f','g')
 list.insert(4,'e')
 ```
-> You can concatenate 2 lists the same way you do for string concatenation
+> You can concatenate 2 lists the same way you would do for string concatenation
 ### Slice
 ```python
 list[x:y:z]
@@ -193,7 +193,7 @@ my_dict[key3]=value3
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxMTEzOTU3OCwtODgyNTEyMDA3LDE2ND
+eyJoaXN0b3J5IjpbLTYyNzM2MDUyOSwtODgyNTEyMDA3LDE2ND
 Q4MDE5MDYsLTEwMDk3ODg2NDcsMjkyMzA3NDA2LC0xOTUyMDYx
 MTM5LDE5NTU0MDU3MTIsLTc5NjM2Mjk2MCwxMTIzNDA3ODYzLC
 04NjA4OTQ5NzMsMTc3OTI0MTM3MCwtMjEwMTY3NzUxOCwxNjM4
