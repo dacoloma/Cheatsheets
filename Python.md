@@ -130,8 +130,9 @@ list.sort()
 ### Delete
 ```python
 list.pop(1)
->> 
+>> b
 ```
+> list = [a,c,d,e,f]
 ### Comprehension list
 ## Iteration
 ### For-loop
@@ -159,7 +160,7 @@ my_dict[key3]=value3
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyMjIzODU3MCwtMTk1MjA2MTEzOSwxOT
+eyJoaXN0b3J5IjpbMTAyNzMxMjI2NCwtMTk1MjA2MTEzOSwxOT
 U1NDA1NzEyLC03OTYzNjI5NjAsMTEyMzQwNzg2MywtODYwODk0
 OTczLDE3NzkyNDEzNzAsLTIxMDE2Nzc1MTgsMTYzODUyMDkwLD
 QyNDI0MzI2Nyw0NTY4MjQ1ODcsLTM2NjA2NTI1NCwtOTM2NDA1
