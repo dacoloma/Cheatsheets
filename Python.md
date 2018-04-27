@@ -111,14 +111,19 @@ else:
 list = ['a','b','c']
 ```
 Declare quickly a list of numbers 
-
-
 ```python
 numbers = range(X,Y,Z)
 ```
 > X: start number
 > Y: stop number (exclude)
 > Z: step (default = 1)
+
+Quicker way
+```python
+numbers = range(10)
+```
+> [0,1,2,3,4,5,6,7,8,9]
+
 ### Append/Expand/Insert
 ```python
 list.append('d')
@@ -186,11 +191,11 @@ my_dict[key3]=value3
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTEwNjc3NDI0LC0xMDA5Nzg4NjQ3LDI5Mj
-MwNzQwNiwtMTk1MjA2MTEzOSwxOTU1NDA1NzEyLC03OTYzNjI5
-NjAsMTEyMzQwNzg2MywtODYwODk0OTczLDE3NzkyNDEzNzAsLT
-IxMDE2Nzc1MTgsMTYzODUyMDkwLDQyNDI0MzI2Nyw0NTY4MjQ1
-ODcsLTM2NjA2NTI1NCwtOTM2NDA1MTUxLC0xNTk0MTk1MTQ4LD
-E3Mzk1ODEyNzAsLTEzODYzMzkyNzUsLTIwMzkyODk1MTEsOTc5
-NTUxODA4XX0=
+eyJoaXN0b3J5IjpbMTY0NDgwMTkwNiwtMTAwOTc4ODY0NywyOT
+IzMDc0MDYsLTE5NTIwNjExMzksMTk1NTQwNTcxMiwtNzk2MzYy
+OTYwLDExMjM0MDc4NjMsLTg2MDg5NDk3MywxNzc5MjQxMzcwLC
+0yMTAxNjc3NTE4LDE2Mzg1MjA5MCw0MjQyNDMyNjcsNDU2ODI0
+NTg3LC0zNjYwNjUyNTQsLTkzNjQwNTE1MSwtMTU5NDE5NTE0OC
+wxNzM5NTgxMjcwLC0xMzg2MzM5Mjc1LC0yMDM5Mjg5NTExLDk3
+OTU1MTgwOF19
 -->
