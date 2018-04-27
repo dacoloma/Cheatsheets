@@ -190,7 +190,10 @@ for i in range(n):
 	# code
 ```
 ### While-loop
-
+```python
+while condition:
+	# code
+```
 ## Dictionary
 ### Define a dictionary
 ```python
@@ -210,11 +213,11 @@ my_dict[key3]=value3
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5MTU2Mzc4NywtMTY1OTg3NzQsMTUwOD
-QzNjIyMywtNjI3MzYwNTI5LC04ODI1MTIwMDcsMTY0NDgwMTkw
-NiwtMTAwOTc4ODY0NywyOTIzMDc0MDYsLTE5NTIwNjExMzksMT
-k1NTQwNTcxMiwtNzk2MzYyOTYwLDExMjM0MDc4NjMsLTg2MDg5
-NDk3MywxNzc5MjQxMzcwLC0yMTAxNjc3NTE4LDE2Mzg1MjA5MC
-w0MjQyNDMyNjcsNDU2ODI0NTg3LC0zNjYwNjUyNTQsLTkzNjQw
-NTE1MV19
+eyJoaXN0b3J5IjpbLTEyOTYwNDkxOSwxOTkxNTYzNzg3LC0xNj
+U5ODc3NCwxNTA4NDM2MjIzLC02MjczNjA1MjksLTg4MjUxMjAw
+NywxNjQ0ODAxOTA2LC0xMDA5Nzg4NjQ3LDI5MjMwNzQwNiwtMT
+k1MjA2MTEzOSwxOTU1NDA1NzEyLC03OTYzNjI5NjAsMTEyMzQw
+Nzg2MywtODYwODk0OTczLDE3NzkyNDEzNzAsLTIxMDE2Nzc1MT
+gsMTYzODUyMDkwLDQyNDI0MzI2Nyw0NTY4MjQ1ODcsLTM2NjA2
+NTI1NF19
 -->
