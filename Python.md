@@ -159,6 +159,12 @@ del(list[1])
 list.remove('b')
 ```
 > Doesn't return anything
+
+### Join
+```python
+letters = ['a', 'b', 'c', 'd']
+print " ".join(letters)
+```
 ### Comprehension list
 ## Iteration
 ### For-loop
@@ -193,11 +199,11 @@ my_dict[key3]=value3
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyNzM2MDUyOSwtODgyNTEyMDA3LDE2ND
-Q4MDE5MDYsLTEwMDk3ODg2NDcsMjkyMzA3NDA2LC0xOTUyMDYx
-MTM5LDE5NTU0MDU3MTIsLTc5NjM2Mjk2MCwxMTIzNDA3ODYzLC
-04NjA4OTQ5NzMsMTc3OTI0MTM3MCwtMjEwMTY3NzUxOCwxNjM4
-NTIwOTAsNDI0MjQzMjY3LDQ1NjgyNDU4NywtMzY2MDY1MjU0LC
-05MzY0MDUxNTEsLTE1OTQxOTUxNDgsMTczOTU4MTI3MCwtMTM4
-NjMzOTI3NV19
+eyJoaXN0b3J5IjpbMTY1MDY1NTU2NywtNjI3MzYwNTI5LC04OD
+I1MTIwMDcsMTY0NDgwMTkwNiwtMTAwOTc4ODY0NywyOTIzMDc0
+MDYsLTE5NTIwNjExMzksMTk1NTQwNTcxMiwtNzk2MzYyOTYwLD
+ExMjM0MDc4NjMsLTg2MDg5NDk3MywxNzc5MjQxMzcwLC0yMTAx
+Njc3NTE4LDE2Mzg1MjA5MCw0MjQyNDMyNjcsNDU2ODI0NTg3LC
+0zNjYwNjUyNTQsLTkzNjQwNTE1MSwtMTU5NDE5NTE0OCwxNzM5
+NTgxMjcwXX0=
 -->
