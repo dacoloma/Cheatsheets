@@ -132,7 +132,13 @@ list.sort()
 list.pop(1)
 >> b
 ```
-> list = [a,c,d,e,f]
+> list = [a,c,d,e,f,g]
+
+```python
+del(list[1])
+# Doesn't return anything
+print n
+```
 ### Comprehension list
 ## Iteration
 ### For-loop
@@ -160,11 +166,11 @@ my_dict[key3]=value3
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyNzMxMjI2NCwtMTk1MjA2MTEzOSwxOT
-U1NDA1NzEyLC03OTYzNjI5NjAsMTEyMzQwNzg2MywtODYwODk0
-OTczLDE3NzkyNDEzNzAsLTIxMDE2Nzc1MTgsMTYzODUyMDkwLD
-QyNDI0MzI2Nyw0NTY4MjQ1ODcsLTM2NjA2NTI1NCwtOTM2NDA1
-MTUxLC0xNTk0MTk1MTQ4LDE3Mzk1ODEyNzAsLTEzODYzMzkyNz
-UsLTIwMzkyODk1MTEsOTc5NTUxODA4LC01NjA4MjEyNDEsMjc2
-ODcwNTUyXX0=
+eyJoaXN0b3J5IjpbLTE1MzAxNjI3MzYsLTE5NTIwNjExMzksMT
+k1NTQwNTcxMiwtNzk2MzYyOTYwLDExMjM0MDc4NjMsLTg2MDg5
+NDk3MywxNzc5MjQxMzcwLC0yMTAxNjc3NTE4LDE2Mzg1MjA5MC
+w0MjQyNDMyNjcsNDU2ODI0NTg3LC0zNjYwNjUyNTQsLTkzNjQw
+NTE1MSwtMTU5NDE5NTE0OCwxNzM5NTgxMjcwLC0xMzg2MzM5Mj
+c1LC0yMDM5Mjg5NTExLDk3OTU1MTgwOCwtNTYwODIxMjQxLDI3
+Njg3MDU1Ml19
 -->
