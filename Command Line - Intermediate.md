@@ -13,8 +13,9 @@ chmod g,o=u myfile
 ## kinit
 ## klist
 # find 
+## Find matching pattern file(s)
 ```shell
-find . -iname "
+find . -iname "*pat*"
 ```
 
 # diff / patch
@@ -22,6 +23,6 @@ find . -iname "
 # Magic files
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzM3NTMyODIsLTEzMTAyMzI5MThdfQ
+eyJoaXN0b3J5IjpbLTIxMjU5MDAxODUsLTEzMTAyMzI5MThdfQ
 ==
 -->
