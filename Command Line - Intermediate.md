@@ -6,17 +6,21 @@ chmod u=rwx myfile
 chmod u-x myfile
 ```
 ```shell
-chmod u-x myfile
+chmod g,o=u myfile
 ```
 
 # Kerberos ticket
 ## kinit
 ## klist
 # find 
+```shell
+find 
+```
+
 # diff / patch
 # file
 # Magic files
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2MzkxMTQ0NCwtMTMxMDIzMjkxOF19
+eyJoaXN0b3J5IjpbNTI1MzQ0MzcsLTEzMTAyMzI5MThdfQ==
 -->
