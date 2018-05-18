@@ -17,12 +17,12 @@ chmod g,o=u myfile
 ```shell
 find . -iname "*pat*"
 ```
+## Search & destroy
 
 # diff / patch
 # file
 # Magic files
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjU5MDAxODUsLTEzMTAyMzI5MThdfQ
-==
+eyJoaXN0b3J5IjpbMTI4MjEwNzA5MywtMTMxMDIzMjkxOF19
 -->
