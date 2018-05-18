@@ -10,6 +10,8 @@ chmod g,o=u myfile
 ```
 
 # Kerberos ticket
+> https://blog.devensys.com/kerberos-principe-de-fonctionnement/
+> https://web.mit.edu/kerberos/krb5-1.11/doc/user/tkt_mgmt.html
 ## kinit
 ## klist
 # find 
@@ -24,5 +26,6 @@ find . -iname "*pat*"
 # Magic files
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4MjEwNzA5MywtMTMxMDIzMjkxOF19
+eyJoaXN0b3J5IjpbMjQyNDEzMjYwLDEyODIxMDcwOTMsLTEzMT
+AyMzI5MThdfQ==
 -->
