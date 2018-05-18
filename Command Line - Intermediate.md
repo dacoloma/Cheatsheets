@@ -1,7 +1,9 @@
-
-
-
-> Written with [StackEdit](https://stackedit.io/).
+# 
+- find 	
+- file
+- diff / patch
+- kinit/klist
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczNTIzMjY4M119
+eyJoaXN0b3J5IjpbLTM3ODIxNTc2OV19
 -->
