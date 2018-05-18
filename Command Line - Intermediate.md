@@ -23,12 +23,14 @@ find . -iname "*pat*"
 
 # diff / patch
 ```shell
-diff -u fileA fileB
+diff -u fileA fileB > 
+
 ```
 # file
 # Magic files
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczMTQyNzIwOCwtMTU0OTgwODc3NCwyND
-I0MTMyNjAsMTI4MjEwNzA5MywtMTMxMDIzMjkxOF19
+eyJoaXN0b3J5IjpbLTE1MDYxNTk1NDAsLTczMTQyNzIwOCwtMT
+U0OTgwODc3NCwyNDI0MTMyNjAsMTI4MjEwNzA5MywtMTMxMDIz
+MjkxOF19
 -->
