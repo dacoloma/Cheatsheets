@@ -14,7 +14,7 @@ chmod g,o=u myfile
 ## klist
 # find 
 ```shell
-find 
+find . -iname "
 ```
 
 # diff / patch
@@ -22,5 +22,6 @@ find
 # Magic files
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI1MzQ0MzcsLTEzMTAyMzI5MThdfQ==
+eyJoaXN0b3J5IjpbLTE3MzM3NTMyODIsLTEzMTAyMzI5MThdfQ
+==
 -->
