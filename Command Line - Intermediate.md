@@ -22,11 +22,13 @@ find . -iname "*pat*"
 ## Search & destroy
 
 # diff / patch
-
+```shell
+diff -u fileA fileB
+```
 # file
 # Magic files
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDk4MDg3NzQsMjQyNDEzMjYwLDEyOD
-IxMDcwOTMsLTEzMTAyMzI5MThdfQ==
+eyJoaXN0b3J5IjpbLTczMTQyNzIwOCwtMTU0OTgwODc3NCwyND
+I0MTMyNjAsMTI4MjEwNzA5MywtMTMxMDIzMjkxOF19
 -->
