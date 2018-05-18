@@ -22,10 +22,11 @@ find . -iname "*pat*"
 ## Search & destroy
 
 # diff / patch
+
 # file
 # Magic files
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQyNDEzMjYwLDEyODIxMDcwOTMsLTEzMT
-AyMzI5MThdfQ==
+eyJoaXN0b3J5IjpbLTE1NDk4MDg3NzQsMjQyNDEzMjYwLDEyOD
+IxMDcwOTMsLTEzMTAyMzI5MThdfQ==
 -->
