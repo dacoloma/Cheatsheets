@@ -35,9 +35,15 @@ patch fileC sw.diff
 ```
 # file
 # Magic files
+# ifconfig
+## MAC addresses 
+```shell
+ifconfig | grep ether
+```
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2NzYxNDE0NCwtMTQ2NzA3NjMxOCwtMT
-YyNDUxNDkyMSwtNzMxNDI3MjA4LC0xNTQ5ODA4Nzc0LDI0MjQx
-MzI2MCwxMjgyMTA3MDkzLC0xMzEwMjMyOTE4XX0=
+eyJoaXN0b3J5IjpbNzI0OTQ1NjA4LC00Njc2MTQxNDQsLTE0Nj
+cwNzYzMTgsLTE2MjQ1MTQ5MjEsLTczMTQyNzIwOCwtMTU0OTgw
+ODc3NCwyNDI0MTMyNjAsMTI4MjEwNzA5MywtMTMxMDIzMjkxOF
+19
 -->
