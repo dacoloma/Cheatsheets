@@ -22,6 +22,7 @@ find . -iname "*pat*"
 ## Search & destroy
 ```shell
 find . -iname *pat* -delete
+```
 ## Counting directories and files
 ```shell
 find  . -depth | wc -l
@@ -36,7 +37,7 @@ patch fileC sw.diff
 # Magic files
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjcwNzYzMTgsLTE2MjQ1MTQ5MjEsLT
-czMTQyNzIwOCwtMTU0OTgwODc3NCwyNDI0MTMyNjAsMTI4MjEw
-NzA5MywtMTMxMDIzMjkxOF19
+eyJoaXN0b3J5IjpbLTQ2NzYxNDE0NCwtMTQ2NzA3NjMxOCwtMT
+YyNDUxNDkyMSwtNzMxNDI3MjA4LC0xNTQ5ODA4Nzc0LDI0MjQx
+MzI2MCwxMjgyMTA3MDkzLC0xMzEwMjMyOTE4XX0=
 -->
