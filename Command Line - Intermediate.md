@@ -20,6 +20,8 @@ chmod g,o=u myfile
 find . -iname "*pat*"
 ```
 ## Search & destroy
+## Counting directories and files
+```
 
 # diff / patch
 ```shell
@@ -30,7 +32,7 @@ patch fileC sw.diff
 # Magic files
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjQ1MTQ5MjEsLTczMTQyNzIwOCwtMT
-U0OTgwODc3NCwyNDI0MTMyNjAsMTI4MjEwNzA5MywtMTMxMDIz
-MjkxOF19
+eyJoaXN0b3J5IjpbMTE3MzAzMTkxNSwtMTYyNDUxNDkyMSwtNz
+MxNDI3MjA4LC0xNTQ5ODA4Nzc0LDI0MjQxMzI2MCwxMjgyMTA3
+MDkzLC0xMzEwMjMyOTE4XX0=
 -->
