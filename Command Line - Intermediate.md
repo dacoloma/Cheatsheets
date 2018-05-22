@@ -45,10 +45,13 @@ ifconfig | grep ether
 ```shell
 gcc -o hello hello.c
 ```
-## 
+## Running
+```shell
+./hello
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxNDIxNjIzNiw3MjQ5NDU2MDgsLTQ2Nz
-YxNDE0NCwtMTQ2NzA3NjMxOCwtMTYyNDUxNDkyMSwtNzMxNDI3
-MjA4LC0xNTQ5ODA4Nzc0LDI0MjQxMzI2MCwxMjgyMTA3MDkzLC
-0xMzEwMjMyOTE4XX0=
+eyJoaXN0b3J5IjpbLTEwNjE1ODc3MjgsNzI0OTQ1NjA4LC00Nj
+c2MTQxNDQsLTE0NjcwNzYzMTgsLTE2MjQ1MTQ5MjEsLTczMTQy
+NzIwOCwtMTU0OTgwODc3NCwyNDI0MTMyNjAsMTI4MjEwNzA5My
+wtMTMxMDIzMjkxOF19
 -->
