@@ -40,10 +40,16 @@ patch fileC sw.diff
 ```shell
 ifconfig | grep ether
 ```
- 
+# Compiling a C program
+```shell
+gcc
+
+-
+
+o hello hello.c
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI0OTQ1NjA4LC00Njc2MTQxNDQsLTE0Nj
-cwNzYzMTgsLTE2MjQ1MTQ5MjEsLTczMTQyNzIwOCwtMTU0OTgw
-ODc3NCwyNDI0MTMyNjAsMTI4MjEwNzA5MywtMTMxMDIzMjkxOF
-19
+eyJoaXN0b3J5IjpbLTYzMTAyODI5NSw3MjQ5NDU2MDgsLTQ2Nz
+YxNDE0NCwtMTQ2NzA3NjMxOCwtMTYyNDUxNDkyMSwtNzMxNDI3
+MjA4LC0xNTQ5ODA4Nzc0LDI0MjQxMzI2MCwxMjgyMTA3MDkzLC
+0xMzEwMjMyOTE4XX0=
 -->
