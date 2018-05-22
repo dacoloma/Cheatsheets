@@ -42,13 +42,10 @@ ifconfig | grep ether
 ```
 # Compiling a C program
 ```shell
-gcc
-
--
-
-o hello hello.c
+gcc -o hello hello.c
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzMTAyODI5NSw3MjQ5NDU2MDgsLTQ2Nz
+eyJoaXN0b3J5IjpbMTQ4MzQ1MTc0NSw3MjQ5NDU2MDgsLTQ2Nz
 YxNDE0NCwtMTQ2NzA3NjMxOCwtMTYyNDUxNDkyMSwtNzMxNDI3
 MjA4LC0xNTQ5ODA4Nzc0LDI0MjQxMzI2MCwxMjgyMTA3MDkzLC
 0xMzEwMjMyOTE4XX0=
