@@ -160,7 +160,7 @@ Find specific pattern in files and replace whole line by another one
 ```bash
 $ grep -rl 'pattern' . | xargs sed -i '' -e 's/.*pattern.*/new_string/g'
 ```
-> -i : for Mac users, specify the argument '' for -i optio
+> `-i` : for Mac users, specify the argument `''` 
 # Environment
 ## Alias
 Go to ~/.bash_profile and write : 
@@ -186,11 +186,11 @@ echo $USER
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwMjM4NzQzOCwxNzAwMjQ2MDk0LC0yMD
-UyMTM1MTc5LDE5NDE4NzM4ODUsLTE3MDMxMzgyNzIsMTIyNTA0
-MjcxMCwtMTA3MzU1NTMyMywtMTEyMTcyNDIwMiwtNjUzMzE1MD
-k2LDE3Nzk0NDU1MDUsMjEyMDI4NTEyMCwtMTYxMjQ4OTI2Miwx
-NTU1MzQ4MDM4LDcwNDc0NTI4MSwyMTQwNjkwODE4LC0xNjc1Mj
-E4NTYyLDEwMzg1OTYxNywtOTgyODE3MDUyLC0xMzEyNzY2Mzg0
-LDE5NTY2MzM5NjddfQ==
+eyJoaXN0b3J5IjpbODk1NDk1NzAyLDE3MDAyNDYwOTQsLTIwNT
+IxMzUxNzksMTk0MTg3Mzg4NSwtMTcwMzEzODI3MiwxMjI1MDQy
+NzEwLC0xMDczNTU1MzIzLC0xMTIxNzI0MjAyLC02NTMzMTUwOT
+YsMTc3OTQ0NTUwNSwyMTIwMjg1MTIwLC0xNjEyNDg5MjYyLDE1
+NTUzNDgwMzgsNzA0NzQ1MjgxLDIxNDA2OTA4MTgsLTE2NzUyMT
+g1NjIsMTAzODU5NjE3LC05ODI4MTcwNTIsLTEzMTI3NjYzODQs
+MTk1NjYzMzk2N119
 -->
