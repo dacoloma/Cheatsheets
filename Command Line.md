@@ -139,7 +139,7 @@ $ sort MyFileToSort.txt
 ```bash
 $ uniq list.txt
 ```
-## Search
+## Search & Replace
 Grep : Global regular expression print
 - Search for lines of a file matching a pattern and return the lines
 ```bash
@@ -151,11 +151,12 @@ $ grep -rl Mount my_directory/
 > -r : return all the filenames with lines that match the pattern (even in subdirectories)
 > -l : return list of filename that match the pattern
 
-Sed : Stream editor ('find and replace')
+Sed : Stream editor 
 ```
 $ sed 's/snow/rain/' forests.txt
 $ sed 's/snow/rain/g' forests.txt
 ```
+Find specific pattern in 
 # Environment
 ## Alias
 Go to ~/.bash_profile and write : 
@@ -181,11 +182,11 @@ echo $USER
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwMDI0NjA5NCwtMjA1MjEzNTE3OSwxOT
-QxODczODg1LC0xNzAzMTM4MjcyLDEyMjUwNDI3MTAsLTEwNzM1
-NTUzMjMsLTExMjE3MjQyMDIsLTY1MzMxNTA5NiwxNzc5NDQ1NT
-A1LDIxMjAyODUxMjAsLTE2MTI0ODkyNjIsMTU1NTM0ODAzOCw3
-MDQ3NDUyODEsMjE0MDY5MDgxOCwtMTY3NTIxODU2MiwxMDM4NT
-k2MTcsLTk4MjgxNzA1MiwtMTMxMjc2NjM4NCwxOTU2NjMzOTY3
-LDU5OTk3NDgxOF19
+eyJoaXN0b3J5IjpbMTc1NTYyODY4OSwxNzAwMjQ2MDk0LC0yMD
+UyMTM1MTc5LDE5NDE4NzM4ODUsLTE3MDMxMzgyNzIsMTIyNTA0
+MjcxMCwtMTA3MzU1NTMyMywtMTEyMTcyNDIwMiwtNjUzMzE1MD
+k2LDE3Nzk0NDU1MDUsMjEyMDI4NTEyMCwtMTYxMjQ4OTI2Miwx
+NTU1MzQ4MDM4LDcwNDc0NTI4MSwyMTQwNjkwODE4LC0xNjc1Mj
+E4NTYyLDEwMzg1OTYxNywtOTgyODE3MDUyLC0xMzEyNzY2Mzg0
+LDE5NTY2MzM5NjddfQ==
 -->
