@@ -152,11 +152,14 @@ $ grep -rl Mount my_directory/
 > -l : return list of filename that match the pattern
 
 Sed : Stream editor 
-```
+```bash
 $ sed 's/snow/rain/' forests.txt
 $ sed 's/snow/rain/g' forests.txt
 ```
-Find specific pattern in 
+Find specific pattern in files and replace whole line by another one
+```bash
+$ grep -rl 'rails-html-sanitizer' . | xargs sed -i '' -e 's/.*rails-html-sanitizer.*/rails-html-sanitizer ~> 1.0.4/'
+```
 # Environment
 ## Alias
 Go to ~/.bash_profile and write : 
@@ -182,7 +185,7 @@ echo $USER
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1NTYyODY4OSwxNzAwMjQ2MDk0LC0yMD
+eyJoaXN0b3J5IjpbMTUyNTc4Mjc2NiwxNzAwMjQ2MDk0LC0yMD
 UyMTM1MTc5LDE5NDE4NzM4ODUsLTE3MDMxMzgyNzIsMTIyNTA0
 MjcxMCwtMTA3MzU1NTMyMywtMTEyMTcyNDIwMiwtNjUzMzE1MD
 k2LDE3Nzk0NDU1MDUsMjEyMDI4NTEyMCwtMTYxMjQ4OTI2Miwx
