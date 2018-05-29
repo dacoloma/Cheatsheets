@@ -158,12 +158,12 @@ $ sed 's/snow/rain/g' forests.txt
 ```
 Find specific pattern in files and replace whole line by another one
 ```bash
-$ grep -rl 'rails-html-sanitizer' . | xargs sed -i '' -e 's/.*rails-html-sanitizer.*/rails-html-sanitizer ~> 1.0.4/'
+$ grep -rl 'pattern' . | xargs sed -i '' -e 's/.*pattern.*/rails-html-sanitizer ~> 1.0.4/'
 ```
 # Environment
 ## Alias
 Go to ~/.bash_profile and write : 
-```
+```bash
 alias myAlias="my_new_shortcut"
 ```
 Save and quit, then type : 
@@ -172,7 +172,7 @@ $ source ~/.bash_profile
 ```
 ## Environment variable
 Go to ~/.bash_profile and write : 
-```
+```bash
 export USER="Jane Doe"
 ```
 Save and quit, then type : 
@@ -180,16 +180,16 @@ Save and quit, then type :
 $ source ~/.bash_profile
 ```
 To check, type : 
-```
+```bash
 echo $USER
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyNTc4Mjc2NiwxNzAwMjQ2MDk0LC0yMD
-UyMTM1MTc5LDE5NDE4NzM4ODUsLTE3MDMxMzgyNzIsMTIyNTA0
-MjcxMCwtMTA3MzU1NTMyMywtMTEyMTcyNDIwMiwtNjUzMzE1MD
-k2LDE3Nzk0NDU1MDUsMjEyMDI4NTEyMCwtMTYxMjQ4OTI2Miwx
-NTU1MzQ4MDM4LDcwNDc0NTI4MSwyMTQwNjkwODE4LC0xNjc1Mj
-E4NTYyLDEwMzg1OTYxNywtOTgyODE3MDUyLC0xMzEyNzY2Mzg0
-LDE5NTY2MzM5NjddfQ==
+eyJoaXN0b3J5IjpbLTE1MjEyNjI2NTAsMTcwMDI0NjA5NCwtMj
+A1MjEzNTE3OSwxOTQxODczODg1LC0xNzAzMTM4MjcyLDEyMjUw
+NDI3MTAsLTEwNzM1NTUzMjMsLTExMjE3MjQyMDIsLTY1MzMxNT
+A5NiwxNzc5NDQ1NTA1LDIxMjAyODUxMjAsLTE2MTI0ODkyNjIs
+MTU1NTM0ODAzOCw3MDQ3NDUyODEsMjE0MDY5MDgxOCwtMTY3NT
+IxODU2MiwxMDM4NTk2MTcsLTk4MjgxNzA1MiwtMTMxMjc2NjM4
+NCwxOTU2NjMzOTY3XX0=
 -->
