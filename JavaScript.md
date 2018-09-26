@@ -1,4 +1,4 @@
-# Basics
+# JavaScript - Basics
 ## Variable, constant
 ```javascript
 // Variable assignment
@@ -24,7 +24,16 @@ if (age < 18) {
 }
 ```
 
+## Function
+### Declaration
+```javascript
+function myFunction() {
+	// code
+	console.log('Inside de function');
+}
+```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwMTU4MjAwMiwtMTA0ODM1NzI2NF19
+eyJoaXN0b3J5IjpbNDI5NDUzMDY0LC05MDE1ODIwMDIsLTEwND
+gzNTcyNjRdfQ==
 -->
