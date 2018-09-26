@@ -22,8 +22,9 @@ if (age < 18) {
 } else {
 	console.log('You can pass');
 }
+```
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDgzNTcyNjRdfQ==
+eyJoaXN0b3J5IjpbLTkwMTU4MjAwMiwtMTA0ODM1NzI2NF19
 -->
