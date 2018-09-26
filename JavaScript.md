@@ -57,9 +57,8 @@ myName();
 > Output1 > My name is Marvin ! 
 > Output2 > My name is Dany ! 
 
-
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE0MzE1OTAyLC02NDU1MzQ1NTgsNDI5ND
-UzMDY0LC05MDE1ODIwMDIsLTEwNDgzNTcyNjRdfQ==
+eyJoaXN0b3J5IjpbLTY0NTUzNDU1OCwzMTQzMTU5MDIsLTY0NT
+UzNDU1OCw0Mjk0NTMwNjQsLTkwMTU4MjAwMiwtMTA0ODM1NzI2
+NF19
 -->
