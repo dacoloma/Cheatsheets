@@ -36,6 +36,7 @@ myFunction();
 > Output > Inside my function
 
 ```javascript
+// With parameters
 function myName(name) {
 	console.log('My name is ' + name + ' !');
 // or "console.log('My name is ${name} !');"
@@ -45,6 +46,7 @@ myName('Dany');
 > Output > My name is Dany ! 
 
 ```javascript
+// With parameters and default value
 function myName(name = 'Dany') {
 	console.log('My name is ' + name + ' !');
 // or "console.log('My name is ${name} !');"
@@ -56,6 +58,6 @@ myName();
 > Output2 > My name is Dany ! 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzM2MjAyOTUsNDI5NDUzMDY0LC05MD
-E1ODIwMDIsLTEwNDgzNTcyNjRdfQ==
+eyJoaXN0b3J5IjpbLTY0NTUzNDU1OCw0Mjk0NTMwNjQsLTkwMT
+U4MjAwMiwtMTA0ODM1NzI2NF19
 -->
