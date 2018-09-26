@@ -1,5 +1,6 @@
-# Navigation
-## Change directory
+# Command Line - Basics
+## Navigation
+### Change directory
 ```bash
 $ cd 
 $ cd Desktop/
@@ -9,7 +10,7 @@ Go to previous directory
 ```bash
 cd -
 ```
-## List files 
+### List files 
 - Current directory
 ```bash 
 $ ls
@@ -30,21 +31,21 @@ $ ls -a
 ```bash
 $ ls -alt
 ```
-## Print working directory
+### Print working directory
 ```bash
 $ pwd
 ```
 
-# Manipulating files/directories
-## Create file
+## Manipulating files/directories
+### Create file
 ```bash
 $ touch myFile
 ```
-## Create directory
+### Create directory
 ```bash
 $ mkdir myDirectory
 ```
-## Copy file
+### Copy file
 - Copy a file in a directory
 ```bash
 $ cp fichier.txt myDirectory/
@@ -62,13 +63,13 @@ $ cp fichier1.txt fichier2.txt myDirectory/
 $ cp *.txt myDirectory2/
 $ cp m*.txt myDirectory3/
 ```
-## Word counting
+### Word counting
 ```bash
 $ wc hello.txt
 >>      1     1     6 hello.txt
 ```
 > Return the number of lines, words, and characters
-## Move/Rename
+### Move/Rename
 - Move a file 
 ```bash
 $ mv myfile.txt myDirectory/
@@ -186,11 +187,11 @@ echo $USER
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwMjU0MjQyLC0xMjQxNjc3NzQ3LDE3MD
-AyNDYwOTQsLTIwNTIxMzUxNzksMTk0MTg3Mzg4NSwtMTcwMzEz
-ODI3MiwxMjI1MDQyNzEwLC0xMDczNTU1MzIzLC0xMTIxNzI0Mj
-AyLC02NTMzMTUwOTYsMTc3OTQ0NTUwNSwyMTIwMjg1MTIwLC0x
-NjEyNDg5MjYyLDE1NTUzNDgwMzgsNzA0NzQ1MjgxLDIxNDA2OT
-A4MTgsLTE2NzUyMTg1NjIsMTAzODU5NjE3LC05ODI4MTcwNTIs
-LTEzMTI3NjYzODRdfQ==
+eyJoaXN0b3J5IjpbLTgyNjg4NjQwNCwxMDAyNTQyNDIsLTEyND
+E2Nzc3NDcsMTcwMDI0NjA5NCwtMjA1MjEzNTE3OSwxOTQxODcz
+ODg1LC0xNzAzMTM4MjcyLDEyMjUwNDI3MTAsLTEwNzM1NTUzMj
+MsLTExMjE3MjQyMDIsLTY1MzMxNTA5NiwxNzc5NDQ1NTA1LDIx
+MjAyODUxMjAsLTE2MTI0ODkyNjIsMTU1NTM0ODAzOCw3MDQ3ND
+UyODEsMjE0MDY5MDgxOCwtMTY3NTIxODU2MiwxMDM4NTk2MTcs
+LTk4MjgxNzA1Ml19
 -->
