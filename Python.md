@@ -119,20 +119,20 @@ numbers = range(X,Y,Z)
 > Y: stop number (exclude)
 > Z: step (default = 1)
 
-Quicker way
+#### Quicker way
 ```python
 numbers = range(10)
 ```
 > [0,1,2,3,4,5,6,7,8,9]
 
-### Append/Expand/Insert
+#### Append/Expand/Insert
 ```python
 list.append('d')
 list.expand('f','g')
 list.insert(4,'e')
 ```
 > You can concatenate 2 lists the same way you would do for string concatenation
-### Slice
+#### Slice
 ```python
 list[x:y:z]
 ```
@@ -140,12 +140,12 @@ list[x:y:z]
 > y : stop index (exclude)
 > z : step (default = 1)
 
-### Sort
+#### Sort
 ```python
 list.sort()
 ```
-### Delete
-#### By index
+#### Delete
+##### By index
 ```python
 list.pop(1)
 ```
@@ -155,42 +155,42 @@ del(list[1])
 ```
 > Doesn't return anything
 
-#### By value
+##### By value
 ```python
 list.remove('b')
 ```
 > Doesn't return anything
 
-### Join
+#### Join
 ```python
 letters = ['a', 'b', 'c', 'd']
 print " ".join(letters)
 ```
 > a b c d
 
-### Control flow
+#### Control flow
 ```python
 if 'h' in letters:
 	# code
 if 'h' not in letters:
 	# code 
 ```
-### Comprehension list
-## Iteration
-### For-loop
+#### Comprehension list
+### Iteration
+#### For-loop
  `list = [2,5,4,8,5]`
-#### Looping over a list 
+##### Looping over a list 
 ```python
 for number in list:
 	# code
 ```
 > Same way for iterating over a string
-#### Looping n times
+##### Looping n times
 ```python
 for i in range(n):
 	# code
 ```
-### While-loop
+#### While-loop
 ```python
 while condition:
 	# code
@@ -200,30 +200,30 @@ while condition:
 else:
 	# code
 ```
-## Dictionary
-### Define a dictionary
+### Dictionary
+#### Define a dictionary
 ```python
 my_dict = {
 	key1 = value1
 	key2 = value2
 }
 ```
-### Add a new key 
+#### Add a new key 
 ```python
 my_dict[key3]=value3
 ```
-## Filter
+### Filter
 
-# POO
-## Initialize class
+## POO
+### Initialize class
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQyMzg2OTQyLC03MTkyNzgxNTQsLTEyOT
-YwNDkxOSwxOTkxNTYzNzg3LC0xNjU5ODc3NCwxNTA4NDM2MjIz
-LC02MjczNjA1MjksLTg4MjUxMjAwNywxNjQ0ODAxOTA2LC0xMD
-A5Nzg4NjQ3LDI5MjMwNzQwNiwtMTk1MjA2MTEzOSwxOTU1NDA1
-NzEyLC03OTYzNjI5NjAsMTEyMzQwNzg2MywtODYwODk0OTczLD
-E3NzkyNDEzNzAsLTIxMDE2Nzc1MTgsMTYzODUyMDkwLDQyNDI0
-MzI2N119
+eyJoaXN0b3J5IjpbLTE2MjU0MzY4NTQsLTcxOTI3ODE1NCwtMT
+I5NjA0OTE5LDE5OTE1NjM3ODcsLTE2NTk4Nzc0LDE1MDg0MzYy
+MjMsLTYyNzM2MDUyOSwtODgyNTEyMDA3LDE2NDQ4MDE5MDYsLT
+EwMDk3ODg2NDcsMjkyMzA3NDA2LC0xOTUyMDYxMTM5LDE5NTU0
+MDU3MTIsLTc5NjM2Mjk2MCwxMTIzNDA3ODYzLC04NjA4OTQ5Nz
+MsMTc3OTI0MTM3MCwtMjEwMTY3NzUxOCwxNjM4NTIwOTAsNDI0
+MjQzMjY3XX0=
 -->
