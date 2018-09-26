@@ -25,15 +25,17 @@ if (age < 18) {
 ```
 
 ## Function
-### Declaration
+### Declaration & ouput
 ```javascript
 function myFunction() {
 	// code
 	console.log('Inside de function');
 }
+myFunction();
 ```
+> Output > Inside my
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI5NDUzMDY0LC05MDE1ODIwMDIsLTEwND
-gzNTcyNjRdfQ==
+eyJoaXN0b3J5IjpbLTE1MDM0MTE4MTAsNDI5NDUzMDY0LC05MD
+E1ODIwMDIsLTEwNDgzNTcyNjRdfQ==
 -->
