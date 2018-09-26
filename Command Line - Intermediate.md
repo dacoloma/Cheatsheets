@@ -41,21 +41,20 @@ patch fileC sw.diff
 ```shell
 ifconfig | grep ether
 ```
-# C program
-## Compiling
+## C program
+### Compiling
 ```shell
 gcc -o hello hello.c
 ```
-## Running
+### Running
 ```shell
 ./hello
 ```
 
 https://vim.rtorr.com/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyNzE4OTA5MCwtNjc1Nzc5MDc4LC0xMD
-YxNTg3NzI4LDcyNDk0NTYwOCwtNDY3NjE0MTQ0LC0xNDY3MDc2
-MzE4LC0xNjI0NTE0OTIxLC03MzE0MjcyMDgsLTE1NDk4MDg3Nz
-QsMjQyNDEzMjYwLDEyODIxMDcwOTMsLTEzMTAyMzI5MThdfQ==
-
+eyJoaXN0b3J5IjpbMjYwNzg5NjU3LC02NzU3NzkwNzgsLTEwNj
+E1ODc3MjgsNzI0OTQ1NjA4LC00Njc2MTQxNDQsLTE0NjcwNzYz
+MTgsLTE2MjQ1MTQ5MjEsLTczMTQyNzIwOCwtMTU0OTgwODc3NC
+wyNDI0MTMyNjAsMTI4MjEwNzA5MywtMTMxMDIzMjkxOF19
 -->
