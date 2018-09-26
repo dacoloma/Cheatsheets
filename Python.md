@@ -1,14 +1,14 @@
 # Python
 ## Syntax
-## Print
-### V2 & V3
+### Print
+#### V2 & V3
 Python V3 | Python V2
 -------- | -----
 `print("test")` | `print "test"`
 `print("test",x)` | `print "test",x`
 `print("test number %d" % x)` | `print "test number %d" % x`
 
-### Formatting
+#### Formatting
 ```python
 name = "Mike"
 print("Hello %s" % name)
@@ -19,7 +19,7 @@ print("%d" % 4)
 > %d : integer format
 > %02d : print at least 2 digits
 > %.2f : float format. Print 2 digits after comma
-## Comment
+### Comment
 ```python
 # Single line comment
 ''' 
@@ -30,22 +30,22 @@ comment
 ```
 > Simple quote (') can be replaced by double quotes (")
 
-## Integer
-### Convert to string
+### Integer
+#### Convert to string
 ```python
 str(2)
 ```
 
-## String
-### Length
+### String
+#### Length
 ```python
 len(my_string)
 ```
-### Downcase
+#### Downcase
 ```python
 my_string.lower()
 ```
-### Upcase
+#### Upcase
 ```python
 my_string.upper()
 ```
@@ -53,8 +53,8 @@ my_string.upper()
 
 
 
-## Function
-### Define/Call a simple function
+### Function
+#### Define/Call a simple function
 ```python
 def my_function:
 	# code
@@ -62,7 +62,7 @@ my_function()
 ```
 > Indent code when defining function. 
 
-### Define a function with argument
+#### Define a function with argument
 ```python
 def my_function(x):
 	# code
@@ -75,19 +75,19 @@ def my_function(x):
 	return something
 my_function(my_var)
 ```
-### Anonymous function
+#### Anonymous function
 
-## Date & Time
-### Import library
+### Date & Time
+#### Import library
 ```python
 from datetime import datetime
 ```
-### Methods
-#### Current datetime
+#### Methods
+##### Current datetime
 ```python
 datetime.now()
 ```
-#### Extract data (month, year, day, minutes...)
+##### Extract data (month, year, day, minutes...)
 ```python
 datetime.now().month
 datetime.now().year
@@ -97,7 +97,7 @@ datetime.now().minute
 ```
 > in python shell IDLE, type `help(datetime)`for more information
 
-## Conditional statements
+### Conditional statements
 ```python
 if something_true:
 	# code
@@ -106,12 +106,12 @@ elif something_else_true:
 else:
 	# code
 ```
-## List
-### Declare a list
+### List
+#### Declare a list
 ```python
 list = ['a','b','c']
 ```
-Declare quickly a list of numbers 
+#### Declare quickly a list of numbers 
 ```python
 numbers = range(X,Y,Z)
 ```
@@ -219,7 +219,7 @@ my_dict[key3]=value3
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyNDYzNjIwLC03MTkyNzgxNTQsLTEyOT
+eyJoaXN0b3J5IjpbNzQyMzg2OTQyLC03MTkyNzgxNTQsLTEyOT
 YwNDkxOSwxOTkxNTYzNzg3LC0xNjU5ODc3NCwxNTA4NDM2MjIz
 LC02MjczNjA1MjksLTg4MjUxMjAwNywxNjQ0ODAxOTA2LC0xMD
 A5Nzg4NjQ3LDI5MjMwNzQwNiwtMTk1MjA2MTEzOSwxOTU1NDA1
