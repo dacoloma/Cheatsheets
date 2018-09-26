@@ -79,7 +79,7 @@ $ mv myfile.txt myDirectory/
 $ mv fichier.txt myFile.txt
 ```
 
-## Remove file/directory
+### Remove file/directory
 - Remove a file 
 ```bash
 $ rm myFile.txt
@@ -90,9 +90,9 @@ $ rm -r myDirectory/
 ```  
 > Careful when using this command, especially with the options combined -rf
 
-# Redirecting Input/Output
+## Redirecting Input/Output
 
-## Print to terminal
+### Print to terminal
 - Print a string
 ```bash
 $ echo "Hello"
@@ -107,7 +107,7 @@ $ cat  hello.txt
 ```bash
 $ echo "Hello" > myfile.txt
 ``` 
-## Redirection
+### Redirection
 - Create/Overwrite a file
 ```bash
 $ echo "Hello" > myfile.txt
@@ -140,7 +140,7 @@ $ sort MyFileToSort.txt
 ```bash
 $ uniq list.txt
 ```
-## Search & Replace
+### Search & Replace
 Grep : Global regular expression print
 - Search for lines of a file matching a pattern and return the lines
 ```bash
@@ -162,8 +162,8 @@ Find specific pattern in files and replace whole line by another one
 $ grep -rl 'pattern' . | xargs sed -i '' -e 's/.*pattern.*/new_string/g'
 ```
 > `-i` : for Mac users, this option need an extension for backups. Just put  `''` as argument if you don't need backups.
-# Environment
-## Alias
+## Environment
+### Alias
 Go to ~/.bash_profile and write : 
 ```bash
 alias myAlias="my_new_shortcut"
@@ -172,7 +172,7 @@ Save and quit, then type :
 ```bash
 $ source ~/.bash_profile
 ```
-## Environment variable
+### Environment variable
 Go to ~/.bash_profile and write : 
 ```bash
 export USER="Jane Doe"
@@ -187,11 +187,11 @@ echo $USER
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyNjg4NjQwNCwxMDAyNTQyNDIsLTEyND
-E2Nzc3NDcsMTcwMDI0NjA5NCwtMjA1MjEzNTE3OSwxOTQxODcz
-ODg1LC0xNzAzMTM4MjcyLDEyMjUwNDI3MTAsLTEwNzM1NTUzMj
-MsLTExMjE3MjQyMDIsLTY1MzMxNTA5NiwxNzc5NDQ1NTA1LDIx
-MjAyODUxMjAsLTE2MTI0ODkyNjIsMTU1NTM0ODAzOCw3MDQ3ND
-UyODEsMjE0MDY5MDgxOCwtMTY3NTIxODU2MiwxMDM4NTk2MTcs
-LTk4MjgxNzA1Ml19
+eyJoaXN0b3J5IjpbLTE1MTYzOTA4MjIsLTgyNjg4NjQwNCwxMD
+AyNTQyNDIsLTEyNDE2Nzc3NDcsMTcwMDI0NjA5NCwtMjA1MjEz
+NTE3OSwxOTQxODczODg1LC0xNzAzMTM4MjcyLDEyMjUwNDI3MT
+AsLTEwNzM1NTUzMjMsLTExMjE3MjQyMDIsLTY1MzMxNTA5Niwx
+Nzc5NDQ1NTA1LDIxMjAyODUxMjAsLTE2MTI0ODkyNjIsMTU1NT
+M0ODAzOCw3MDQ3NDUyODEsMjE0MDY5MDgxOCwtMTY3NTIxODU2
+MiwxMDM4NTk2MTddfQ==
 -->
