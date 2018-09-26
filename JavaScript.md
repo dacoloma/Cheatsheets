@@ -38,13 +38,22 @@ myFunction();
 ```javascript
 function myName(name) {
 	console.log('My name is ' + name + ' !');
-	console.log('My name is ${name} !');
+// or "console.log('My name is ${name} !');"
 }
 myName('Dany');
 ```
 > Output > My name is Dany ! 
+
+```javascript
+function myName(name = 'Dany') {
+	console.log('My name is ' + name + ' !');
+// or "console.log('My name is ${name} !');"
+}
+myName(Marvin);
+```
 > Output > My name is Dany ! 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5ODIyMTQ5OCw0Mjk0NTMwNjQsLTkwMT
+eyJoaXN0b3J5IjpbMTAzNzMxMzA3Nyw0Mjk0NTMwNjQsLTkwMT
 U4MjAwMiwtMTA0ODM1NzI2NF19
 -->
