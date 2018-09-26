@@ -29,13 +29,20 @@ if (age < 18) {
 ```javascript
 function myFunction() {
 	// code
-	console.log('Inside de function');
+	console.log('Inside my function');
 }
 myFunction();
 ```
-> Output > Inside my
+> Output > Inside my function
 
+```javascript
+function myName(name) {
+	console.log('My name is ' + name + ' !');
+}
+myName('Dany');
+```
+> Output > Inside my function
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDM0MTE4MTAsNDI5NDUzMDY0LC05MD
-E1ODIwMDIsLTEwNDgzNTcyNjRdfQ==
+eyJoaXN0b3J5IjpbLTM4MzgwMjMyNyw0Mjk0NTMwNjQsLTkwMT
+U4MjAwMiwtMTA0ODM1NzI2NF19
 -->
