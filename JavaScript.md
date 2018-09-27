@@ -56,9 +56,14 @@ myName();
 ```
 > Output1 > My name is Marvin ! 
 > Output2 > My name is Dany ! 
+```javascript
+// Anonymous function
+```
+> Output > 
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0NTUzNDU1OCwzMTQzMTU5MDIsLTY0NT
-UzNDU1OCw0Mjk0NTMwNjQsLTkwMTU4MjAwMiwtMTA0ODM1NzI2
-NF19
+eyJoaXN0b3J5IjpbMTAwNDEwMzE4NywtNjQ1NTM0NTU4LDMxND
+MxNTkwMiwtNjQ1NTM0NTU4LDQyOTQ1MzA2NCwtOTAxNTgyMDAy
+LC0xMDQ4MzU3MjY0XX0=
 -->
