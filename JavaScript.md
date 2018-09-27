@@ -60,10 +60,14 @@ myName();
 // Anonymous function
 ```
 > Output > 
+```javascript
+// Refactor
+```
+> Output > 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwNDEwMzE4NywtNjQ1NTM0NTU4LDMxND
-MxNTkwMiwtNjQ1NTM0NTU4LDQyOTQ1MzA2NCwtOTAxNTgyMDAy
-LC0xMDQ4MzU3MjY0XX0=
+eyJoaXN0b3J5IjpbMjExMTY1NjYzLDEwMDQxMDMxODcsLTY0NT
+UzNDU1OCwzMTQzMTU5MDIsLTY0NTUzNDU1OCw0Mjk0NTMwNjQs
+LTkwMTU4MjAwMiwtMTA0ODM1NzI2NF19
 -->
