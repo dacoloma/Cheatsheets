@@ -67,14 +67,12 @@ const age = function (nb) {
 }
 
 // Refactor
-const age = nb => {
-	console.log('I am 25 yo');
-}
+const age = nb => nb === 25 ? console.log('I am 25 yo') : console.log('I am not 25 yo');
 ```
 
 ## Scope
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTUyMTkyOTQ5LC04NjYwODIzNDUsLTU2MT
+eyJoaXN0b3J5IjpbNjQ4ODcwNjUxLC04NjYwODIzNDUsLTU2MT
 M4NTc0OSwyMTExNjU2NjMsMTAwNDEwMzE4NywtNjQ1NTM0NTU4
 LDMxNDMxNTkwMiwtNjQ1NTM0NTU4LDQyOTQ1MzA2NCwtOTAxNT
 gyMDAyLC0xMDQ4MzU3MjY0XX0=
