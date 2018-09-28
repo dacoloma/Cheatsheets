@@ -58,6 +58,9 @@ myName();
 > Output2 > My name is Dany ! 
 ```javascript
 // Anonymous function
+const age = function () {
+// code
+
 ```
 > Output > 
 ```javascript
@@ -67,7 +70,8 @@ myName();
 
 ## Scope
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2MTM4NTc0OSwyMTExNjU2NjMsMTAwND
-EwMzE4NywtNjQ1NTM0NTU4LDMxNDMxNTkwMiwtNjQ1NTM0NTU4
-LDQyOTQ1MzA2NCwtOTAxNTgyMDAyLC0xMDQ4MzU3MjY0XX0=
+eyJoaXN0b3J5IjpbODY2OTU2NzgzLC01NjEzODU3NDksMjExMT
+Y1NjYzLDEwMDQxMDMxODcsLTY0NTUzNDU1OCwzMTQzMTU5MDIs
+LTY0NTUzNDU1OCw0Mjk0NTMwNjQsLTkwMTU4MjAwMiwtMTA0OD
+M1NzI2NF19
 -->
