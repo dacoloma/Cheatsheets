@@ -59,19 +59,19 @@ myName();
 ```javascript
 // Anonymous function
 const age = function () {
-// code
+	console.log('I am 25 yo');
+}
 
-```
-> Output > 
-```javascript
 // Refactor
+const age = () => {
+	console.log('I am 25 yo');
+}
 ```
-> Output > 
 
 ## Scope
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY2OTU2NzgzLC01NjEzODU3NDksMjExMT
-Y1NjYzLDEwMDQxMDMxODcsLTY0NTUzNDU1OCwzMTQzMTU5MDIs
-LTY0NTUzNDU1OCw0Mjk0NTMwNjQsLTkwMTU4MjAwMiwtMTA0OD
-M1NzI2NF19
+eyJoaXN0b3J5IjpbLTg2NjA4MjM0NSwtNTYxMzg1NzQ5LDIxMT
+E2NTY2MywxMDA0MTAzMTg3LC02NDU1MzQ1NTgsMzE0MzE1OTAy
+LC02NDU1MzQ1NTgsNDI5NDUzMDY0LC05MDE1ODIwMDIsLTEwND
+gzNTcyNjRdfQ==
 -->
