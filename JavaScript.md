@@ -58,20 +58,24 @@ myName();
 > Output2 > My name is Dany ! 
 ```javascript
 // Anonymous function
-const age = function () {
-	console.log('I am 25 yo');
+const age = function (nb) {
+	if (nb === 25) {
+		console.log('I am 25 yo');
+	} else {
+		console.log('I am not 25 yo');
+	}
 }
 
 // Refactor
-const age = () => {
+const age = nb => {
 	console.log('I am 25 yo');
 }
 ```
 
 ## Scope
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2NjA4MjM0NSwtNTYxMzg1NzQ5LDIxMT
-E2NTY2MywxMDA0MTAzMTg3LC02NDU1MzQ1NTgsMzE0MzE1OTAy
-LC02NDU1MzQ1NTgsNDI5NDUzMDY0LC05MDE1ODIwMDIsLTEwND
-gzNTcyNjRdfQ==
+eyJoaXN0b3J5IjpbOTUyMTkyOTQ5LC04NjYwODIzNDUsLTU2MT
+M4NTc0OSwyMTExNjU2NjMsMTAwNDEwMzE4NywtNjQ1NTM0NTU4
+LDMxNDMxNTkwMiwtNjQ1NTM0NTU4LDQyOTQ1MzA2NCwtOTAxNT
+gyMDAyLC0xMDQ4MzU3MjY0XX0=
 -->
