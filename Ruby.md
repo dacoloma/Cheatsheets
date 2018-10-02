@@ -74,6 +74,7 @@ str.gsub(/char1/,char2)
 > return a string
 
 ### Array
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDgxMjA2MjVdfQ==
+eyJoaXN0b3J5IjpbLTkzOTg4NDQ4MywtMTMwODEyMDYyNV19
 -->
