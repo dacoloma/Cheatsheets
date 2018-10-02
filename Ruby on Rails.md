@@ -34,8 +34,9 @@ $ rails db:migrate
 ```bash
 $ heroku create
 $ git push heroku master
+$ heroku run rails db:migrate
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDYxNzYxOTUsLTQwNzgxNzkzNiwtMj
-A4ODc0NjYxMiw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTE5OTAwMDExNiwtNDA3ODE3OTM2LC0yMD
+g4NzQ2NjEyLDczMDk5ODExNl19
 -->
