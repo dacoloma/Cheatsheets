@@ -15,7 +15,8 @@ $ rails s
 ```
 5. Create models, views, controllers
 ```bash
-$ rails generate name
+$ rails generate model Name attribute:type ...
+$ rails generate controllers pluralName view_one view_two
 ```
 6. Modify routes.rb
 7. Git 
@@ -23,6 +24,6 @@ $ rails generate name
 9. Test it locally
 10. Production 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2OTUwMDk4NywtNDA3ODE3OTM2LC0yMD
+eyJoaXN0b3J5IjpbMTYyMzk2MjY2NCwtNDA3ODE3OTM2LC0yMD
 g4NzQ2NjEyLDczMDk5ODExNl19
 -->
