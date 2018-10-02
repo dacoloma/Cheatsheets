@@ -4,9 +4,9 @@
 2. Modify the Gemfile
 3. Install new gems via bundle 
 4. Test it locally
-5. Add features
+5. Create models, views, controllers
 6. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjQ5MzY1LC0yMDg4NzQ2NjEyLDczMD
-k5ODExNl19
+eyJoaXN0b3J5IjpbLTQwNzgxNzkzNiwtMjA4ODc0NjYxMiw3Mz
+A5OTgxMTZdfQ==
 -->
