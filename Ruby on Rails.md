@@ -23,11 +23,19 @@ $ rails generate controllers pluralName first_view second_view ...
 ```bash
 $ git add file1
 $ git commit -m "[NEW] feature"
+$ git push origin [branch]
 ```
 8. Database migration
+```bash
+$ rails db:migrate
+```
 9. Test it locally
 10. Production 
+```bash
+$ heroku create
+$ git push heroku master
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDM2ODU2OTEsLTQwNzgxNzkzNiwtMj
+eyJoaXN0b3J5IjpbLTE2NDYxNzYxOTUsLTQwNzgxNzkzNiwtMj
 A4ODc0NjYxMiw3MzA5OTgxMTZdfQ==
 -->
