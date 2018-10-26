@@ -133,14 +133,14 @@ Ce qui se passe automatiquement:
 ```rails db:migrate
 ```
 
-## Possibilité de modification des views pour les sessions / gestion users
+### Possibilité de modification des views pour les sessions / gestion users
 ```rails g devise:views```
 
-## génerer le controller de devise si on en a besoin
+### génerer le controller de devise si on en a besoin
 ```rails generate devise:controllers users```
 
-## rediriger les routes pour les controllers qu'on a besoin de customiser
-## exemple : si on a besoin de personnaliser le controller session, on ajoute sa route
+### rediriger les routes pour les controllers qu'on a besoin de customiser
+### exemple : si on a besoin de personnaliser le controller session, on ajoute sa route
 
 ``` 	devise_for :users, controllers: {
     sessions: 'users/sessions'
@@ -148,7 +148,7 @@ Ce qui se passe automatiquement:
   }```
 
 
-##Devise User
+## Devise User
 
 ```rails generate devise Admin```
 
@@ -308,7 +308,7 @@ end
   }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg1NzQxNTI5LDIwNTU2OTk0ODgsODQ4NT
-cxMTI5LC0xOTkwMDAxMTYsLTQwNzgxNzkzNiwtMjA4ODc0NjYx
-Miw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTgwOTM0MTE5NSwyMDU1Njk5NDg4LDg0OD
+U3MTEyOSwtMTk5MDAwMTE2LC00MDc4MTc5MzYsLTIwODg3NDY2
+MTIsNzMwOTk4MTE2XX0=
 -->
