@@ -297,7 +297,7 @@ module Accessible
 end
 ```
 
-##refaire nos routes aux propre 
+## refaire nos routes aux propre 
 ```ruby
   devise_for :administrators, path:'admin', controllers: {
     sessions:  "administrators/sessions",
@@ -311,7 +311,7 @@ end
   }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4NDQwNjYxOSwtMzcyNDM1NzUsMjA1NT
-Y5OTQ4OCw4NDg1NzExMjksLTE5OTAwMDExNiwtNDA3ODE3OTM2
-LC0yMDg4NzQ2NjEyLDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTM3MTE2NDgzLDE3ODQ0MDY2MTksLTM3Mj
+QzNTc1LDIwNTU2OTk0ODgsODQ4NTcxMTI5LC0xOTkwMDAxMTYs
+LTQwNzgxNzkzNiwtMjA4ODc0NjYxMiw3MzA5OTgxMTZdfQ==
 -->
