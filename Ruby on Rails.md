@@ -238,7 +238,8 @@ config.scoped_views = true
   devise_for :administrators, controllers: {
     sessions:  "administrators/sessions"
     registrations: "administrators/registrations"
-  } ```
+  } 
+  ```
 
 ## Ajouter dans les views home index 
 ```html
@@ -310,7 +311,7 @@ end
   }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3MjQzNTc1LDIwNTU2OTk0ODgsODQ4NT
-cxMTI5LC0xOTkwMDAxMTYsLTQwNzgxNzkzNiwtMjA4ODc0NjYx
-Miw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMTc4NDQwNjYxOSwtMzcyNDM1NzUsMjA1NT
+Y5OTQ4OCw4NDg1NzExMjksLTE5OTAwMDExNiwtNDA3ODE3OTM2
+LC0yMDg4NzQ2NjEyLDczMDk5ODExNl19
 -->
