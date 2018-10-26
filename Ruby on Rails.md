@@ -142,24 +142,25 @@ Ce qui se passe automatiquement:
 ### rediriger les routes pour les controllers qu'on a besoin de customiser
 ### exemple : si on a besoin de personnaliser le controller session, on ajoute sa route
 
-``` 	devise_for :users, controllers: {
+```ruby
+devise_for :users, controllers: {
     sessions: 'users/sessions'
     registrations: 'users/registrations'
-  }```
+  }
+  ```
 
 
-## Devise User
+## Devise Admin
 
 ```rails generate devise Admin```
 
-##Configure your Admin model
+## Configure your Admin model
 
 ```ruby
 class Admin < ActiveRecord::Base
   devise :database_authenticatable, :trackable, :timeoutable, :lockable 
 end
 ```
-
 
 ```ruby
 class DeviseCreateAdministrators < ActiveRecord::Migration[5.1]
@@ -210,13 +211,14 @@ class DeviseCreateAdministrators < ActiveRecord::Migration[5.1]
     drop_table :administrators
   end
 
-end ```
+end 
+```
 
 ## on migre les tables crées pour devise 
 
-```
+
 rails db:migrate
-```
+
 
 ## suite du tutoriel
 https://github.com/plataformatec/devise/wiki/How-to-Setup-Multiple-Devise-User-Models
@@ -308,7 +310,7 @@ end
   }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwOTM0MTE5NSwyMDU1Njk5NDg4LDg0OD
-U3MTEyOSwtMTk5MDAwMTE2LC00MDc4MTc5MzYsLTIwODg3NDY2
-MTIsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMzk5ODQzMjg1LDIwNTU2OTk0ODgsODQ4NT
+cxMTI5LC0xOTkwMDAxMTYsLTQwNzgxNzkzNiwtMjA4ODc0NjYx
+Miw3MzA5OTgxMTZdfQ==
 -->
