@@ -216,9 +216,9 @@ end
 
 ## on migre les tables crées pour devise 
 
-
-rails db:migrate
-
+```bash
+$ rails db:migrate
+```
 
 ## suite du tutoriel
 https://github.com/plataformatec/devise/wiki/How-to-Setup-Multiple-Devise-User-Models
@@ -310,7 +310,7 @@ end
   }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk5ODQzMjg1LDIwNTU2OTk0ODgsODQ4NT
+eyJoaXN0b3J5IjpbLTM3MjQzNTc1LDIwNTU2OTk0ODgsODQ4NT
 cxMTI5LC0xOTkwMDAxMTYsLTQwNzgxNzkzNiwtMjA4ODc0NjYx
 Miw3MzA5OTgxMTZdfQ==
 -->
