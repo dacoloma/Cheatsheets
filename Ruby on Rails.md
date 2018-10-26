@@ -106,19 +106,7 @@ config.assets.compile = true
 
 ## PROCESS UTILISATION DEVISE
 
-
-## Création d'un controller Home (de pages statiques)
-#### TERMINAL
-```rails g controller Home index
-```
-
-#### ATOM
-        Modifier le fichier Routes.rb (config/routes.rb)
-```root  'home#index'
-```
-            (le get généré par la création du controller peut être supprimé)
-
-## Intégration de Devise
+### Intégration de Devise
 #### TERMINAL
 ```rails g devise:install
 ```
@@ -133,7 +121,7 @@ config.assets.compile = true
 <p class="alert"><%= alert %></p>
 ```
 
-## Générer un model pour les Users
+### Générer un model pour les Users
 #### TERMINAL
 ```rails g devise User
 ```
@@ -320,7 +308,7 @@ end
   }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1NTY5OTQ4OCw4NDg1NzExMjksLTE5OT
-AwMDExNiwtNDA3ODE3OTM2LC0yMDg4NzQ2NjEyLDczMDk5ODEx
-Nl19
+eyJoaXN0b3J5IjpbMzg1NzQxNTI5LDIwNTU2OTk0ODgsODQ4NT
+cxMTI5LC0xOTkwMDAxMTYsLTQwNzgxNzkzNiwtMjA4ODc0NjYx
+Miw3MzA5OTgxMTZdfQ==
 -->
