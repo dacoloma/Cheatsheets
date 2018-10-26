@@ -104,36 +104,8 @@ config.assets.compile = true
 ```
 
 
-# PROCESS UTILISATION DEVISE
+## PROCESS UTILISATION DEVISE
 
-## CREER UNE NOUVELLE APP RAILS
-#### TERMINAL
-```rails new nomApp
-```
-
-### GemFile Heroku compatible + gem 'devise'
-#### ATOM (dans le Gemfile)
-    1) Récupérer un gemfile heroku compatible
-    2) Ajouter la gem devise
-```gem 'devise'
-```
-
-### Installation de l'environnement
-#### TERMINAL
-```bundle install --without production
-```
-
-### Initialisation du repo Github + création app heroku
-#### TERMINAL (Init repo github)
-```git init
-git add .
-git commit -am "Initial commit -> App Heroku compatible"
-git push origin master
-```
-#### TERMINAL (cration app Heroku)
-```heroku create
-heroku rename nomApp --> optionnel
-```
 
 ## Création d'un controller Home (de pages statiques)
 #### TERMINAL
@@ -348,7 +320,7 @@ end
   }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExMDUyMjMzOCw4NDg1NzExMjksLTE5OT
+eyJoaXN0b3J5IjpbMjA1NTY5OTQ4OCw4NDg1NzExMjksLTE5OT
 AwMDExNiwtNDA3ODE3OTM2LC0yMDg4NzQ2NjEyLDczMDk5ODEx
 Nl19
 -->
