@@ -5,12 +5,13 @@ Configure network interface
 ```bash
 $ ifconfig -l
 ```
-### Get MAC address of specific interface 
+### Get parameters of specific network interface
 ```bash
-$ ifconfig en0 | grep ether
+$ ifconfig en0 
 ```
-> In this case, interface en0
+```
+```
 ###
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1NzU5NjkxNV19
+eyJoaXN0b3J5IjpbMTg2MDI4MjA3N119
 -->
