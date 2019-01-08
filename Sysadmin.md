@@ -49,7 +49,7 @@ Name:	github.com
 Address: 140.82.118.3
 ```
 > 10.51.1.42 is the default DNS server. 
-> In OS X, the default DNS IP address can be found ( in /etc/resolv.conf
+> In OS X, the default DNS IP address can be found (and configured) in /etc/resolv.conf
 ### Query an specific DSN server 
 ```bash
 $ nslookup github.com 8.8.8.8
@@ -108,8 +108,22 @@ round-trip min/avg/max/stddev = 12.184/12.200/12.215/0.015 ms
 > -c _count_ : stop after sending and receiving _count_ packets (In the example, after 2 packets) 
 ## traceroute
 Print the route packets take to network host
-
+```bash
+$ traceroute google.fr
+$ traceroute to google.fr (216.58.198.195), 64 hops max, 52 byte packets
+ 1  10.11.254.254 (10.11.254.254)  3.023 ms  1.296 ms  0.853 ms
+ 2  nat-1 (10.60.1.11)  0.211 ms  0.174 ms  0.233 ms
+ 3  dc3 (62.210.35.1)  1.938 ms  1.838 ms  1.799 ms
+ 4  195.154.1.174 (195.154.1.174)  1.097 ms  1.063 ms  1.901 ms
+ 5  a9k2-45x-s44-2.dc3.poneytelecom.eu (195.154.1.106)  1.230 ms  1.085 ms  1.066 ms
+ 6  209.85.149.12 (209.85.149.12)  1.434 ms  1.369 ms  1.297 ms
+ 7  108.170.244.161 (108.170.244.161)  1.309 ms
+    108.170.244.225 (108.170.244.225)  2.470 ms
+    108.170.244.161 (108.170.244.161)  1.301 ms
+ 8  108.170.232.125 (108.170.232.125)  1.368 ms  1.394 ms  1.359 ms
+ 9  par10s27-in-f195.1e100.net (216.58.198.195)  1.417 ms  1.241 ms  1.428 ms
+ ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Njg3ODE3MTgsMTA1OTc5NDk1NywxMz
+eyJoaXN0b3J5IjpbLTE1MDQ4Mjg4NjYsMTA1OTc5NDk1NywxMz
 M2MzA4MTEwXX0=
 -->
