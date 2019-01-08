@@ -9,7 +9,8 @@ $ ifconfig -l
 ```bash
 $ ifconfig en0 | grep ether
 ```
-> In th
+> In this case, interface en0
+###
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxNjg2ODQ3MF19
+eyJoaXN0b3J5IjpbMTA1NzU5NjkxNV19
 -->
