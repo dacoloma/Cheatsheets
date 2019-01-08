@@ -64,8 +64,8 @@ Name:	github.com
 Address: 140.82.118.4
 ```
 > 8.8.8.8 : Google public DNS address
-> 
-[^1]: The Domain Name Server
+
+[^1]: The Domain Name Server. Comme un annuaire pour site web. On cherche un Nom de domaine (= Nom de famille) et 
 ## whois
 Internet domain name and network number directory service
 ```bash
@@ -127,6 +127,6 @@ $ traceroute to google.fr (216.58.198.195), 64 hops max, 52 byte packets
  9  par10s27-in-f195.1e100.net (216.58.198.195)  1.417 ms  1.241 ms  1.428 ms
  ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzg5MjAzOTcsMTA1OTc5NDk1NywxMz
-M2MzA4MTEwXX0=
+eyJoaXN0b3J5IjpbMTkxMTU1MjU4MSwxMDU5Nzk0OTU3LDEzMz
+YzMDgxMTBdfQ==
 -->
