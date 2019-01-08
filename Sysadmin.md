@@ -4,7 +4,7 @@
 3. [nslookup](##nslookup)
 4. [whois](##whois)
 5. [ping](##ping)
-6. [traceroute](##traceroute)
+6. [traceroute](#traceroute)
 ## ifconfig
 Configure network interface
 ### Display all network interfaces without info
@@ -108,6 +108,6 @@ round-trip min/avg/max/stddev = 12.184/12.200/12.215/0.015 ms
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODAxMjUyNDQsMTA1OTc5NDk1NywxMzM2Mz
-A4MTEwXX0=
+eyJoaXN0b3J5IjpbMTI3MTU4NzU0OSwxMDU5Nzk0OTU3LDEzMz
+YzMDgxMTBdfQ==
 -->
