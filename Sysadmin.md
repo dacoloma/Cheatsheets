@@ -20,7 +20,9 @@ en0: flags=8863<UP,BROADCAST,SMART,RUNNING,SIMPLEX,MULTICAST> mtu 1500
 	status: active
 ```
 > ether : MAC address
+> inet : IPv4 address | netmask | broadcast address
+> inet6 : IPv6 address
 ###
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyMjEyODQ2NV19
+eyJoaXN0b3J5IjpbMTIwNzAzODMwN119
 -->
