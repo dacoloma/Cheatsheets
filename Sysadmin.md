@@ -82,10 +82,11 @@ $ whois google.com
    DNSSEC: unsigned
    URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
 >>> Last update of whois database: 2019-01-08T13:08:27Z <<<
+[...]
 ```
 
 ## traceroute
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczODM0MzQ4Ml19
+eyJoaXN0b3J5IjpbMTMzNjMwODExMF19
 -->
