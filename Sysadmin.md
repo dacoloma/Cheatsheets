@@ -44,8 +44,18 @@ Address: 140.82.118.3
 ### Query an specific DSN server 
 ```bash
 $ nslookup github.com 8.8.8.8
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+Name:	github.com
+Address: 140.82.118.3
+Name:	github.com
+Address: 140.82.118.4
+```
+> 8.8.8.8 : Google public DNS address 
 ## traceroute
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDg5MjA2NjJdfQ==
+eyJoaXN0b3J5IjpbLTExMzY2NDE2MTFdfQ==
 -->
