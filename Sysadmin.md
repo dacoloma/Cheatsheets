@@ -28,7 +28,7 @@ $ netstat -nr
 ```
 ## nslookup
 Query internet name servers interactively
-##
+### Query DNS server to get IP address of a website
 ```bash
 $ nslookup github.com
 Server:		10.51.1.42
@@ -41,8 +41,11 @@ Name:	github.com
 Address: 140.82.118.3
 ```
 > 10.51.1.42 is the default DNS server
+### Query an specific DSN server 
+```bash
+$ nslookup github.com 8.8.8.8
 ## traceroute
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTMwMDcyMjFdfQ==
+eyJoaXN0b3J5IjpbLTEzNDg5MjA2NjJdfQ==
 -->
