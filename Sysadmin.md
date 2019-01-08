@@ -104,11 +104,11 @@ PING github.com (140.82.118.4): 56 data bytes
 2 packets transmitted, 2 packets received, 0.0% packet loss
 round-trip min/avg/max/stddev = 12.184/12.200/12.215/0.015 ms
 ```
-> -c _count_ : stop after sendin 
+> -c _count_ : stop after sending and receiving _count_ packets (In the example, after 2 packets) 
 ## traceroute
-
+Print the route packets take to network host
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY5MTA2MzA4LDEwNTk3OTQ5NTcsMTMzNj
-MwODExMF19
+eyJoaXN0b3J5IjpbLTc0NTE2MDM3MiwxMDU5Nzk0OTU3LDEzMz
+YzMDgxMTBdfQ==
 -->
