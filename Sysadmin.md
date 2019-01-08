@@ -85,9 +85,19 @@ $ whois google.com
 [...]
 ```
 ## ping
+Send ICMP ECHO_REQUEST packets to network hosts
+```bash
+$ ping -c 2 github.com
+PING github.com (140.82.118.4): 56 data bytes
+64 bytes from 140.82.118.4: icmp_seq=0 ttl=56 time=12.215 ms
+64 bytes from 140.82.118.4: icmp_seq=1 ttl=56 time=12.184 ms
 
+--- github.com ping statistics ---
+2 packets transmitted, 2 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 12.184/12.200/12.215/0.015 ms
+```
 ## traceroute
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwMjc5MTcwLDEzMzYzMDgxMTBdfQ==
+eyJoaXN0b3J5IjpbMTA1OTc5NDk1NywxMzM2MzA4MTEwXX0=
 -->
