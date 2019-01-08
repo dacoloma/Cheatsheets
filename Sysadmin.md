@@ -48,7 +48,8 @@ Address: 140.82.118.4
 Name:	github.com
 Address: 140.82.118.3
 ```
-> 10.51.1.42 is the default DNS server. On OS X, the IP
+> 10.51.1.42 is the default DNS server. 
+> In OS X, the default DNS IP address can be found ( in /etc/resolv.conf
 ### Query an specific DSN server 
 ```bash
 $ nslookup github.com 8.8.8.8
@@ -109,6 +110,6 @@ round-trip min/avg/max/stddev = 12.184/12.200/12.215/0.015 ms
 Print the route packets take to network host
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzgxNjI5MTY3LDEwNTk3OTQ5NTcsMTMzNj
-MwODExMF19
+eyJoaXN0b3J5IjpbLTE3Njg3ODE3MTgsMTA1OTc5NDk1NywxMz
+M2MzA4MTEwXX0=
 -->
