@@ -28,7 +28,10 @@ Show network status
 ```bash
 $ netstat -nr
 ```
-> 
+## nslookup
+
+## traceroute
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0ODUyMDI5Ml19
+eyJoaXN0b3J5IjpbLTExNjczMzAzMTddfQ==
 -->
