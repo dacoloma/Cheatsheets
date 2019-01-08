@@ -36,8 +36,8 @@ $ netstat -nr
 ```
 ## nslookup
 Query internet name servers interactively
-[^1]: The footnote
-### Query DNS server to get IP address of a website
+
+### Query DNS[^1] server to get IP address of a website
 ```bash
 $ nslookup github.com
 Server:		10.51.1.42
@@ -63,7 +63,9 @@ Address: 140.82.118.3
 Name:	github.com
 Address: 140.82.118.4
 ```
-> 8.8.8.8 : Google public DNS address 
+> 8.8.8.8 : Google public DNS address
+> 
+[^1]: The Domain Name Server
 ## whois
 Internet domain name and network number directory service
 ```bash
@@ -125,6 +127,6 @@ $ traceroute to google.fr (216.58.198.195), 64 hops max, 52 byte packets
  9  par10s27-in-f195.1e100.net (216.58.198.195)  1.417 ms  1.241 ms  1.428 ms
  ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzMTkzODQ4OCwxMDU5Nzk0OTU3LDEzMz
-YzMDgxMTBdfQ==
+eyJoaXN0b3J5IjpbLTEwNzg5MjAzOTcsMTA1OTc5NDk1NywxMz
+M2MzA4MTEwXX0=
 -->
