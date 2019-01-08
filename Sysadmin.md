@@ -36,6 +36,7 @@ $ netstat -nr
 ```
 ## nslookup
 Query internet name servers interactively
+[^1]: The footnote
 ### Query DNS server to get IP address of a website
 ```bash
 $ nslookup github.com
@@ -124,6 +125,6 @@ $ traceroute to google.fr (216.58.198.195), 64 hops max, 52 byte packets
  9  par10s27-in-f195.1e100.net (216.58.198.195)  1.417 ms  1.241 ms  1.428 ms
  ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDQ4Mjg4NjYsMTA1OTc5NDk1NywxMz
-M2MzA4MTEwXX0=
+eyJoaXN0b3J5IjpbLTMzMTkzODQ4OCwxMDU5Nzk0OTU3LDEzMz
+YzMDgxMTBdfQ==
 -->
