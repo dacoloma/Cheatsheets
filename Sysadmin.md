@@ -1,9 +1,9 @@
 # Sysadmin
-1. [ifconfig](##ifconfig)
-2. [netstat](##netstat)
-3. [nslookup](##nslookup)
-4. [whois](##whois)
-5. [ping](##ping)
+1. [ifconfig](#ifconfig)
+2. [netstat](#netstat)
+3. [nslookup](#nslookup)
+4. [whois](#whois)
+5. [ping](#ping)
 6. [traceroute](#traceroute)
 ## ifconfig
 Configure network interface
@@ -104,10 +104,11 @@ PING github.com (140.82.118.4): 56 data bytes
 2 packets transmitted, 2 packets received, 0.0% packet loss
 round-trip min/avg/max/stddev = 12.184/12.200/12.215/0.015 ms
 ```
+> -c _count_ : stop after sendin 
 ## traceroute
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3MTU4NzU0OSwxMDU5Nzk0OTU3LDEzMz
-YzMDgxMTBdfQ==
+eyJoaXN0b3J5IjpbODY5MTA2MzA4LDEwNTk3OTQ5NTcsMTMzNj
+MwODExMF19
 -->
