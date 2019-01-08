@@ -84,9 +84,10 @@ $ whois google.com
 >>> Last update of whois database: 2019-01-08T13:08:27Z <<<
 [...]
 ```
+## ping
 
 ## traceroute
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzNjMwODExMF19
+eyJoaXN0b3J5IjpbMTUwMjc5MTcwLDEzMzYzMDgxMTBdfQ==
 -->
