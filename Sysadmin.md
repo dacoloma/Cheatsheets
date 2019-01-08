@@ -28,6 +28,7 @@ $ netstat -nr
 ```
 ## nslookup
 Query internet name servers interactively
+##
 ```bash
 $ nslookup github.com
 Server:		10.51.1.42
@@ -39,8 +40,9 @@ Address: 140.82.118.4
 Name:	github.com
 Address: 140.82.118.3
 ```
+> 10.51.1.42 is the default DNS server
 ## traceroute
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTc0MzI1MzVdfQ==
+eyJoaXN0b3J5IjpbLTE3OTMwMDcyMjFdfQ==
 -->
