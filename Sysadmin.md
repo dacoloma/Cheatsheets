@@ -8,8 +8,6 @@ $ ifconfig -l
 ### Get parameters of specific network interface
 ```bash
 $ ifconfig en0 
-```
-```
 en0: flags=8863<UP,BROADCAST,SMART,RUNNING,SIMPLEX,MULTICAST> mtu 1500
 	options=10b<RXCSUM,TXCSUM,VLAN_HWTAGGING,AV>
 	ether XX:XX:XX:XX:XX:XX
@@ -29,9 +27,19 @@ Show network status
 $ netstat -nr
 ```
 ## nslookup
+Query internet name servers interactively
+```bash
+$ nslookup github.com
+Server:		10.51.1.42
+Address:	10.51.1.42#53
 
+Non-authoritative answer:
+Name:	github.com
+Address: 140.82.118.4
+Name:	github.com
+Address: 140.82.118.3
 ## traceroute
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjczMzAzMTddfQ==
+eyJoaXN0b3J5IjpbLTE1Nzc5NDQwNDddfQ==
 -->
