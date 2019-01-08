@@ -1,13 +1,12 @@
 # Sysadmin
-## ifconfig
+## 
 Configure network interface
 ### Display all network interfaces without info
 ```bash
 $ ifconfig -l
 ```
 ### Get parameters of specific network interface
-```bash
-$ ifconfig en0 
+
 en0: flags=8863<UP,BROADCAST,SMART,RUNNING,SIMPLEX,MULTICAST> mtu 1500
 	options=10b<RXCSUM,TXCSUM,VLAN_HWTAGGING,AV>
 	ether XX:XX:XX:XX:XX:XX
@@ -97,7 +96,15 @@ PING github.com (140.82.118.4): 56 data bytes
 round-trip min/avg/max/stddev = 12.184/12.200/12.215/0.015 ms
 ```
 ## traceroute
-
+```bash
+$ ifconfig -l
+```
+> -l : display only network interface names
+```bash
+$ ifconfig en0 | grep ether
+```
+> get 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1OTc5NDk1NywxMzM2MzA4MTEwXX0=
+eyJoaXN0b3J5IjpbMTQ5Nzg1MDA0MiwxMDU5Nzk0OTU3LDEzMz
+YzMDgxMTBdfQ==
 -->
