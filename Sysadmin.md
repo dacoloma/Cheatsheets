@@ -1,7 +1,7 @@
 # Sysadmin
 1. [ifconfig](#ifconfig)
 2. [netstat](#netstat)
-3. [nslookup](#nslookup)
+3. [dig / host](#dig-/-host)
 4. [whois](#whois)
 5. [ping](#ping)
 6. [traceroute](#traceroute)
@@ -34,8 +34,8 @@ Show network status
 ```bash
 $ netstat -nr
 ```
-## nslookup
-Query internet name servers interactively
+## dig / host 
+Query internet name servers interactively. nslookup is deprecated.
 
 ### Query DNS[^1] server to get IP address of a website
 ```bash
@@ -128,6 +128,6 @@ $ traceroute to google.fr (216.58.198.195), 64 hops max, 52 byte packets
  ```
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyMzg4MDQyOSwxMDU5Nzk0OTU3LDEzMz
-YzMDgxMTBdfQ==
+eyJoaXN0b3J5IjpbMTg0MTgwMzMzOSwtMzIzODgwNDI5LDEwNT
+k3OTQ5NTcsMTMzNjMwODExMF19
 -->
