@@ -54,8 +54,12 @@ Name:	github.com
 Address: 140.82.118.4
 ```
 > 8.8.8.8 : Google public DNS address 
+## whois
+Internet domain name and network number directory service
+```bash
+$ whois google.com
 ## traceroute
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzY2NDE2MTFdfQ==
+eyJoaXN0b3J5IjpbNDg5MDYyMzI3XX0=
 -->
