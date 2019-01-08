@@ -24,7 +24,11 @@ en0: flags=8863<UP,BROADCAST,SMART,RUNNING,SIMPLEX,MULTICAST> mtu 1500
 > inet6 : IPv6 address
 ## netstat
 Show network status
-### 
+### Routing table
+```bash
+$ netstat -nr
+```
+> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1NzY1NDI3Ml19
+eyJoaXN0b3J5IjpbMTU0ODUyMDI5Ml19
 -->
