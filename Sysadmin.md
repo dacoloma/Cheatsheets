@@ -1,10 +1,9 @@
 # Sysadmin
-```
-# Table of Contents
-1. [Example](#example)
-2. [Example2](#example2)
-3. [Third Example](#third-example)
-```
+1. [ifconfig](##ifconfig)
+2. [netstat](##netstat)
+3. [nslookup](##nslookup)
+4. [
+## ifconfig
 Configure network interface
 ### Display all network interfaces without info
 ```bash
@@ -107,6 +106,6 @@ round-trip min/avg/max/stddev = 12.184/12.200/12.215/0.015 ms
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ2NTkyNzE1LDEwNTk3OTQ5NTcsMTMzNj
-MwODExMF19
+eyJoaXN0b3J5IjpbMTgyNDg4NjI1OSwxMDU5Nzk0OTU3LDEzMz
+YzMDgxMTBdfQ==
 -->
