@@ -38,27 +38,71 @@ Query DNS[^1]  interactively. nslookup is deprecated.
 
 ### Query DNS server to get IP address of a website
 ```bash
-$ nslookup github.com
-Server:		10.51.1.42
-Address:	10.51.1.42#53
-Non-authoritative answer:
-Name:	github.com
-Address: 140.82.118.4
-Name:	github.com
-Address: 140.82.118.3
+$ dig github.com
+; <<>> DiG 9.8.3-P1 <<>> github.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 38576
+;; flags: qr rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 8, ADDITIONAL: 8
+
+;; QUESTION SECTION:
+;github.com.			IN	A
+
+;; ANSWER SECTION:
+github.com.		56	IN	A	140.82.118.4
+github.com.		56	IN	A	140.82.118.3
+
+;; AUTHORITY SECTION:
+github.com.		100095	IN	NS	ns-1707.awsdns-21.co.uk.
+github.com.		100095	IN	NS	ns-520.awsdns-01.net.
+github.com.		100095	IN	NS	ns4.p16.dynect.net.
+github.com.		100095	IN	NS	ns1.p16.dynect.net.
+github.com.		100095	IN	NS	ns3.p16.dynect.net.
+github.com.		100095	IN	NS	ns-1283.awsdns-32.org.
+github.com.		100095	IN	NS	ns2.p16.dynect.net.
+github.com.		100095	IN	NS	ns-421.awsdns-52.com.
+
+;; ADDITIONAL SECTION:
+ns1.p16.dynect.net.	7603	IN	A	208.78.70.16
+ns2.p16.dynect.net.	7603	IN	A	204.13.250.16
+ns3.p16.dynect.net.	7603	IN	A	208.78.71.16
+ns4.p16.dynect.net.	7603	IN	A	204.13.251.16
+ns-421.awsdns-52.com.	2992	IN	A	205.251.193.165
+ns-520.awsdns-01.net.	4519	IN	A	205.251.194.8
+ns-1283.awsdns-32.org.	4519	IN	A	205.251.197.3
+ns-1707.awsdns-21.co.uk. 4519	IN	A	205.251.198.171
+
+;; Query time: 2 msec
+;; SERVER: 10.51.1.42#53(10.51.1.42)
+;; WHEN: Wed Jan  9 11:17:29 2019
+;; MSG SIZE  rcvd: 408
 ```
 > 10.51.1.42 is the default DNS server.
 > In OS X, the default DNS IP address can be found (and configured) in /etc/resolv.conf
 ### Query an specific DSN server
 ```bash
-$ nslookup github.com 8.8.8.8
-Server:		8.8.8.8
-Address:	8.8.8.8#53
-Non-authoritative answer:
-Name:	github.com
-Address: 140.82.118.3
-Name:	github.com
-Address: 140.82.118.4
+$ dig  github.com 8.8.8.8
+; <<>> DiG 9.8.3-P1 <<>> @8.8.8.8 slash16.org
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 25406
+;; flags: qr rd ra; QUERY: 1, ANSWER: 4, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;slash16.org.			IN	A
+
+;; ANSWER SECTION:
+slash16.org.		7	IN	A	143.204.194.143
+slash16.org.		7	IN	A	143.204.194.182
+slash16.org.		7	IN	A	143.204.194.136
+slash16.org.		7	IN	A	143.204.194.122
+
+;; Query time: 6 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8)
+;; WHEN: Wed Jan  9 11:18:19 2019
+;; MSG SIZE  rcvd: 93
+
 ```
 > 8.8.8.8 : Google public DNS address
 
@@ -127,5 +171,6 @@ $ traceroute to google.fr (216.58.198.195), 64 hops max, 52 byte packets
 
 [^1]: The Domain Name Server. Comme un annuaire pour site web. On cherche un Nom de domaine (= Nom de famille) et on trouve l'adresse correspondante (= le numéro de téléphone). There DNS all over the world.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4OTY2MzcyNSw5MzMzMzEwNDNdfQ==
+eyJoaXN0b3J5IjpbLTIxNDY2NzY3ODMsLTY4OTY2MzcyNSw5Mz
+MzMzEwNDNdfQ==
 -->
