@@ -191,6 +191,12 @@ $ apt-get install openssh-server
 ```
 ### Open session
 ```bash
+$ ssh user@XX.XX.XX.XX
+user@10.11.200.172's password:
+```
+#### Select a specific port
+```bash
+# select 
 $ ssh -p 22 user@XX.XX.XX.XX
 user@10.11.200.172's password:
 ```
@@ -198,6 +204,6 @@ user@10.11.200.172's password:
 
 [^1]: The Domain Name Server. Comme un annuaire pour site web. On cherche un Nom de domaine (= Nom de famille) et on trouve l'adresse correspondante (= le numéro de téléphone). There DNS all over the world.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3NTEzNTg0NSwtNDU1NTI1MjY5LC02OD
+eyJoaXN0b3J5IjpbMTkzODQ5Mzk0OCwtNDU1NTI1MjY5LC02OD
 k2NjM3MjUsOTMzMzMxMDQzXX0=
 -->
