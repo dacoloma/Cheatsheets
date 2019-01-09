@@ -189,11 +189,15 @@ Requirement :
 $ apt-get update
 $ apt-get install openssh-server
 ```
-### Open ses
+### Open session
+```bash
+$ ssh -p 22 user@XX.XX.XX.XX
+user@10.11.200.172's password:
+```
 *[DNS]: Domain Name Server
 
 [^1]: The Domain Name Server. Comme un annuaire pour site web. On cherche un Nom de domaine (= Nom de famille) et on trouve l'adresse correspondante (= le numéro de téléphone). There DNS all over the world.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwNjMzOTA4MywtNDU1NTI1MjY5LC02OD
+eyJoaXN0b3J5IjpbMTk3NTEzNTg0NSwtNDU1NTI1MjY5LC02OD
 k2NjM3MjUsOTMzMzMxMDQzXX0=
 -->
