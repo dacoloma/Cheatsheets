@@ -185,10 +185,11 @@ $ service ssh restart
 ```
 ## ssh
 
+### Open 
 *[DNS]: Domain Name Server
 
 [^1]: The Domain Name Server. Comme un annuaire pour site web. On cherche un Nom de domaine (= Nom de famille) et on trouve l'adresse correspondante (= le numéro de téléphone). There DNS all over the world.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzgxODU5OTYsLTQ1NTUyNTI2OSwtNj
-g5NjYzNzI1LDkzMzMzMTA0M119
+eyJoaXN0b3J5IjpbMTk2ODk0MzU3NSwtNDU1NTI1MjY5LC02OD
+k2NjM3MjUsOTMzMzMxMDQzXX0=
 -->
