@@ -34,7 +34,7 @@ Show network status
 $ netstat -nr
 ```
 ## dig / host
-Query *Domain Name Server[^1]* (DNS) interactively. nslookup is deprecated.
+Query DNS[^1]  interactively. nslookup is deprecated.
 
 ### Query DNS server to get IP address of a website
 ```bash
@@ -122,6 +122,8 @@ $ traceroute to google.fr (216.58.198.195), 64 hops max, 52 byte packets
 8  108.170.232.125 (108.170.232.125)  1.368 ms  1.394 ms  1.359 ms
 9  par10s27-in-f195.1e100.net (216.58.198.195)  1.417 ms  1.241 ms  1.428 ms
 ```
+
+*[DNS]: Domain Name Server
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3NDYxMDkwMSw5MzMzMzEwNDNdfQ==
+eyJoaXN0b3J5IjpbMTQ1NDYwOTcyNyw5MzMzMzEwNDNdfQ==
 -->
