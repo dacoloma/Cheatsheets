@@ -172,22 +172,23 @@ $ traceroute to google.fr (216.58.198.195), 64 hops max, 52 byte packets
 $ hostnamectl --set-hostname new_name
 ```
 ## service
-```
-$ service *SCRIPT* COMMAND
-```
+Usage : service *SCRIPT* *COMMAND*
 ### Get service status
 ```bash
 $ service ssh status
 ```
-### (Re)Start a service
+### (Re)Start/Stop a service
 ```bash
 $ service ssh start
+$ service ssh stop
+$ service ssh restart
 ```
 ## ssh
+
 *[DNS]: Domain Name Server
 
 [^1]: The Domain Name Server. Comme un annuaire pour site web. On cherche un Nom de domaine (= Nom de famille) et on trouve l'adresse correspondante (= le numéro de téléphone). There DNS all over the world.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0NTMxOTI3OSwtNDU1NTI1MjY5LC02OD
-k2NjM3MjUsOTMzMzMxMDQzXX0=
+eyJoaXN0b3J5IjpbLTE4NzgxODU5OTYsLTQ1NTUyNTI2OSwtNj
+g5NjYzNzI1LDkzMzMzMTA0M119
 -->
