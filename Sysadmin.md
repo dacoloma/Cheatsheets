@@ -166,11 +166,14 @@ $ traceroute to google.fr (216.58.198.195), 64 hops max, 52 byte packets
 8  108.170.232.125 (108.170.232.125)  1.368 ms  1.394 ms  1.359 ms
 9  par10s27-in-f195.1e100.net (216.58.198.195)  1.417 ms  1.241 ms  1.428 ms
 ```
+## hostnamectl
+### Rename hostname permanently
+```bash
 
 *[DNS]: Domain Name Server
 
 [^1]: The Domain Name Server. Comme un annuaire pour site web. On cherche un Nom de domaine (= Nom de famille) et on trouve l'adresse correspondante (= le numéro de téléphone). There DNS all over the world.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1NTUyNTI2OSwtNjg5NjYzNzI1LDkzMz
-MzMTA0M119
+eyJoaXN0b3J5IjpbMjA4ODA3NjMwNCwtNDU1NTI1MjY5LC02OD
+k2NjM3MjUsOTMzMzMxMDQzXX0=
 -->
