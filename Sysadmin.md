@@ -184,12 +184,16 @@ $ service ssh stop
 $ service ssh restart
 ```
 ## ssh
-
-### Open 
+Requirement : 
+```bash
+$ apt-get update
+$ apt-get install openssh-server
+```
+### Open ses
 *[DNS]: Domain Name Server
 
 [^1]: The Domain Name Server. Comme un annuaire pour site web. On cherche un Nom de domaine (= Nom de famille) et on trouve l'adresse correspondante (= le numéro de téléphone). There DNS all over the world.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2ODk0MzU3NSwtNDU1NTI1MjY5LC02OD
+eyJoaXN0b3J5IjpbMTgwNjMzOTA4MywtNDU1NTI1MjY5LC02OD
 k2NjM3MjUsOTMzMzMxMDQzXX0=
 -->
