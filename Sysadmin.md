@@ -1,4 +1,4 @@
-# Sysadmin
+# Sysadmin (OSX, Debian)
 1. [ifconfig](#ifconfig)
 2. [netstat](#netstat)
 3. [dig / host](#dig-/-host)
@@ -121,5 +121,5 @@ $ traceroute to google.fr (216.58.198.195), 64 hops max, 52 byte packets
 9  par10s27-in-f195.1e100.net (216.58.198.195)  1.417 ms  1.241 ms  1.428 ms
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyNTc2NDgzNyw5MzMzMzEwNDNdfQ==
+eyJoaXN0b3J5IjpbMTg0Nzg1ODg3Myw5MzMzMzEwNDNdfQ==
 -->
