@@ -62,7 +62,7 @@ Address: 140.82.118.4
 ```
 > 8.8.8.8 : Google public DNS address
 
-[^1]: The Domain Name Server. Comme un annuaire pour site web. On cherche un Nom de domaine (= Nom de famille) et on trouve l'adresse correspondante (= le numéro de téléphone). There DNS all over the world.
+
 ## whois
 Internet domain name and network number directory service
 ```bash
@@ -124,6 +124,8 @@ $ traceroute to google.fr (216.58.198.195), 64 hops max, 52 byte packets
 ```
 
 *[DNS]: Domain Name Server
+
+[^1]: The Domain Name Server. Comme un annuaire pour site web. On cherche un Nom de domaine (= Nom de famille) et on trouve l'adresse correspondante (= le numéro de téléphone). There DNS all over the world.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1NDYwOTcyNyw5MzMzMzEwNDNdfQ==
+eyJoaXN0b3J5IjpbLTY4OTY2MzcyNSw5MzMzMzEwNDNdfQ==
 -->
