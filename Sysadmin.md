@@ -184,6 +184,7 @@ $ service ssh stop
 $ service ssh restart
 ```
 ## ssh
+Access remote machine
 Requirement : 
 ```bash
 $ apt-get update
@@ -196,14 +197,18 @@ user@10.11.200.172's password:
 ```
 #### Select a specific port
 ```bash
-# select 
+# select port 22
 $ ssh -p 22 user@XX.XX.XX.XX
 user@10.11.200.172's password:
+```
+### Close session
+```bash
+$ logout
 ```
 *[DNS]: Domain Name Server
 
 [^1]: The Domain Name Server. Comme un annuaire pour site web. On cherche un Nom de domaine (= Nom de famille) et on trouve l'adresse correspondante (= le numéro de téléphone). There DNS all over the world.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzODQ5Mzk0OCwtNDU1NTI1MjY5LC02OD
+eyJoaXN0b3J5IjpbMTk1MTM5MzY5NSwtNDU1NTI1MjY5LC02OD
 k2NjM3MjUsOTMzMzMxMDQzXX0=
 -->
