@@ -79,7 +79,7 @@ ns-1707.awsdns-21.co.uk. 4519	IN	A	205.251.198.171
 ```
 > 10.51.1.42 is the default DNS server.
 > In OS X, the default DNS IP address can be found (and configured) in /etc/resolv.conf
-### Query an specific DSN server
+### Query an specific DNS server
 ```bash
 $ dig 8.8.8.8 github.com
 ; <<>> DiG 9.8.3-P1 <<>> @8.8.8.8 slash16.org
@@ -171,6 +171,6 @@ $ traceroute to google.fr (216.58.198.195), 64 hops max, 52 byte packets
 
 [^1]: The Domain Name Server. Comme un annuaire pour site web. On cherche un Nom de domaine (= Nom de famille) et on trouve l'adresse correspondante (= le numéro de téléphone). There DNS all over the world.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3NTkyODQ0NywtNjg5NjYzNzI1LDkzMz
+eyJoaXN0b3J5IjpbLTQ1NTUyNTI2OSwtNjg5NjYzNzI1LDkzMz
 MzMTA0M119
 -->
