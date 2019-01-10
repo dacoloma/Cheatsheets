@@ -201,7 +201,7 @@ user@10.11.200.172's password:
 $ ssh -p 22 user@XX.XX.XX.XX
 user@10.11.200.172's password:
 ```
-> To get the port ssh is listening to, read /etc/ssh/ssh_config
+> To get the port ssh is listening to, read /etc/ssh/ssh_config file
 ### Close session
 ```bash
 $ logout
@@ -210,6 +210,6 @@ $ logout
 
 [^1]: The Domain Name Server. Comme un annuaire pour site web. On cherche un Nom de domaine (= Nom de famille) et on trouve l'adresse correspondante (= le numéro de téléphone). There DNS all over the world.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk3OTg3MzYxLDE0NjAzNzUxMiwtNDU1NT
-I1MjY5LC02ODk2NjM3MjUsOTMzMzMxMDQzXX0=
+eyJoaXN0b3J5IjpbLTM2OTkyMjQ4OSwxNDYwMzc1MTIsLTQ1NT
+UyNTI2OSwtNjg5NjYzNzI1LDkzMzMzMTA0M119
 -->
