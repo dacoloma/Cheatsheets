@@ -183,7 +183,7 @@ $ service ssh start
 $ service ssh stop
 $ service ssh restart
 ```
-## SSH
+### SSH
 Access remote machine
 ### Requirement 
 ```bash
@@ -212,10 +212,11 @@ user@10.11.200.172's password:
 ```bash
 $ logout
 ```
+## 
 *[DNS]: Domain Name Server
 *[SSH]: Secure Shell
 [^1]: The Domain Name Server. Comme un annuaire pour site web. On cherche un Nom de domaine (= Nom de famille) et on trouve l'adresse correspondante (= le numéro de téléphone). There DNS all over the world.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwNDAxNDIyMSwxNDYwMzc1MTIsLTQ1NT
-UyNTI2OSwtNjg5NjYzNzI1LDkzMzMzMTA0M119
+eyJoaXN0b3J5IjpbLTE2MDYwMjcwMTAsMTQ2MDM3NTEyLC00NT
+U1MjUyNjksLTY4OTY2MzcyNSw5MzMzMzEwNDNdfQ==
 -->
