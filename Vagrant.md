@@ -16,14 +16,17 @@ Vagrant.configure("2") do |config|
 end
 ```
 ## Vagrant
-Install Guest Addition to allow 
+Install Guest Addition to allow Share Clipboard, Drag'n'Drop, etc.. (need to check this info)
 ```bash
 $ cd /path/to/VMs/vagrant
 $ vagrant plugin install vagrant-vbguest
+```
+Run Debian VM 
+```bash
 $ vagrant up
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1MTI0NTIxNiwxMzg5Nzk4MzU3LDE1Mj
+eyJoaXN0b3J5IjpbLTEzOTU3MTQwNSwxMzg5Nzk4MzU3LDE1Mj
 k2MjYyMjNdfQ==
 -->
