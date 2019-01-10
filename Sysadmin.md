@@ -218,11 +218,16 @@ Execute a command/script at a specific time
 ```bash
 $ apt-get update
 $ apt-get install at
+# Automatically launch at boot :
+$ systemctl enable --now atd.service
 ```
+#### Example
+```bash
+$ at now + 
 *[DNS]: Domain Name Server
 *[SSH]: Secure Shell
 [^1]: The Domain Name Server. Comme un annuaire pour site web. On cherche un Nom de domaine (= Nom de famille) et on trouve l'adresse correspondante (= le numéro de téléphone). There DNS all over the world.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxNjQ3OTMxNywxNDYwMzc1MTIsLTQ1NT
-UyNTI2OSwtNjg5NjYzNzI1LDkzMzMzMTA0M119
+eyJoaXN0b3J5IjpbNDA2NzA4ODYyLDE0NjAzNzUxMiwtNDU1NT
+I1MjY5LC02ODk2NjM3MjUsOTMzMzMxMDQzXX0=
 -->
