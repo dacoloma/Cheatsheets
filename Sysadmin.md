@@ -185,7 +185,7 @@ $ service ssh restart
 ```
 ### Service : SSH
 Access remote machine
-### Requirement 
+1. Requirement 
 ```bash
 $ apt-get update
 #On server-side
@@ -196,12 +196,12 @@ $ apt-get install openssh-client
 #if ssh service is not running automatically
 $ service ssh start
 ```
-#### Open session
+2.  Open session
 ```bash
 $ ssh user@XX.XX.XX.XX
 user@10.11.200.172's password:
 ```
-##### Select a specific port
+# Select a specific port
 ```bash
 # select port 22
 $ ssh -p 22 user@XX.XX.XX.XX
@@ -226,11 +226,13 @@ $ systemctl enable --now atd.service
 $ at now + 1 minutes
 at> echo "test at service" > test.txt
 at>
-# Control + d to 
+# Control + d to exit at prompt
+# Wait...
+```
 *[DNS]: Domain Name Server
 *[SSH]: Secure Shell
 [^1]: The Domain Name Server. Comme un annuaire pour site web. On cherche un Nom de domaine (= Nom de famille) et on trouve l'adresse correspondante (= le numéro de téléphone). There DNS all over the world.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI5NjkyNDMzLDE0NjAzNzUxMiwtNDU1NT
-I1MjY5LC02ODk2NjM3MjUsOTMzMzMxMDQzXX0=
+eyJoaXN0b3J5IjpbLTIwNDY1NjUxMzQsMTQ2MDM3NTEyLC00NT
+U1MjUyNjksLTY4OTY2MzcyNSw5MzMzMzEwNDNdfQ==
 -->
