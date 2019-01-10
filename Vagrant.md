@@ -1,6 +1,10 @@
 # Vagrant
 ## VirtualBox
-Change the repository 
+```bash
+$ mkdir /path/to/VMs/vagrant
+$ echo 'export VAGRANT_HOME=/Volumes/Storage/goinfre/<login>/vagrant' >> ~/.zshrc
+```
+Change the repository where vagrant will be used
 http://www.thisprogrammingthing.com/2013/changing-the-directory-vagrant-stores-the-vms-in/
 ## Vagrantfile
 ```ruby
@@ -11,5 +15,5 @@ end
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0MzE1NjQ1MiwxNTI5NjI2MjIzXX0=
+eyJoaXN0b3J5IjpbLTgxNDE4MjQ3MSwxNTI5NjI2MjIzXX0=
 -->
