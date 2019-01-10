@@ -8,14 +8,19 @@ $ echo 'export VAGRANT_HOME=/path/to/VMs/vagrant' >> ~/.zshrc
 In VirtualBox settings, change the default VMs storing repo.
 > http://www.thisprogrammingthing.com/2013/changing-the-directory-vagrant-stores-the-vms-in/
 ## Vagrantfile
-Create a file named Vagrantfile a put it in vagrant repo.
+Create a file named Vagrantfile a put it in vagrant repo. In this example, the Vagrantfile will create a VM with Debian.
 ```ruby
 Vagrant.configure("2") do |config|
   config.vm.box = "debian/stretch64"
   config.vm.synced_folder ".", "/git"
 end
 ```
+## Vagrant
+```bash
+$ cd /path/to/VMs/vagrant
+$ vagrant
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4OTc5ODM1NywxNTI5NjI2MjIzXX0=
+eyJoaXN0b3J5IjpbLTExMTM1MzIxNSwxMzg5Nzk4MzU3LDE1Mj
+k2MjYyMjNdfQ==
 -->
