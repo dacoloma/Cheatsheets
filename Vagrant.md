@@ -16,11 +16,14 @@ Vagrant.configure("2") do |config|
 end
 ```
 ## Vagrant
+Install Guest Addition to allow 
 ```bash
 $ cd /path/to/VMs/vagrant
-$ vagrant
+$ vagrant plugin install vagrant-vbguest
+$ vagrant up
+```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTM1MzIxNSwxMzg5Nzk4MzU3LDE1Mj
+eyJoaXN0b3J5IjpbLTY1MTI0NTIxNiwxMzg5Nzk4MzU3LDE1Mj
 k2MjYyMjNdfQ==
 -->
