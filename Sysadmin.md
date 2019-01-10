@@ -185,7 +185,7 @@ $ service ssh restart
 ```
 ## SSH
 Access remote machine
-### Requirement
+### Requirement on server side
 ```bash
 $ apt-get update
 $ apt-get install openssh-server
@@ -207,9 +207,9 @@ user@10.11.200.172's password:
 $ logout
 ```
 *[DNS]: Domain Name Server
-*[SSH]: Domain Name Server
+*[SSH]: Secure Shell
 [^1]: The Domain Name Server. Comme un annuaire pour site web. On cherche un Nom de domaine (= Nom de famille) et on trouve l'adresse correspondante (= le numéro de téléphone). There DNS all over the world.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2NzQ4NTUzNSwxNDYwMzc1MTIsLTQ1NT
-UyNTI2OSwtNjg5NjYzNzI1LDkzMzMzMTA0M119
+eyJoaXN0b3J5IjpbMTEyODE5NDg5LDE0NjAzNzUxMiwtNDU1NT
+I1MjY5LC02ODk2NjM3MjUsOTMzMzMxMDQzXX0=
 -->
