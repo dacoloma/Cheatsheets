@@ -275,6 +275,9 @@ $ cat /etc/group | cut -d: -f 1
 $ adduser new_user 
 ```
 ### Delete a user
+```bash
+$ deluser user 
+```
 ### Add user to a group
 User must be created first
 ```bash
@@ -284,6 +287,7 @@ $ adduser user group_name
 *[SSH]: Secure Shell
 [^1]: The Domain Name Server. Comme un annuaire pour site web. On cherche un Nom de domaine (= Nom de famille) et on trouve l'adresse correspondante (= le numéro de téléphone). There DNS all over the world.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyNjc3MTk0NywxMTk1MTQ2NTM0LC0xND
-c1NTcyMzkyLC0xMTIxMzI3OTUyLDgxMzU2MjcwMV19
+eyJoaXN0b3J5IjpbODU4NzI4ODEyLDEyMjY3NzE5NDcsMTE5NT
+E0NjUzNCwtMTQ3NTU3MjM5MiwtMTEyMTMyNzk1Miw4MTM1NjI3
+MDFdfQ==
 -->
