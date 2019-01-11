@@ -263,11 +263,15 @@ $ getent passwd
 $ adduser new_user 
 ```
 ### Delete a user
-
+### Add user to a group
+User must be created first
+```bash
+$ adduser user group_name
+```
 *[DNS]: Domain Name Server
 *[SSH]: Secure Shell
 [^1]: The Domain Name Server. Comme un annuaire pour site web. On cherche un Nom de domaine (= Nom de famille) et on trouve l'adresse correspondante (= le numéro de téléphone). There DNS all over the world.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjE5MTA1MzQsMTE5NTE0NjUzNCwtMT
-Q3NTU3MjM5MiwtMTEyMTMyNzk1Miw4MTM1NjI3MDFdfQ==
+eyJoaXN0b3J5IjpbLTU5NDE0MzI4NSwxMTk1MTQ2NTM0LC0xND
+c1NTcyMzkyLC0xMTIxMzI3OTUyLDgxMzU2MjcwMV19
 -->
