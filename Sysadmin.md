@@ -254,11 +254,14 @@ $ getent passwd
 ```
 
 ## User
-#
+### adduser
+```bash
+$ adduser new_user 
+### deluser
 *[DNS]: Domain Name Server
 *[SSH]: Secure Shell
 [^1]: The Domain Name Server. Comme un annuaire pour site web. On cherche un Nom de domaine (= Nom de famille) et on trouve l'adresse correspondante (= le numéro de téléphone). There DNS all over the world.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTQ3NTIxODEsLTExMjEzMjc5NTIsOD
+eyJoaXN0b3J5IjpbLTE0NzU1NzIzOTIsLTExMjEzMjc5NTIsOD
 EzNTYyNzAxXX0=
 -->
