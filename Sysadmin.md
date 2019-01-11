@@ -223,7 +223,12 @@ It is also possible that a host key has just been changed.
 [...]
 Please contact your system administrator.
 ```
-
+```bash
+$ ssh-keygen -R 10.11.200.163
+# Host 10.11.200.163 found: line 7
+/Users/user/.ssh/known_hosts updated.
+Original contents retained as /Users/user/.ssh/known_hosts.old
+```
 ### Service : at
 Execute a command/script at a specific time
 #### Requirement
@@ -248,5 +253,5 @@ at>
 *[SSH]: Secure Shell
 [^1]: The Domain Name Server. Comme un annuaire pour site web. On cherche un Nom de domaine (= Nom de famille) et on trouve l'adresse correspondante (= le numéro de téléphone). There DNS all over the world.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU3Mjk1ODM4LDgxMzU2MjcwMV19
+eyJoaXN0b3J5IjpbLTIwNzgyMDMwODQsODEzNTYyNzAxXX0=
 -->
