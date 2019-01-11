@@ -230,6 +230,9 @@ $ ssh-keygen -R 10.11.200.163
 /Users/user/.ssh/known_hosts updated.
 Original contents retained as /Users/user/.ssh/known_hosts.old
 ```
+#### File transfer
+```bash
+$ scp 
 ### Service : at
 Execute a command/script at a specific time
 #### Requirement
@@ -262,6 +265,6 @@ $ adduser new_user
 *[SSH]: Secure Shell
 [^1]: The Domain Name Server. Comme un annuaire pour site web. On cherche un Nom de domaine (= Nom de famille) et on trouve l'adresse correspondante (= le numéro de téléphone). There DNS all over the world.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzU1NzIzOTIsLTExMjEzMjc5NTIsOD
-EzNTYyNzAxXX0=
+eyJoaXN0b3J5IjpbLTEwMTQwNzk4MSwtMTQ3NTU3MjM5MiwtMT
+EyMTMyNzk1Miw4MTM1NjI3MDFdfQ==
 -->
