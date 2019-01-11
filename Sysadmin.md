@@ -278,16 +278,24 @@ $ adduser new_user
 ```bash
 $ deluser user 
 ```
+### Add a group
+```bash
+$ addgroup nom_groupe
+```
 ### Add user to a group
 User must be created first
 ```bash
 $ adduser user group_name
 ```
+### Delete a group
+```bash
+$ delgroup nom_groupe
+```
 *[DNS]: Domain Name Server
 *[SSH]: Secure Shell
 [^1]: The Domain Name Server. Comme un annuaire pour site web. On cherche un Nom de domaine (= Nom de famille) et on trouve l'adresse correspondante (= le numéro de téléphone). There DNS all over the world.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU4NzI4ODEyLDEyMjY3NzE5NDcsMTE5NT
-E0NjUzNCwtMTQ3NTU3MjM5MiwtMTEyMTMyNzk1Miw4MTM1NjI3
-MDFdfQ==
+eyJoaXN0b3J5IjpbMTg2MjM4MTY1MCwxMjI2NzcxOTQ3LDExOT
+UxNDY1MzQsLTE0NzU1NzIzOTIsLTExMjEzMjc5NTIsODEzNTYy
+NzAxXX0=
 -->
