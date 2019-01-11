@@ -223,6 +223,7 @@ It is also possible that a host key has just been changed.
 [...]
 Please contact your system administrator.
 ```
+After reinstalling ssh server, a new connection has been established. That means new 
 ```bash
 $ ssh-keygen -R 10.11.200.163
 # Host 10.11.200.163 found: line 7
@@ -253,5 +254,5 @@ at>
 *[SSH]: Secure Shell
 [^1]: The Domain Name Server. Comme un annuaire pour site web. On cherche un Nom de domaine (= Nom de famille) et on trouve l'adresse correspondante (= le numéro de téléphone). There DNS all over the world.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzgyMDMwODQsODEzNTYyNzAxXX0=
+eyJoaXN0b3J5IjpbMTUxMzk5MjgxOSw4MTM1NjI3MDFdfQ==
 -->
