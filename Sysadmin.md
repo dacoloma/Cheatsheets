@@ -256,6 +256,7 @@ at>
 
 
 ## User & Group
+https://doc.ubuntu-fr.org/tutoriel/gestion_utilisateurs_et_groupes_en_ligne_de_commande
 ### List of all users
 ```bash
 # Debian command
@@ -280,7 +281,7 @@ $ deluser user
 ```
 ### Add a group
 ```bash
-$ addgroup nom_groupe
+$ addgroup group_name
 ```
 ### Add user to a group
 User must be created first
@@ -295,7 +296,7 @@ $ delgroup nom_groupe
 *[SSH]: Secure Shell
 [^1]: The Domain Name Server. Comme un annuaire pour site web. On cherche un Nom de domaine (= Nom de famille) et on trouve l'adresse correspondante (= le numéro de téléphone). There DNS all over the world.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2MjM4MTY1MCwxMjI2NzcxOTQ3LDExOT
-UxNDY1MzQsLTE0NzU1NzIzOTIsLTExMjEzMjc5NTIsODEzNTYy
-NzAxXX0=
+eyJoaXN0b3J5IjpbNjc3NjU3MjEyLDEyMjY3NzE5NDcsMTE5NT
+E0NjUzNCwtMTQ3NTU3MjM5MiwtMTEyMTMyNzk1Miw4MTM1NjI3
+MDFdfQ==
 -->
