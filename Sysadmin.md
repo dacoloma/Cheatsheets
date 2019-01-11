@@ -212,7 +212,18 @@ user@10.11.200.172's password:
 ```bash
 $ logout
 ```
-#### 
+#### Error after reinstalling openssh-server
+```bash
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@    WARNING: REMOTE HOST IDENTIFICATION HAS CHANGED!     @
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+IT IS POSSIBLE THAT SOMEONE IS DOING SOMETHING NASTY!
+Someone could be eavesdropping on you right now (man-in-the-middle attack)!
+It is also possible that a host key has just been changed.
+[...]
+Please contact your system administrator.
+```
+
 ### Service : at
 Execute a command/script at a specific time
 #### Requirement
@@ -237,5 +248,5 @@ at>
 *[SSH]: Secure Shell
 [^1]: The Domain Name Server. Comme un annuaire pour site web. On cherche un Nom de domaine (= Nom de famille) et on trouve l'adresse correspondante (= le numéro de téléphone). There DNS all over the world.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5MTkzNzQxLDgxMzU2MjcwMV19
+eyJoaXN0b3J5IjpbNjU3Mjk1ODM4LDgxMzU2MjcwMV19
 -->
