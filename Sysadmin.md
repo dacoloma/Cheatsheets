@@ -258,15 +258,17 @@ at>
 ## User & Group
 ### List of all users
 ```bash
-#Debian
+# Debian command
 $ getent passwd
+# Or
 $ cat /etc/passwd | cut -d: -f 1
 ```
 ### List of all groups
 ```bash
-#Debian
+# Debian command
 $ getent passwd
-cat /etc/group | cut -d: -f 1
+# Or
+$ cat /etc/group | cut -d: -f 1
 ```
 ### Add user
 ```bash
@@ -282,6 +284,6 @@ $ adduser user group_name
 *[SSH]: Secure Shell
 [^1]: The Domain Name Server. Comme un annuaire pour site web. On cherche un Nom de domaine (= Nom de famille) et on trouve l'adresse correspondante (= le numéro de téléphone). There DNS all over the world.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4NDY1OTUwOSwxMTk1MTQ2NTM0LC0xND
+eyJoaXN0b3J5IjpbMTIyNjc3MTk0NywxMTk1MTQ2NTM0LC0xND
 c1NTcyMzkyLC0xMTIxMzI3OTUyLDgxMzU2MjcwMV19
 -->
