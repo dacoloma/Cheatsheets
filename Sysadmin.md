@@ -264,6 +264,7 @@ $ getent passwd
 # Or
 $ cat /etc/passwd | cut -d: -f 1
 ```
+> To understand /etc/passwd file : https://www.cyberciti.biz/faq/understanding-etcpasswd-file-format/
 ### List of all groups
 ```bash
 # Debian command
@@ -296,7 +297,7 @@ $ delgroup nom_groupe
 *[SSH]: Secure Shell
 [^1]: The Domain Name Server. Comme un annuaire pour site web. On cherche un Nom de domaine (= Nom de famille) et on trouve l'adresse correspondante (= le numéro de téléphone). There DNS all over the world.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc3NjU3MjEyLDEyMjY3NzE5NDcsMTE5NT
-E0NjUzNCwtMTQ3NTU3MjM5MiwtMTEyMTMyNzk1Miw4MTM1NjI3
-MDFdfQ==
+eyJoaXN0b3J5IjpbMTY1MzExOTcyNyw2Nzc2NTcyMTIsMTIyNj
+c3MTk0NywxMTk1MTQ2NTM0LC0xNDc1NTcyMzkyLC0xMTIxMzI3
+OTUyLDgxMzU2MjcwMV19
 -->
