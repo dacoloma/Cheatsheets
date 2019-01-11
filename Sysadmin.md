@@ -280,7 +280,7 @@ $ adduser new_user
 ```bash
 $ deluser user 
 ```
-If the user is logged in, execute the following command then delete the u
+If the user is logged in, execute the following command then delete the user :
 ```bash
 $ killall -u user
 ```
@@ -301,7 +301,7 @@ $ delgroup nom_groupe
 *[SSH]: Secure Shell
 [^1]: The Domain Name Server. Comme un annuaire pour site web. On cherche un Nom de domaine (= Nom de famille) et on trouve l'adresse correspondante (= le numéro de téléphone). There DNS all over the world.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5MzUzNDcxMywxNjUzMTE5NzI3LDY3Nz
+eyJoaXN0b3J5IjpbMTU3NjQ4ODA5MywxNjUzMTE5NzI3LDY3Nz
 Y1NzIxMiwxMjI2NzcxOTQ3LDExOTUxNDY1MzQsLTE0NzU1NzIz
 OTIsLTExMjEzMjc5NTIsODEzNTYyNzAxXX0=
 -->
