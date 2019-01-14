@@ -1,4 +1,5 @@
 # Sysadmin (OSX, Debian)
+https://www.vagrantup.com/docs/vagrantfile/
 1. [ifconfig](#ifconfig)
 2. [netstat](#netstat)
 3. [dig / host](#dig-/-host)
@@ -301,7 +302,7 @@ $ delgroup nom_groupe
 *[SSH]: Secure Shell
 [^1]: The Domain Name Server. Comme un annuaire pour site web. On cherche un Nom de domaine (= Nom de famille) et on trouve l'adresse correspondante (= le numéro de téléphone). There DNS all over the world.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3NjQ4ODA5MywxNjUzMTE5NzI3LDY3Nz
-Y1NzIxMiwxMjI2NzcxOTQ3LDExOTUxNDY1MzQsLTE0NzU1NzIz
-OTIsLTExMjEzMjc5NTIsODEzNTYyNzAxXX0=
+eyJoaXN0b3J5IjpbMTEwNzg3ODQ5LDE1NzY0ODgwOTMsMTY1Mz
+ExOTcyNyw2Nzc2NTcyMTIsMTIyNjc3MTk0NywxMTk1MTQ2NTM0
+LC0xNDc1NTcyMzkyLC0xMTIxMzI3OTUyLDgxMzU2MjcwMV19
 -->
