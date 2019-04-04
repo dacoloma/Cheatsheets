@@ -14,10 +14,10 @@ $ valgrind --leak-check=yes myprog arg1 arg2
 lldb myprogram
 r #run
 b main
-n 
-n	#or enter
+n #next line 
+n #or enter
 s #go to function
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxNzUxNTk0MiwxNjU2NDkyOCwtMTk2ND
+eyJoaXN0b3J5IjpbLTcyNzc5MjAyNCwxNjU2NDkyOCwtMTk2ND
 c5MTA4MF19
 -->
