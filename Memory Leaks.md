@@ -8,6 +8,16 @@ type this to use valgrind :
 ```bash
 $ valgrind --leak-check=yes myprog arg1 arg2
 ```	
+
+## LLDB
+```bash
+lldb myprogram
+r #run
+b main
+n 
+n	#or enter
+s #go to function
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1NjQ5MjgsLTE5NjQ3OTEwODBdfQ==
+eyJoaXN0b3J5IjpbLTQxNzUxNTk0MiwxNjU2NDkyOCwtMTk2ND
+c5MTA4MF19
 -->
