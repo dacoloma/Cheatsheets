@@ -11,9 +11,10 @@ https://misc.flogisoft.com/bash/tip_colors_and_formatting
 ## sudo
 ```bash
 $ su -
-# 
+# Enter root pwd
 $ apt-get install sudo -y
-$ sudo
+$ sudo adduser username sudo
+$ exit 
 ```
 ## ifconfig
 Configure network interface
@@ -311,8 +312,8 @@ $ delgroup nom_groupe
 *[SSH]: Secure Shell
 [^1]: The Domain Name Server. Comme un annuaire pour site web. On cherche un Nom de domaine (= Nom de famille) et on trouve l'adresse correspondante (= le numéro de téléphone). There DNS all over the world.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyOTc1NDgzNCwtMTgyMjE2OTU5MCwxMD
-YyNzEyNjkyLDE1NzY0ODgwOTMsMTY1MzExOTcyNyw2Nzc2NTcy
-MTIsMTIyNjc3MTk0NywxMTk1MTQ2NTM0LC0xNDc1NTcyMzkyLC
-0xMTIxMzI3OTUyLDgxMzU2MjcwMV19
+eyJoaXN0b3J5IjpbOTgxODY1NTY0LC0xODIyMTY5NTkwLDEwNj
+I3MTI2OTIsMTU3NjQ4ODA5MywxNjUzMTE5NzI3LDY3NzY1NzIx
+MiwxMjI2NzcxOTQ3LDExOTUxNDY1MzQsLTE0NzU1NzIzOTIsLT
+ExMjEzMjc5NTIsODEzNTYyNzAxXX0=
 -->
