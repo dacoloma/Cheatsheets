@@ -11,7 +11,7 @@ https://misc.flogisoft.com/bash/tip_colors_and_formatting
 ## sudo
 ```bash
 $ su -
-#
+# 
 $ apt-get install sudo -y
 $ sudo
 ```
@@ -311,8 +311,8 @@ $ delgroup nom_groupe
 *[SSH]: Secure Shell
 [^1]: The Domain Name Server. Comme un annuaire pour site web. On cherche un Nom de domaine (= Nom de famille) et on trouve l'adresse correspondante (= le numéro de téléphone). There DNS all over the world.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjIxNjk1OTAsMTA2MjcxMjY5MiwxNT
-c2NDg4MDkzLDE2NTMxMTk3MjcsNjc3NjU3MjEyLDEyMjY3NzE5
-NDcsMTE5NTE0NjUzNCwtMTQ3NTU3MjM5MiwtMTEyMTMyNzk1Mi
-w4MTM1NjI3MDFdfQ==
+eyJoaXN0b3J5IjpbMTQyOTc1NDgzNCwtMTgyMjE2OTU5MCwxMD
+YyNzEyNjkyLDE1NzY0ODgwOTMsMTY1MzExOTcyNyw2Nzc2NTcy
+MTIsMTIyNjc3MTk0NywxMTk1MTQ2NTM0LC0xNDc1NTcyMzkyLC
+0xMTIxMzI3OTUyLDgxMzU2MjcwMV19
 -->
