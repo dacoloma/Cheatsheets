@@ -7,6 +7,9 @@ https://misc.flogisoft.com/bash/tip_colors_and_formatting
 4. [whois](#whois)
 5. [ping](#ping)
 6. [traceroute](#traceroute)
+
+## sudo
+
 ## ifconfig
 Configure network interface
 ### Display all network interfaces without info
@@ -303,8 +306,8 @@ $ delgroup nom_groupe
 *[SSH]: Secure Shell
 [^1]: The Domain Name Server. Comme un annuaire pour site web. On cherche un Nom de domaine (= Nom de famille) et on trouve l'adresse correspondante (= le numéro de téléphone). There DNS all over the world.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2MjcxMjY5MiwxNTc2NDg4MDkzLDE2NT
-MxMTk3MjcsNjc3NjU3MjEyLDEyMjY3NzE5NDcsMTE5NTE0NjUz
-NCwtMTQ3NTU3MjM5MiwtMTEyMTMyNzk1Miw4MTM1NjI3MDFdfQ
-==
+eyJoaXN0b3J5IjpbNDUzNzk4ODY1LDEwNjI3MTI2OTIsMTU3Nj
+Q4ODA5MywxNjUzMTE5NzI3LDY3NzY1NzIxMiwxMjI2NzcxOTQ3
+LDExOTUxNDY1MzQsLTE0NzU1NzIzOTIsLTExMjEzMjc5NTIsOD
+EzNTYyNzAxXX0=
 -->
