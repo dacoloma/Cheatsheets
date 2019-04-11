@@ -1,12 +1,13 @@
 # Sysadmin (OSX, Debian)
 https://www.vagrantup.com/docs/vagrantfile/
 https://misc.flogisoft.com/bash/tip_colors_and_formatting
-1. [ifconfig](#ifconfig)
-2. [netstat](#netstat)
-3. [dig / host](#dig-/-host)
-4. [whois](#whois)
-5. [ping](#ping)
-6. [traceroute](#traceroute)
+1. [sudo](#sudo)
+2. [ifconfig](#ifconfig)
+3. [netstat](#netstat)
+4. [dig / host](#dig-/-host)
+5. [whois](#whois)
+6. [ping](#ping)
+7. [traceroute](#traceroute)
 
 ## sudo
 ```bash
@@ -20,6 +21,7 @@ $ exit
 Configure network interface
 ### Display all network interfaces without info
 ```bash
+$ apt-get install net-tools
 $ ifconfig -l
 ```
 > -l : display only network interface names
@@ -312,8 +314,8 @@ $ delgroup nom_groupe
 *[SSH]: Secure Shell
 [^1]: The Domain Name Server. Comme un annuaire pour site web. On cherche un Nom de domaine (= Nom de famille) et on trouve l'adresse correspondante (= le numéro de téléphone). There DNS all over the world.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTgxODY1NTY0LC0xODIyMTY5NTkwLDEwNj
-I3MTI2OTIsMTU3NjQ4ODA5MywxNjUzMTE5NzI3LDY3NzY1NzIx
-MiwxMjI2NzcxOTQ3LDExOTUxNDY1MzQsLTE0NzU1NzIzOTIsLT
-ExMjEzMjc5NTIsODEzNTYyNzAxXX0=
+eyJoaXN0b3J5IjpbOTYwNTc5MTQxLDk4MTg2NTU2NCwtMTgyMj
+E2OTU5MCwxMDYyNzEyNjkyLDE1NzY0ODgwOTMsMTY1MzExOTcy
+Nyw2Nzc2NTcyMTIsMTIyNjc3MTk0NywxMTk1MTQ2NTM0LC0xND
+c1NTcyMzkyLC0xMTIxMzI3OTUyLDgxMzU2MjcwMV19
 -->
