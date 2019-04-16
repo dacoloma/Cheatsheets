@@ -313,9 +313,15 @@ $ delgroup nom_groupe
 *[DNS]: Domain Name Server
 *[SSH]: Secure Shell
 [^1]: The Domain Name Server. Comme un annuaire pour site web. On cherche un Nom de domaine (= Nom de famille) et on trouve l'adresse correspondante (= le numéro de téléphone). There DNS all over the world.
+
+## Firewall
+iptables -L
+save in /etc/init.d
+sudo netfilter-persistent save
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTYwNTc5MTQxLDk4MTg2NTU2NCwtMTgyMj
-E2OTU5MCwxMDYyNzEyNjkyLDE1NzY0ODgwOTMsMTY1MzExOTcy
-Nyw2Nzc2NTcyMTIsMTIyNjc3MTk0NywxMTk1MTQ2NTM0LC0xND
-c1NTcyMzkyLC0xMTIxMzI3OTUyLDgxMzU2MjcwMV19
+eyJoaXN0b3J5IjpbMTQzOTM0NzUyMSw5NjA1NzkxNDEsOTgxOD
+Y1NTY0LC0xODIyMTY5NTkwLDEwNjI3MTI2OTIsMTU3NjQ4ODA5
+MywxNjUzMTE5NzI3LDY3NzY1NzIxMiwxMjI2NzcxOTQ3LDExOT
+UxNDY1MzQsLTE0NzU1NzIzOTIsLTExMjEzMjc5NTIsODEzNTYy
+NzAxXX0=
 -->
