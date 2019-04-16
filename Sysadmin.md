@@ -318,8 +318,39 @@ $ delgroup nom_groupe
 iptables -L
 save in /etc/init.d
 sudo netfilter-persistent save
+
+```
+#!/bin/sh
+
+# On flush
+iptables -F
+
+# Policies
+iptables -P OUTPUT DROP
+iptables -P INPUT DROP
+iptables -P FORWARD DROP
+
+# Established connection
+iptables -A INPUT -m state --state ESTABLISHED,RELATED -j ACCEPT
+iptables -A OUTPUT -m state --state ESTABLISHED,RELATED -j ACCEPT
+
+# Authorize loopback
+iptables -A INPUT -i lo -j ACCEPT
+iptables -A OUTPUT -o lo -j ACCEPT
+
+# SSH
+iptables -A INPUT -p tcp --dport 42424 -j ACCEPT
+
+# HTTP
+iptables -A INPUT -p tcp --dport 80 -j ACCEPT
+iptables -A INPUT -p tcp --dport 443 -j ACCEPT
+
+iptables -A OUTPUT -p tcp --dport 80 -j ACCEPT
+iptables -A OUTPUT -p tcp --dport 443 -j ACCEPT
+```
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzOTM0NzUyMSw5NjA1NzkxNDEsOTgxOD
+eyJoaXN0b3J5IjpbMTMwOTQ5NTA2NSw5NjA1NzkxNDEsOTgxOD
 Y1NTY0LC0xODIyMTY5NTkwLDEwNjI3MTI2OTIsMTU3NjQ4ODA5
 MywxNjUzMTE5NzI3LDY3NzY1NzIxMiwxMjI2NzcxOTQ3LDExOT
 UxNDY1MzQsLTE0NzU1NzIzOTIsLTExMjEzMjc5NTIsODEzNTYy
