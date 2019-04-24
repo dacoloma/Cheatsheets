@@ -1,8 +1,13 @@
+# Apache
 
 
 
-> Written with [StackEdit](https://stackedit.io/).# Apache
-Debugger le fichier de test 
+Debugger le fichier de config 
+```bash
+$ /usr/sbin/apache2ctl configtest
+```
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDg4NjI3NCw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMTc2Njc0NDYyLDczMDk5ODExNl19
 -->
