@@ -1,5 +1,9 @@
-# Apache
-
+# Apache 
+(work in progress)
+Debugger le fichier de config 
+```bash
+$ /usr/sbin/apache2ctl configtest
+```
 ## Securité SSL/TLS
 ### Requirement
 Vérifier que Apache écoute le port 443.
@@ -17,13 +21,12 @@ $ sudo a2enmod headers
 Redémarrer le service pour prendre en compte l'activation des modules
 ```bash
 sudo service apache2 restart 
-Debugger le fichier de config 
-```bash
-$ /usr/sbin/apache2ctl configtest
 ```
 
 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5OTU0MzMwNCwtMTA0ODU3OTcxNyw3Mz
+eyJoaXN0b3J5IjpbLTU4ODk3OTI0MCwtMTA0ODU3OTcxNyw3Mz
 A5OTgxMTZdfQ==
 -->
