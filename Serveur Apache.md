@@ -1,5 +1,6 @@
 # Apache
 
+## Securité SSL/TLS
 
 
 Debugger le fichier de config 
@@ -9,5 +10,5 @@ $ /usr/sbin/apache2ctl configtest
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2Njc0NDYyLDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbMTczNDQzMzE4Miw3MzA5OTgxMTZdfQ==
 -->
