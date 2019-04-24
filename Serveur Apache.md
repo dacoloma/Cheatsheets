@@ -23,7 +23,11 @@ Redémarrer le service pour prendre en compte l'activation des modules
 sudo service apache2 restart 
 ```
 ### Configuration
-```#Activation du SSL
+
+```
+<VirtualHost *:443>
+...
+# Activation du SSL
 SSLEngine On
 
 # Activation de tous les protocoles sécurisés (TLS v1.0, v1.1 et TLS v1.2) tout en désactivant les protocoles non sécurisés (SSL v2, SSL v3)
@@ -44,11 +48,12 @@ SSLCertificateKeyFile "/etc/ssl/www-nom-domaine-fr/www-nom-domaine-fr.key"
 # Chemin vers le certificat SSL racine, puis vers le certificat SSL intermédiaire. Attention : L'ordre est important.
 SSLCACertificateFile "/etc/ssl/www-nom-domaine-fr/certificat-racine.cer"
 SSLCACertificateFile "/etc/ssl/www-nom-domaine-fr/certificat-intermediaire.cer"
-
+...
+```
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5MzcyNTEyNSwtNTg4OTc5MjQwLC0xMD
+eyJoaXN0b3J5IjpbMTQ3OTk0NTY2MywtNTg4OTc5MjQwLC0xMD
 Q4NTc5NzE3LDczMDk5ODExNl19
 -->
