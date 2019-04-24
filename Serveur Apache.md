@@ -23,7 +23,6 @@ Redémarrer le service pour prendre en compte l'activation des modules
 sudo service apache2 restart 
 ```
 ### Configuration
-
 ```
 <VirtualHost *:443>
 ...
@@ -51,9 +50,7 @@ SSLCACertificateFile "/etc/ssl/www-nom-domaine-fr/certificat-intermediaire.cer"
 ...
 ```
 
-
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3OTk0NTY2MywtNTg4OTc5MjQwLC0xMD
-Q4NTc5NzE3LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbMzcxNjMyNzg1LC01ODg5NzkyNDAsLTEwND
+g1Nzk3MTcsNzMwOTk4MTE2XX0=
 -->
