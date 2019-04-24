@@ -1,6 +1,7 @@
 # Apache
 
 ## Securité SSL/TLS
+### Requirement
 Vérifier que Apache écoute le port 443.
 ```bash
 $ netstat -tanpu | grep "LISTEN" | grep "443"
@@ -13,5 +14,6 @@ $ /usr/sbin/apache2ctl configtest
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDg1Nzk3MTcsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTEzMDY5ODc3NTEsLTEwNDg1Nzk3MTcsNz
+MwOTk4MTE2XX0=
 -->
