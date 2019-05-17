@@ -1,6 +1,7 @@
 # Sysadmin (OSX, Debian)
 https://www.vagrantup.com/docs/vagrantfile/
 https://misc.flogisoft.com/bash/tip_colors_and_formatting
+[https://explainshell.com/explain?cmd=iptables+-A+INPUT+-p+tcp+--tcp-flags+SYN%2CRST%2CACK%2CFIN+SYN+-j+ACCEPT++%23+%C3%A4quivalent+zu%3A+--syn](https://explainshell.com/explain?cmd=iptables+-A+INPUT+-p+tcp+--tcp-flags+SYN%2CRST%2CACK%2CFIN+SYN+-j+ACCEPT++%23+%C3%A4quivalent+zu%3A+--syn)
 1. [sudo](#sudo)
 2. [ifconfig](#ifconfig)
 3. [netstat](#netstat)
@@ -353,9 +354,9 @@ iptables -A OUTPUT -p tcp --dport 443 -j ACCEPT
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyNTY0MjA5MSwxMzA5NDk1MDY1LDk2MD
-U3OTE0MSw5ODE4NjU1NjQsLTE4MjIxNjk1OTAsMTA2MjcxMjY5
-MiwxNTc2NDg4MDkzLDE2NTMxMTk3MjcsNjc3NjU3MjEyLDEyMj
-Y3NzE5NDcsMTE5NTE0NjUzNCwtMTQ3NTU3MjM5MiwtMTEyMTMy
-Nzk1Miw4MTM1NjI3MDFdfQ==
+eyJoaXN0b3J5IjpbNTA4MDI3MDI4LDEzMDk0OTUwNjUsOTYwNT
+c5MTQxLDk4MTg2NTU2NCwtMTgyMjE2OTU5MCwxMDYyNzEyNjky
+LDE1NzY0ODgwOTMsMTY1MzExOTcyNyw2Nzc2NTcyMTIsMTIyNj
+c3MTk0NywxMTk1MTQ2NTM0LC0xNDc1NTcyMzkyLC0xMTIxMzI3
+OTUyLDgxMzU2MjcwMV19
 -->
