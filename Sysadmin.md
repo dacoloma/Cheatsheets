@@ -8,6 +8,9 @@ https://misc.flogisoft.com/bash/tip_colors_and_formatting
 5. [whois](#whois)
 6. [ping](#ping)
 7. [traceroute](#traceroute)
+8. [hostnamectl](#hostnamectl)
+9. [service](#service)
+10. [User & Group](#User-&-Group)
 
 ## sudo
 ```bash
@@ -350,9 +353,9 @@ iptables -A OUTPUT -p tcp --dport 443 -j ACCEPT
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwOTQ5NTA2NSw5NjA1NzkxNDEsOTgxOD
-Y1NTY0LC0xODIyMTY5NTkwLDEwNjI3MTI2OTIsMTU3NjQ4ODA5
-MywxNjUzMTE5NzI3LDY3NzY1NzIxMiwxMjI2NzcxOTQ3LDExOT
-UxNDY1MzQsLTE0NzU1NzIzOTIsLTExMjEzMjc5NTIsODEzNTYy
-NzAxXX0=
+eyJoaXN0b3J5IjpbMTQyNTY0MjA5MSwxMzA5NDk1MDY1LDk2MD
+U3OTE0MSw5ODE4NjU1NjQsLTE4MjIxNjk1OTAsMTA2MjcxMjY5
+MiwxNTc2NDg4MDkzLDE2NTMxMTk3MjcsNjc3NjU3MjEyLDEyMj
+Y3NzE5NDcsMTE5NTE0NjUzNCwtMTQ3NTU3MjM5MiwtMTEyMTMy
+Nzk1Miw4MTM1NjI3MDFdfQ==
 -->
