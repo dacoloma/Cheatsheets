@@ -17,7 +17,19 @@ b main
 n #next line 
 n #or enter
 s #go to function
+
+## Key config:
+
+<kbd>space</kbd> : pause
+
+  
+
+<kbd>+</kbd>  <kbd>-</kbd> : small speed adjustment
+
+<kbd>*</kbd>  <kbd>/</kbd> : big speed adjustment
+
+<kbd>ESC</kbd> : quit program
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyNzc5MjAyNCwxNjU2NDkyOCwtMTk2ND
-c5MTA4MF19
+eyJoaXN0b3J5IjpbMTg5MzAyNDUzNywtNzI3NzkyMDI0LDE2NT
+Y0OTI4LC0xOTY0NzkxMDgwXX0=
 -->
