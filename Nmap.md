@@ -70,11 +70,11 @@
 <tbody>
 <tr>
 <td>Attempts to determine the version of the service running on port</td>
-<td>nmap 192.168.1.1 -sV</td>
+<td><code>nmap 192.168.1.1 -sV</code></td>
 </tr>
 <tr>
 <td>Enables OS detection, version detection, script scanning, and traceroute</td>
-<td>nmap 192.168.1.1 -A</td>
+<td><code>nmap 192.168.1.1 -A</code></td>
 </tr>
 </tbody>
 </table><h2 id="nse-script">NSE Script</h2>
