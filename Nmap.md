@@ -2,9 +2,9 @@
 
 # Nmap
 
-1. [Example](#example)
-2. [Example2](#example2)
-3. [Third Example](#third-example)
+1. [Example](##port-specification)
+2. [Example2](##scan-technique)
+3. [Third Example](##service-and-version-detection)
 
 ## Port Specification
 Scan | Examples
@@ -47,5 +47,6 @@ Scan with default NSE scripts. Considered useful for discovery and safe | `nmap 
 
 [https://www.softwaretestinghelp.com/ddos-attack-tools/](https://www.softwaretestinghelp.com/ddos-attack-tools/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2NzMxNTkzNywtMTYwMzQwNjQ4Nl19
+eyJoaXN0b3J5IjpbNjMyOTU2NTkzLDE5NjczMTU5MzcsLTE2MD
+M0MDY0ODZdfQ==
 -->
