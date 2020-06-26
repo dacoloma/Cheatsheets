@@ -1,0 +1,21 @@
+# How to upgrade reverse shell :
+## Method 1 
+```bash
+SHELL=/bin/bash script -q /dev/null
+```
+<kbd>Ctrl</kbd>+<kbd>Z</kbd>
+```bash
+stty raw -echo
+fg
+reset
+xterm
+```
+Using netcat listener and you want shell with terminal command like <kbd>&#8593;</kbd> key to go back to history command, <kbd>Ctrl</kbd>+<kbd>c</kbd>  to stop a command instead of netcat listener, etc.
+## Method 2 : spawn a TTY
+```bash
+python3 -c "import pty; pty.spawn('/bin/bash')"
+```
+To fool commands like `su username`when you need a proper terminal to execute them. 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTkxMzU5MjE5MV19
+-->
