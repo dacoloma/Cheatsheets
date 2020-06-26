@@ -1,5 +1,5 @@
 # How to upgrade reverse shell :
-## Method 1 
+## Method 1 : upgrade netcat
 ```bash
 SHELL=/bin/bash script -q /dev/null
 ```
@@ -16,6 +16,8 @@ Using netcat listener and you want shell with terminal command like <kbd>&#8593;
 python3 -c "import pty; pty.spawn('/bin/bash')"
 ```
 To fool commands like `su username`when you need a proper terminal to execute them. 
+## Method 3 : socat
+https://blog.ropnop.com/upgrading-simple-shells-to-fully-interactive-ttys/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxMzU5MjE5MV19
+eyJoaXN0b3J5IjpbLTE0MjUxNDA5NywxOTEzNTkyMTkxXX0=
 -->
