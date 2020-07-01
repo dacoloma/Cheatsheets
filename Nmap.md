@@ -42,9 +42,9 @@ Scan with default NSE scripts. Considered useful for discovery and safe | `nmap 
 [https://nmap.org/](https://nmap.org/)
 
 
-
 [https://www.softwaretestinghelp.com/ddos-attack-tools/](https://www.softwaretestinghelp.com/ddos-attack-tools/)
+https://www.stationx.net/nmap-cheat-sheet/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0ODM0OTQwNCwyNjg0OTY0NzMsMTk2Nz
-MxNTkzNywtMTYwMzQwNjQ4Nl19
+eyJoaXN0b3J5IjpbMTc5OTA2MDg0OSwtODQ4MzQ5NDA0LDI2OD
+Q5NjQ3MywxOTY3MzE1OTM3LC0xNjAzNDA2NDg2XX0=
 -->
