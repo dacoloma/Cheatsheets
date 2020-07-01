@@ -33,18 +33,17 @@ Scan | Examples
 Scan with default NSE scripts. Considered useful for discovery and safe | `nmap 192.168.1.1 -sC`
 
 
+## Other
+
+
+
 
 [https://resources.infosecinstitute.com/nmap/](https://resources.infosecinstitute.com/nmap/)
-
 [https://www.frameip.com/scanner-port-tcp-udp/#72-8211nmap](https://www.frameip.com/scanner-port-tcp-udp/#72-8211nmap)
-
-
 [https://nmap.org/](https://nmap.org/)
-
-
 [https://www.softwaretestinghelp.com/ddos-attack-tools/](https://www.softwaretestinghelp.com/ddos-attack-tools/)
 https://www.stationx.net/nmap-cheat-sheet/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5OTA2MDg0OSwtODQ4MzQ5NDA0LDI2OD
-Q5NjQ3MywxOTY3MzE1OTM3LC0xNjAzNDA2NDg2XX0=
+eyJoaXN0b3J5IjpbLTcxMDA3Nzg5LC04NDgzNDk0MDQsMjY4ND
+k2NDczLDE5NjczMTU5MzcsLTE2MDM0MDY0ODZdfQ==
 -->
