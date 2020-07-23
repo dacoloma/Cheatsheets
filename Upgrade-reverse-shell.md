@@ -8,7 +8,7 @@ SHELL=/bin/bash script -q /dev/null
 stty raw -echo
 fg
 reset
-xterm
+Terminal type? xterm
 ```
 Using netcat listener and you want shell with terminal command like <kbd>&#8593;</kbd> key to go back to history command, <kbd>Ctrl</kbd>+<kbd>c</kbd>  to stop a command instead of netcat listener, etc.
 ## Method 2 : spawn a TTY
@@ -19,5 +19,6 @@ To fool commands like `su username`when you need a proper terminal to execute th
 ## Method 3 : socat
 https://blog.ropnop.com/upgrading-simple-shells-to-fully-interactive-ttys/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjUxNDA5NywxOTEzNTkyMTkxXX0=
+eyJoaXN0b3J5IjpbMTkzODIxMTg0NiwtMTQyNTE0MDk3LDE5MT
+M1OTIxOTFdfQ==
 -->
