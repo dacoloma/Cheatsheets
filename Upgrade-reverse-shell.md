@@ -14,11 +14,12 @@ Using netcat listener and you want shell with terminal command like <kbd>&#8593;
 ## Method 2 : spawn a TTY
 ```bash
 python3 -c "import pty; pty.spawn('/bin/bash')"
+
 ```
 To fool commands like `su username`when you need a proper terminal to execute them. 
 ## Method 3 : socat
 https://blog.ropnop.com/upgrading-simple-shells-to-fully-interactive-ttys/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzODIxMTg0NiwtMTQyNTE0MDk3LDE5MT
-M1OTIxOTFdfQ==
+eyJoaXN0b3J5IjpbLTk3OTk0NjYzNiwxOTM4MjExODQ2LC0xND
+I1MTQwOTcsMTkxMzU5MjE5MV19
 -->
