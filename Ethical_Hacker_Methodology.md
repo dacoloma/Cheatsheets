@@ -6,10 +6,12 @@
 5. [Covering Tracks](#covering-tracks)
 
 ## Reconnaissance
+### Passive recon
+
 ## Scanning & Enumeration
 ## Gaining Access
 ## Maintaining Access
 ## Covering Tracks
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzczOTA4OTQsMTI5MTc5MjY0NV19
+eyJoaXN0b3J5IjpbMTQ0NDE2NjkyNSwxMjkxNzkyNjQ1XX0=
 -->
