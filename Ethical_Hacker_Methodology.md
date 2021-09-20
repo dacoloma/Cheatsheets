@@ -1,57 +1,14 @@
 # EH Methodology
-1. [Reconnaissance: Active and Passive](#reconnaissance)
+1. [Reconnaissance](#reconnaissance): Active and Passive
 2. [Scanning & Enumeration](#scanning--enumeration): Nmap, Nessus, Nikto
-3. Gaining Access: Exploitation
-4. Maintaining Access
-5. Covering Tracks
+3. [Gaining Access: Exploitation
+4. [Maintaining Access
+5. [Covering Tracks
 
 ## Reconnaissance
-
-d
-d
-d
-d
-d
-d
-d
-d
-d
-d
-d
-d
-d
-d
-d
-d
-d
-d
-d
-
-d
-d
-d
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Scanning & enumeration
+## Scanning & Enumeration
+## Gaining Access
+## Maintaining Access
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2NTAxMzcwNSwxMjkxNzkyNjQ1XX0=
+eyJoaXN0b3J5IjpbMTg1NzkzODAzOCwxMjkxNzkyNjQ1XX0=
 -->
