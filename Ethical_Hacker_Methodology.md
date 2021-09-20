@@ -5,7 +5,7 @@
 4. Maintaining Access
 5. Covering Tracks
 
-## Reconnaissance {#reconnaissance}
+## Reconnaissance
 
 d
 d
@@ -53,5 +53,5 @@ d
 
 ## Scanning & enumeration
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTkzNDM2NDAsMTI5MTc5MjY0NV19
+eyJoaXN0b3J5IjpbMTA2NTAxMzcwNSwxMjkxNzkyNjQ1XX0=
 -->
