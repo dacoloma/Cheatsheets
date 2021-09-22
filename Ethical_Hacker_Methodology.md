@@ -18,12 +18,13 @@ Job information
 - pictures (badge photo, desk photos, computer photos, etc.)
 
 #### Web/Host
-
+- Target Validatidation: WHOIS, nslookup, dnsrecon
+- Finding subdomains
 ## Scanning & Enumeration
 ## Gaining Access
 ## Maintaining Access
 ## Covering Tracks
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExOTA1NTExOSwtNTMzNzI2ODUxLDE0ND
-QxNjY5MjUsMTI5MTc5MjY0NV19
+eyJoaXN0b3J5IjpbLTEwODQ3NjE4ODYsLTUzMzcyNjg1MSwxND
+Q0MTY2OTI1LDEyOTE3OTI2NDVdfQ==
 -->
