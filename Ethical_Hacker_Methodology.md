@@ -43,6 +43,15 @@ Tools: tools.verifyemailaddress.io, email-check.net
 
 ### Subdomains
 
+### Identifying website technologies
+
+### Burp Suite
+
+### Google Fu
+
+### Social Media
+
+### OSINT Fundamentals
 
 ## Scanning & Enumeration
 ## Gaining Access
@@ -52,8 +61,8 @@ Tools: tools.verifyemailaddress.io, email-check.net
 Read:
 Darknet diaries
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTY5NDE3MjEsLTEyNDQxOTcyOTgsNz
-YyNzgyMTYyLC0xODMxMzM5ODksNDYyMDI2Njc1LC0xMTc2OTU3
-NjkzLC0xMDA3NTEyMjA4LC01MzM3MjY4NTEsMTQ0NDE2NjkyNS
-wxMjkxNzkyNjQ1XX0=
+eyJoaXN0b3J5IjpbLTE0NzMxMTUzNiwtMTI0NDE5NzI5OCw3Nj
+I3ODIxNjIsLTE4MzEzMzk4OSw0NjIwMjY2NzUsLTExNzY5NTc2
+OTMsLTEwMDc1MTIyMDgsLTUzMzcyNjg1MSwxNDQ0MTY2OTI1LD
+EyOTE3OTI2NDVdfQ==
 -->
