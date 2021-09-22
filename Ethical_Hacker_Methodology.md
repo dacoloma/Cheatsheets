@@ -22,6 +22,9 @@ Job information
 - Finding subdomains: Google Fu, dig, Nmap, Sublist3r, Bluto, crt.sh, etc.
 - Fingerprinting: Nmap, Wappalyzer, WhatWeb, BuiltWith, Netcat
 - Data breaches: HaveIBeenPwned, Breach-Parse, WeLeakInfo
+
+### Identify target
+Bug Bount
 ## Scanning & Enumeration
 ## Gaining Access
 ## Maintaining Access
@@ -30,6 +33,7 @@ Job information
 Read:
 Darknet diaries
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzY5NTc2OTMsLTEwMDc1MTIyMDgsLT
-UzMzcyNjg1MSwxNDQ0MTY2OTI1LDEyOTE3OTI2NDVdfQ==
+eyJoaXN0b3J5IjpbLTM0OTg0MzI0OSwtMTE3Njk1NzY5MywtMT
+AwNzUxMjIwOCwtNTMzNzI2ODUxLDE0NDQxNjY5MjUsMTI5MTc5
+MjY0NV19
 -->
