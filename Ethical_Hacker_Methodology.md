@@ -29,11 +29,13 @@ Choose a target and **check the scope**.  ! DO NOT TOUCH THE OUT OF SCOPE DOMAIN
 
 ### Discovering Email Addresses
 #### Get email addresses
-Tools: hunter.io, phonebook.cz, clearbit connect (Google app)
+- Tools: hunter.io, phonebook.cz, clearbit connect (Google app)
+
 Get a list of email addresses of a company with name and job. 
 NB: Find if there is a pattern. Ex: {X}{YYYY}@company.com with X being the first letter of firstname, and YYYY the first 4 letters of lastname. 
 
-#### Email valid ? Tools: tools.verifyemailaddress.io 
+#### Check if addresses are valid 
+Tools: tools.verifyemailaddress.io, email-check.net
 
 ### Gathering breached credentials 
 
@@ -45,7 +47,7 @@ NB: Find if there is a pattern. Ex: {X}{YYYY}@company.com with X being the first
 Read:
 Darknet diaries
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDg0MzI2MDUsNzYyNzgyMTYyLC0xOD
+eyJoaXN0b3J5IjpbLTEyNDQxOTcyOTgsNzYyNzgyMTYyLC0xOD
 MxMzM5ODksNDYyMDI2Njc1LC0xMTc2OTU3NjkzLC0xMDA3NTEy
 MjA4LC01MzM3MjY4NTEsMTQ0NDE2NjkyNSwxMjkxNzkyNjQ1XX
 0=
