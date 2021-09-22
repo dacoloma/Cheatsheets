@@ -29,7 +29,7 @@ Choose a target and **check the scope**.  ! DO NOT TOUCH THE OUT OF SCOPE DOMAIN
 
 ### Discovering Email Addresses
 Tools: hunter.io
-Find if there is a pattern. Ex: {X}{YYY}@domain.c
+Find if there is a pattern. Ex: {X}{YYYY}@company.com with X being the first letter of firstname, and YYYY the first 4 letters of lastname. 
 ### Gathering breached credentials 
 
 ## Scanning & Enumeration
@@ -40,7 +40,7 @@ Find if there is a pattern. Ex: {X}{YYY}@domain.c
 Read:
 Darknet diaries
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODM5MjgwNzEsNDYyMDI2Njc1LC0xMT
-c2OTU3NjkzLC0xMDA3NTEyMjA4LC01MzM3MjY4NTEsMTQ0NDE2
-NjkyNSwxMjkxNzkyNjQ1XX0=
+eyJoaXN0b3J5IjpbLTQ0NDYxODY0MCw0NjIwMjY2NzUsLTExNz
+Y5NTc2OTMsLTEwMDc1MTIyMDgsLTUzMzcyNjg1MSwxNDQ0MTY2
+OTI1LDEyOTE3OTI2NDVdfQ==
 -->
