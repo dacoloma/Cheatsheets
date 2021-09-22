@@ -20,8 +20,8 @@ Job information
 #### Web/Host
 - Target Validatidation: WHOIS, nslookup, dnsrecon
 - Finding subdomains: Google Fu, dig, Nmap, Sublist3r, Bluto, crt.sh, etc.
-- Fingerprinting Nmap, Wappalyzer
-- Data breaches
+- Fingerprinting: Nmap, Wappalyzer, WhatWeb, BuiltWith, Netcat
+- Data breaches: HaveIBeenPwned, Breach-Parse, WeLeakInfo
 ## Scanning & Enumeration
 ## Gaining Access
 ## Maintaining Access
@@ -30,6 +30,6 @@ Job information
 Read:
 Darknet diaries
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzNTYzNTU0OSwtMTAwNzUxMjIwOCwtNT
-MzNzI2ODUxLDE0NDQxNjY5MjUsMTI5MTc5MjY0NV19
+eyJoaXN0b3J5IjpbLTExNzY5NTc2OTMsLTEwMDc1MTIyMDgsLT
+UzMzcyNjg1MSwxNDQ0MTY2OTI1LDEyOTE3OTI2NDVdfQ==
 -->
