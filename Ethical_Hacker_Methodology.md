@@ -17,12 +17,12 @@ Job information
 - employees (name, job, title, phone, etc.)
 - pictures (badge photo, desk photos, computer photos, etc.)
 
-##
+#### Web/Host
 ## Scanning & Enumeration
 ## Gaining Access
 ## Maintaining Access
 ## Covering Tracks
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5MDkyMjA5MiwxNDQ0MTY2OTI1LDEyOT
+eyJoaXN0b3J5IjpbLTUzMzcyNjg1MSwxNDQ0MTY2OTI1LDEyOT
 E3OTI2NDVdfQ==
 -->
