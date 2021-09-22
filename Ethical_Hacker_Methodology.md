@@ -19,12 +19,17 @@ Job information
 
 #### Web/Host
 - Target Validatidation: WHOIS, nslookup, dnsrecon
-- Finding subdomains
+- Finding subdomains: Google Fu, di
+- Fingerprinting
+- Data breaches
 ## Scanning & Enumeration
 ## Gaining Access
 ## Maintaining Access
 ## Covering Tracks
+
+Read:
+Darknet diaries
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODQ3NjE4ODYsLTUzMzcyNjg1MSwxND
+eyJoaXN0b3J5IjpbLTEwMDc1MTIyMDgsLTUzMzcyNjg1MSwxND
 Q0MTY2OTI1LDEyOTE3OTI2NDVdfQ==
 -->
