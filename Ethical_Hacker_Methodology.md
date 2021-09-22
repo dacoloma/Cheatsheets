@@ -28,11 +28,11 @@ Bug Bounty program: Bugcrowd
 Choose a target and **check the scope**.  ! DO NOT TOUCH THE OUT OF SCOPE DOMAINS !
 
 ### Discovering Email Addresses
-#### Tools: hunter.io, phonebook.cz
+#### Tools: hunter.io, phonebook.cz, clearbit connect (Google app)
 Get a list of email addresses of a company with name and job. 
 NB: Find if there is a pattern. Ex: {X}{YYYY}@company.com with X being the first letter of firstname, and YYYY the first 4 letters of lastname. 
 
-#### Tools: clearbit connect (Google app)
+#### Email valid ? Tools: tools.email 
 
 ### Gathering breached credentials 
 
@@ -44,7 +44,8 @@ NB: Find if there is a pattern. Ex: {X}{YYYY}@company.com with X being the first
 Read:
 Darknet diaries
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzYyNzgyMTYyLC0xODMxMzM5ODksNDYyMD
-I2Njc1LC0xMTc2OTU3NjkzLC0xMDA3NTEyMjA4LC01MzM3MjY4
-NTEsMTQ0NDE2NjkyNSwxMjkxNzkyNjQ1XX0=
+eyJoaXN0b3J5IjpbLTExMDQ0MTk2MDQsNzYyNzgyMTYyLC0xOD
+MxMzM5ODksNDYyMDI2Njc1LC0xMTc2OTU3NjkzLC0xMDA3NTEy
+MjA4LC01MzM3MjY4NTEsMTQ0NDE2NjkyNSwxMjkxNzkyNjQ1XX
+0=
 -->
