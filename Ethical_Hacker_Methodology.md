@@ -38,6 +38,11 @@ NB: Find if there is a pattern. Ex: {X}{YYYY}@company.com with X being the first
 Tools: tools.verifyemailaddress.io, email-check.net
 
 ### Gathering breached credentials 
+#### breach-parse
+#### DeHashed
+
+### Subdomains
+
 
 ## Scanning & Enumeration
 ## Gaining Access
@@ -47,8 +52,8 @@ Tools: tools.verifyemailaddress.io, email-check.net
 Read:
 Darknet diaries
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDQxOTcyOTgsNzYyNzgyMTYyLC0xOD
-MxMzM5ODksNDYyMDI2Njc1LC0xMTc2OTU3NjkzLC0xMDA3NTEy
-MjA4LC01MzM3MjY4NTEsMTQ0NDE2NjkyNSwxMjkxNzkyNjQ1XX
-0=
+eyJoaXN0b3J5IjpbLTEzMTY5NDE3MjEsLTEyNDQxOTcyOTgsNz
+YyNzgyMTYyLC0xODMxMzM5ODksNDYyMDI2Njc1LC0xMTc2OTU3
+NjkzLC0xMDA3NTEyMjA4LC01MzM3MjY4NTEsMTQ0NDE2NjkyNS
+wxMjkxNzkyNjQ1XX0=
 -->
