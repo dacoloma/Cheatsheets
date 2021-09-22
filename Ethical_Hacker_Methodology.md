@@ -13,12 +13,15 @@ Location information:
 - Building layout (badge readers, break areas, security, fencing
 
 Job information
-- employees (name, job, title,
+- employees (name, job, title, phone, etc.)
+- pictures (badge photo, desk photos, computer photos, etc.)
+
+
 ## Scanning & Enumeration
 ## Gaining Access
 ## Maintaining Access
 ## Covering Tracks
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3MjQwNjU5NSwxNDQ0MTY2OTI1LDEyOT
-E3OTI2NDVdfQ==
+eyJoaXN0b3J5IjpbLTExOTU4NjY3MTYsMTQ0NDE2NjkyNSwxMj
+kxNzkyNjQ1XX0=
 -->
