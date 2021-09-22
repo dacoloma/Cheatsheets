@@ -7,11 +7,13 @@
 
 ## Reconnaissance
 ### Passive recon
-
+Location information
+- Satellite images
 ## Scanning & Enumeration
 ## Gaining Access
 ## Maintaining Access
 ## Covering Tracks
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0NDE2NjkyNSwxMjkxNzkyNjQ1XX0=
+eyJoaXN0b3J5IjpbNTc2NTg3ODg4LDE0NDQxNjY5MjUsMTI5MT
+c5MjY0NV19
 -->
