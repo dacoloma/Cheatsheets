@@ -25,8 +25,9 @@ Job information
 
 ### Identify target
 Bug Bounty program: Bugcrowd
-Choose a target and **check the scope**. DO NOT 
+Choose a target and **check the scope**.  ! DO NOT TOUCH THE OUT OF SCOPE DOMAINS !
 
+### Discovering Email Addresses
 
 
 ## Scanning & Enumeration
@@ -37,7 +38,7 @@ Choose a target and **check the scope**. DO NOT
 Read:
 Darknet diaries
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3MDA2NjA1MCwtMTE3Njk1NzY5MywtMT
-AwNzUxMjIwOCwtNTMzNzI2ODUxLDE0NDQxNjY5MjUsMTI5MTc5
-MjY0NV19
+eyJoaXN0b3J5IjpbLTEyMDMzNzY2NjgsLTExNzY5NTc2OTMsLT
+EwMDc1MTIyMDgsLTUzMzcyNjg1MSwxNDQ0MTY2OTI1LDEyOTE3
+OTI2NDVdfQ==
 -->
