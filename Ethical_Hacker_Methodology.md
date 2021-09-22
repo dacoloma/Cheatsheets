@@ -6,7 +6,8 @@
 5. [Covering Tracks](#covering-tracks)
 
 ## Reconnaissance
-### Passive recon: physical and social
+### Passive recon
+#### Physical and social
 Location information:
 - Satellite images
 - Drone recon
@@ -16,12 +17,12 @@ Job information
 - employees (name, job, title, phone, etc.)
 - pictures (badge photo, desk photos, computer photos, etc.)
 
-
+##
 ## Scanning & Enumeration
 ## Gaining Access
 ## Maintaining Access
 ## Covering Tracks
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTU4NjY3MTYsMTQ0NDE2NjkyNSwxMj
-kxNzkyNjQ1XX0=
+eyJoaXN0b3J5IjpbMTQ5MDkyMjA5MiwxNDQ0MTY2OTI1LDEyOT
+E3OTI2NDVdfQ==
 -->
