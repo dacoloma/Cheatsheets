@@ -6,14 +6,19 @@
 5. [Covering Tracks](#covering-tracks)
 
 ## Reconnaissance
-### Passive recon
-Location information
+### Passive recon: physical and social
+Location information:
 - Satellite images
+- Drone recon
+- Building layout (badge readers, break areas, security, fencing
+
+Job information
+- employees (name, job, title,
 ## Scanning & Enumeration
 ## Gaining Access
 ## Maintaining Access
 ## Covering Tracks
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc2NTg3ODg4LDE0NDQxNjY5MjUsMTI5MT
-c5MjY0NV19
+eyJoaXN0b3J5IjpbLTI3MjQwNjU5NSwxNDQ0MTY2OTI1LDEyOT
+E3OTI2NDVdfQ==
 -->
