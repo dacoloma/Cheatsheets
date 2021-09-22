@@ -19,8 +19,8 @@ Job information
 
 #### Web/Host
 - Target Validatidation: WHOIS, nslookup, dnsrecon
-- Finding subdomains: Google Fu, di
-- Fingerprinting
+- Finding subdomains: Google Fu, dig, Nmap, Sublist3r, Bluto, crt.sh, etc.
+- Fingerprinting Nmap, Wappalyzer
 - Data breaches
 ## Scanning & Enumeration
 ## Gaining Access
@@ -30,6 +30,6 @@ Job information
 Read:
 Darknet diaries
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDc1MTIyMDgsLTUzMzcyNjg1MSwxND
-Q0MTY2OTI1LDEyOTE3OTI2NDVdfQ==
+eyJoaXN0b3J5IjpbLTMzNTYzNTU0OSwtMTAwNzUxMjIwOCwtNT
+MzNzI2ODUxLDE0NDQxNjY5MjUsMTI5MTc5MjY0NV19
 -->
