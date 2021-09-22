@@ -24,7 +24,11 @@ Job information
 - Data breaches: HaveIBeenPwned, Breach-Parse, WeLeakInfo
 
 ### Identify target
-Bug Bount
+Bug Bounty program: Bugcrowd
+Choose a target and **check the scope**. DO NOT 
+
+
+
 ## Scanning & Enumeration
 ## Gaining Access
 ## Maintaining Access
@@ -33,7 +37,7 @@ Bug Bount
 Read:
 Darknet diaries
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0OTg0MzI0OSwtMTE3Njk1NzY5MywtMT
+eyJoaXN0b3J5IjpbMTc3MDA2NjA1MCwtMTE3Njk1NzY5MywtMT
 AwNzUxMjIwOCwtNTMzNzI2ODUxLDE0NDQxNjY5MjUsMTI5MTc5
 MjY0NV19
 -->
