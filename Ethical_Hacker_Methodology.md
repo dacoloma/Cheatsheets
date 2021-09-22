@@ -32,7 +32,8 @@ Choose a target and **check the scope**.  ! DO NOT TOUCH THE OUT OF SCOPE DOMAIN
 Get a list of email addresses of a company with name and job. 
 NB: Find if there is a pattern. Ex: {X}{YYYY}@company.com with X being the first letter of firstname, and YYYY the first 4 letters of lastname. 
 
-#### 
+#### Tools: clearbit connect (Google app)
+
 ### Gathering breached credentials 
 
 ## Scanning & Enumeration
@@ -43,7 +44,7 @@ NB: Find if there is a pattern. Ex: {X}{YYYY}@company.com with X being the first
 Read:
 Darknet diaries
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxODUwMTU2OCwtMTgzMTMzOTg5LDQ2Mj
-AyNjY3NSwtMTE3Njk1NzY5MywtMTAwNzUxMjIwOCwtNTMzNzI2
-ODUxLDE0NDQxNjY5MjUsMTI5MTc5MjY0NV19
+eyJoaXN0b3J5IjpbNzYyNzgyMTYyLC0xODMxMzM5ODksNDYyMD
+I2Njc1LC0xMTc2OTU3NjkzLC0xMDA3NTEyMjA4LC01MzM3MjY4
+NTEsMTQ0NDE2NjkyNSwxMjkxNzkyNjQ1XX0=
 -->
