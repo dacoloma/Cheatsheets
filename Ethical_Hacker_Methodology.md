@@ -28,7 +28,8 @@ Bug Bounty program: Bugcrowd
 Choose a target and **check the scope**.  ! DO NOT TOUCH THE OUT OF SCOPE DOMAINS !
 
 ### Discovering Email Addresses
-
+Tools: hunter.io
+### Gathering breached credentials 
 
 ## Scanning & Enumeration
 ## Gaining Access
@@ -38,7 +39,7 @@ Choose a target and **check the scope**.  ! DO NOT TOUCH THE OUT OF SCOPE DOMAIN
 Read:
 Darknet diaries
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDMzNzY2NjgsLTExNzY5NTc2OTMsLT
-EwMDc1MTIyMDgsLTUzMzcyNjg1MSwxNDQ0MTY2OTI1LDEyOTE3
-OTI2NDVdfQ==
+eyJoaXN0b3J5IjpbNDYyMDI2Njc1LC0xMTc2OTU3NjkzLC0xMD
+A3NTEyMjA4LC01MzM3MjY4NTEsMTQ0NDE2NjkyNSwxMjkxNzky
+NjQ1XX0=
 -->
