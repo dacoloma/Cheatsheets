@@ -43,8 +43,9 @@ Find any information email, password, hashed password
 For hashed password: go to hashes.org 
 
 ### Subdomains
-Search all interesting subdomains with the keywords 
+Search all interesting subdomains with the keywords dev, sso, vpn, api, admin, etc.
 #### Sublist3r 
+Searches with Search Engine
 ```bash
 apt install sublist3r
 sublist3r -d [domain]
@@ -70,9 +71,9 @@ Enter the following to search subdomains : `%.domain.com`
 Read:
 Darknet diaries
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA2OTk4ODI3LC0xMDE4MzYyNjcsLTQ3ND
-k5MDk4OCwtMTQ3MzExNTM2LC0xMjQ0MTk3Mjk4LDc2Mjc4MjE2
-MiwtMTgzMTMzOTg5LDQ2MjAyNjY3NSwtMTE3Njk1NzY5MywtMT
-AwNzUxMjIwOCwtNTMzNzI2ODUxLDE0NDQxNjY5MjUsMTI5MTc5
-MjY0NV19
+eyJoaXN0b3J5IjpbLTIwMTcxNDkzNzgsLTEwMTgzNjI2NywtND
+c0OTkwOTg4LC0xNDczMTE1MzYsLTEyNDQxOTcyOTgsNzYyNzgy
+MTYyLC0xODMxMzM5ODksNDYyMDI2Njc1LC0xMTc2OTU3NjkzLC
+0xMDA3NTEyMjA4LC01MzM3MjY4NTEsMTQ0NDE2NjkyNSwxMjkx
+NzkyNjQ1XX0=
 -->
