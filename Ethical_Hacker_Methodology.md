@@ -56,7 +56,7 @@ Enter the following to search subdomains : `%.domain.com`
 `%` acts as a wildcard.
 
 #### OWASP Amass
-Deep search. 
+Deep search. Install it via https://github.com/OWASP/Amass
 ### Identifying website technologies
 
 ### Burp Suite
@@ -75,7 +75,7 @@ Deep search.
 Read:
 Darknet diaries
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3NDcwMjI4OSwtMjA4MTQ2MzIxNCwtMT
+eyJoaXN0b3J5IjpbMTM3MTcxMDM3OSwtMjA4MTQ2MzIxNCwtMT
 AxODM2MjY3LC00NzQ5OTA5ODgsLTE0NzMxMTUzNiwtMTI0NDE5
 NzI5OCw3NjI3ODIxNjIsLTE4MzEzMzk4OSw0NjIwMjY2NzUsLT
 ExNzY5NTc2OTMsLTEwMDc1MTIyMDgsLTUzMzcyNjg1MSwxNDQ0
