@@ -44,7 +44,11 @@ For hashed password: go to hashes.org
 
 ### Subdomains
 #### Sublist3r 
-`apt install sublist3r`
+```bash
+apt install sublist3r
+sublist3r -d [domain]
+```
+#### crt.s
 ### Identifying website technologies
 
 ### Burp Suite
@@ -63,7 +67,7 @@ For hashed password: go to hashes.org
 Read:
 Darknet diaries
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTkxNTY4NDMsLTEwMTgzNjI2NywtND
+eyJoaXN0b3J5IjpbLTEzMzk3NDUxNzUsLTEwMTgzNjI2NywtND
 c0OTkwOTg4LC0xNDczMTE1MzYsLTEyNDQxOTcyOTgsNzYyNzgy
 MTYyLC0xODMxMzM5ODksNDYyMDI2Njc1LC0xMTc2OTU3NjkzLC
 0xMDA3NTEyMjA4LC01MzM3MjY4NTEsMTQ0NDE2NjkyNSwxMjkx
