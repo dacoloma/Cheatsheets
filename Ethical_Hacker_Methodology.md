@@ -41,6 +41,7 @@ Tools: tools.verifyemailaddress.io, email-check.net
 Tools: breach-parse, DeHashed (not free)
 Find any information email, password, hashed password
 For hashed password: go to hashes.org 
+
 ### Subdomains
 
 ### Identifying website technologies
@@ -61,8 +62,9 @@ For hashed password: go to hashes.org
 Read:
 Darknet diaries
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTgzNjI2NywtNDc0OTkwOTg4LC0xND
-czMTE1MzYsLTEyNDQxOTcyOTgsNzYyNzgyMTYyLC0xODMxMzM5
-ODksNDYyMDI2Njc1LC0xMTc2OTU3NjkzLC0xMDA3NTEyMjA4LC
-01MzM3MjY4NTEsMTQ0NDE2NjkyNSwxMjkxNzkyNjQ1XX0=
+eyJoaXN0b3J5IjpbMTE2NTEyNjE0NywtMTAxODM2MjY3LC00Nz
+Q5OTA5ODgsLTE0NzMxMTUzNiwtMTI0NDE5NzI5OCw3NjI3ODIx
+NjIsLTE4MzEzMzk4OSw0NjIwMjY2NzUsLTExNzY5NTc2OTMsLT
+EwMDc1MTIyMDgsLTUzMzcyNjg1MSwxNDQ0MTY2OTI1LDEyOTE3
+OTI2NDVdfQ==
 -->
