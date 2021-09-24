@@ -39,7 +39,7 @@ Tools: tools.verifyemailaddress.io, email-check.net
 
 ### Gathering breached credentials 
 #### breach-parse
-#### DeHashed
+#### DeHashed (not free)
 
 ### Subdomains
 
@@ -61,8 +61,8 @@ Tools: tools.verifyemailaddress.io, email-check.net
 Read:
 Darknet diaries
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzMxMTUzNiwtMTI0NDE5NzI5OCw3Nj
-I3ODIxNjIsLTE4MzEzMzk4OSw0NjIwMjY2NzUsLTExNzY5NTc2
-OTMsLTEwMDc1MTIyMDgsLTUzMzcyNjg1MSwxNDQ0MTY2OTI1LD
-EyOTE3OTI2NDVdfQ==
+eyJoaXN0b3J5IjpbLTQ3NDk5MDk4OCwtMTQ3MzExNTM2LC0xMj
+Q0MTk3Mjk4LDc2Mjc4MjE2MiwtMTgzMTMzOTg5LDQ2MjAyNjY3
+NSwtMTE3Njk1NzY5MywtMTAwNzUxMjIwOCwtNTMzNzI2ODUxLD
+E0NDQxNjY5MjUsMTI5MTc5MjY0NV19
 -->
