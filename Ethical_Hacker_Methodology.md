@@ -49,6 +49,7 @@ Works with Search Engine. Only third level searches like level3.level2.com
 ```bash
 apt install sublist3r
 sublist3r -d [domain]
+# use with -t THREAD to speed up depending on CPU power
 ```
 #### crt.sh
 Works with certificates. Search on any level like levelN.level3.level2.com 
@@ -75,9 +76,9 @@ Deep search. Install it via https://github.com/OWASP/Amass
 Read:
 Darknet diaries
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3MTcxMDM3OSwtMjA4MTQ2MzIxNCwtMT
-AxODM2MjY3LC00NzQ5OTA5ODgsLTE0NzMxMTUzNiwtMTI0NDE5
-NzI5OCw3NjI3ODIxNjIsLTE4MzEzMzk4OSw0NjIwMjY2NzUsLT
-ExNzY5NTc2OTMsLTEwMDc1MTIyMDgsLTUzMzcyNjg1MSwxNDQ0
-MTY2OTI1LDEyOTE3OTI2NDVdfQ==
+eyJoaXN0b3J5IjpbMTczMjIzMjMzLC0yMDgxNDYzMjE0LC0xMD
+E4MzYyNjcsLTQ3NDk5MDk4OCwtMTQ3MzExNTM2LC0xMjQ0MTk3
+Mjk4LDc2Mjc4MjE2MiwtMTgzMTMzOTg5LDQ2MjAyNjY3NSwtMT
+E3Njk1NzY5MywtMTAwNzUxMjIwOCwtNTMzNzI2ODUxLDE0NDQx
+NjY5MjUsMTI5MTc5MjY0NV19
 -->
