@@ -54,6 +54,9 @@ sublist3r -d [domain]
 Works with certificates. Search on any level like levelN.level3.level2.com 
 Enter the following to search subdomains : `%.domain.com`
 `%` acts as a wildcard.
+
+#### OWASP Amass
+Deep search. 
 ### Identifying website technologies
 
 ### Burp Suite
@@ -72,9 +75,9 @@ Enter the following to search subdomains : `%.domain.com`
 Read:
 Darknet diaries
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODE0NjMyMTQsLTEwMTgzNjI2NywtND
-c0OTkwOTg4LC0xNDczMTE1MzYsLTEyNDQxOTcyOTgsNzYyNzgy
-MTYyLC0xODMxMzM5ODksNDYyMDI2Njc1LC0xMTc2OTU3NjkzLC
-0xMDA3NTEyMjA4LC01MzM3MjY4NTEsMTQ0NDE2NjkyNSwxMjkx
-NzkyNjQ1XX0=
+eyJoaXN0b3J5IjpbMTI3NDcwMjI4OSwtMjA4MTQ2MzIxNCwtMT
+AxODM2MjY3LC00NzQ5OTA5ODgsLTE0NzMxMTUzNiwtMTI0NDE5
+NzI5OCw3NjI3ODIxNjIsLTE4MzEzMzk4OSw0NjIwMjY2NzUsLT
+ExNzY5NTc2OTMsLTEwMDc1MTIyMDgsLTUzMzcyNjg1MSwxNDQ0
+MTY2OTI1LDEyOTE3OTI2NDVdfQ==
 -->
