@@ -58,6 +58,9 @@ Enter the following to search subdomains : `%.domain.com`
 
 #### OWASP Amass
 Deep search. Install it via https://github.com/OWASP/Amass
+
+#### httpprobe
+Once you get the results, narrow 
 ### Identifying website technologies
 
 ### Burp Suite
@@ -76,7 +79,7 @@ Deep search. Install it via https://github.com/OWASP/Amass
 Read:
 Darknet diaries
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczMjIzMjMzLC0yMDgxNDYzMjE0LC0xMD
+eyJoaXN0b3J5IjpbMTEyNjQxOTc3LC0yMDgxNDYzMjE0LC0xMD
 E4MzYyNjcsLTQ3NDk5MDk4OCwtMTQ3MzExNTM2LC0xMjQ0MTk3
 Mjk4LDc2Mjc4MjE2MiwtMTgzMTMzOTg5LDQ2MjAyNjY3NSwtMT
 E3Njk1NzY5MywtMTAwNzUxMjIwOCwtNTMzNzI2ODUxLDE0NDQx
