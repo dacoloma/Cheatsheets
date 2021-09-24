@@ -45,12 +45,13 @@ For hashed password: go to hashes.org
 ### Subdomains
 Search all interesting subdomains with the keywords dev, sso, vpn, api, admin, etc.
 #### Sublist3r 
-Searches with Search Engine
+Works with Search Engine. Only third level searches like level3.level2.com
 ```bash
 apt install sublist3r
 sublist3r -d [domain]
 ```
 #### crt.sh
+Works with certificates. Search on any level. 
 Enter the following to search subdomains : `%.domain.com`
 `%` acts as a wildcard.
 ### Identifying website technologies
@@ -71,9 +72,9 @@ Enter the following to search subdomains : `%.domain.com`
 Read:
 Darknet diaries
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTcxNDkzNzgsLTEwMTgzNjI2NywtND
-c0OTkwOTg4LC0xNDczMTE1MzYsLTEyNDQxOTcyOTgsNzYyNzgy
-MTYyLC0xODMxMzM5ODksNDYyMDI2Njc1LC0xMTc2OTU3NjkzLC
-0xMDA3NTEyMjA4LC01MzM3MjY4NTEsMTQ0NDE2NjkyNSwxMjkx
-NzkyNjQ1XX0=
+eyJoaXN0b3J5IjpbMTE3Mjc5MDM4MywtMTAxODM2MjY3LC00Nz
+Q5OTA5ODgsLTE0NzMxMTUzNiwtMTI0NDE5NzI5OCw3NjI3ODIx
+NjIsLTE4MzEzMzk4OSw0NjIwMjY2NzUsLTExNzY5NTc2OTMsLT
+EwMDc1MTIyMDgsLTUzMzcyNjg1MSwxNDQ0MTY2OTI1LDEyOTE3
+OTI2NDVdfQ==
 -->
