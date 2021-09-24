@@ -60,7 +60,8 @@ Enter the following to search subdomains : `%.domain.com`
 Deep search. Install it via https://github.com/OWASP/Amass
 
 #### httpprobe
-Once you get the results, narrow 
+Once you get the results, narrow the list down with https://github.com/tomnomnom/httprobe
+It returns whether the website is up or down.
 ### Identifying website technologies
 
 ### Burp Suite
@@ -79,9 +80,9 @@ Once you get the results, narrow
 Read:
 Darknet diaries
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyNjQxOTc3LC0yMDgxNDYzMjE0LC0xMD
-E4MzYyNjcsLTQ3NDk5MDk4OCwtMTQ3MzExNTM2LC0xMjQ0MTk3
-Mjk4LDc2Mjc4MjE2MiwtMTgzMTMzOTg5LDQ2MjAyNjY3NSwtMT
-E3Njk1NzY5MywtMTAwNzUxMjIwOCwtNTMzNzI2ODUxLDE0NDQx
-NjY5MjUsMTI5MTc5MjY0NV19
+eyJoaXN0b3J5IjpbMTg2NTYyMjgxMCwtMjA4MTQ2MzIxNCwtMT
+AxODM2MjY3LC00NzQ5OTA5ODgsLTE0NzMxMTUzNiwtMTI0NDE5
+NzI5OCw3NjI3ODIxNjIsLTE4MzEzMzk4OSw0NjIwMjY2NzUsLT
+ExNzY5NTc2OTMsLTEwMDc1MTIyMDgsLTUzMzcyNjg1MSwxNDQ0
+MTY2OTI1LDEyOTE3OTI2NDVdfQ==
 -->
