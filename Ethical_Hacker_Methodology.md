@@ -78,7 +78,7 @@ Not as pretty as above tools but might give more information like technology ver
 Configure proxy first. Go to browser Preferences > Network Proxy > Manual proxy
 Then type *127.0.0.1* as HTTP proxy and port *8080*
 OR use *foxy-proxy*
-This tool can also be used to identify website technology, but all requests as well. It can read all the requests and edit them 
+This tool can also be used to identify website technology, but all requests as well. It can read all the requests and edit them.
 ### Google Fu
 
 ### Social Media
@@ -93,10 +93,10 @@ This tool can also be used to identify website technology, but all requests as w
 Read:
 Darknet diaries
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTg0ODE2MTEsNDkyODkxMzU0LC0xND
-k4MjMxMDEsMTg2NTYyMjgxMCwtMjA4MTQ2MzIxNCwtMTAxODM2
-MjY3LC00NzQ5OTA5ODgsLTE0NzMxMTUzNiwtMTI0NDE5NzI5OC
-w3NjI3ODIxNjIsLTE4MzEzMzk4OSw0NjIwMjY2NzUsLTExNzY5
-NTc2OTMsLTEwMDc1MTIyMDgsLTUzMzcyNjg1MSwxNDQ0MTY2OT
-I1LDEyOTE3OTI2NDVdfQ==
+eyJoaXN0b3J5IjpbLTM2MzE2MjAwOSw0OTI4OTEzNTQsLTE0OT
+gyMzEwMSwxODY1NjIyODEwLC0yMDgxNDYzMjE0LC0xMDE4MzYy
+NjcsLTQ3NDk5MDk4OCwtMTQ3MzExNTM2LC0xMjQ0MTk3Mjk4LD
+c2Mjc4MjE2MiwtMTgzMTMzOTg5LDQ2MjAyNjY3NSwtMTE3Njk1
+NzY5MywtMTAwNzUxMjIwOCwtNTMzNzI2ODUxLDE0NDQxNjY5Mj
+UsMTI5MTc5MjY0NV19
 -->
