@@ -68,7 +68,8 @@ Identifying technologies to determine the version and see if there is any existi
 Determines what tech is used in a website (framework, libraries, widget, etc.)
 #### wappalyzer (browser add-on)
 Gives less information than builtwith.com but it gives you the information right away when you visit any page
-
+#### whatweb (Kali built-in tool)
+Not as pretty 
 ### Burp Suite
 
 ### Google Fu
@@ -85,7 +86,7 @@ Gives less information than builtwith.com but it gives you the information right
 Read:
 Darknet diaries
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3NjI2OTY4NywtMTQ5ODIzMTAxLDE4Nj
+eyJoaXN0b3J5IjpbMTE4NzEzMDQyNCwtMTQ5ODIzMTAxLDE4Nj
 U2MjI4MTAsLTIwODE0NjMyMTQsLTEwMTgzNjI2NywtNDc0OTkw
 OTg4LC0xNDczMTE1MzYsLTEyNDQxOTcyOTgsNzYyNzgyMTYyLC
 0xODMxMzM5ODksNDYyMDI2Njc1LC0xMTc2OTU3NjkzLC0xMDA3
