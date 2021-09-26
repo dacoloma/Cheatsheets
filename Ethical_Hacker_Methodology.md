@@ -63,7 +63,7 @@ Deep search. Install it via https://github.com/OWASP/Amass
 Once you get the results, narrow the list down with https://github.com/tomnomnom/httprobe
 It returns whether the website is up or down.
 ### Identifying website technologies
-
+#### builtwith.com
 ### Burp Suite
 
 ### Google Fu
@@ -80,9 +80,9 @@ It returns whether the website is up or down.
 Read:
 Darknet diaries
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2NTYyMjgxMCwtMjA4MTQ2MzIxNCwtMT
-AxODM2MjY3LC00NzQ5OTA5ODgsLTE0NzMxMTUzNiwtMTI0NDE5
-NzI5OCw3NjI3ODIxNjIsLTE4MzEzMzk4OSw0NjIwMjY2NzUsLT
-ExNzY5NTc2OTMsLTEwMDc1MTIyMDgsLTUzMzcyNjg1MSwxNDQ0
-MTY2OTI1LDEyOTE3OTI2NDVdfQ==
+eyJoaXN0b3J5IjpbLTE0OTgyMzEwMSwxODY1NjIyODEwLC0yMD
+gxNDYzMjE0LC0xMDE4MzYyNjcsLTQ3NDk5MDk4OCwtMTQ3MzEx
+NTM2LC0xMjQ0MTk3Mjk4LDc2Mjc4MjE2MiwtMTgzMTMzOTg5LD
+Q2MjAyNjY3NSwtMTE3Njk1NzY5MywtMTAwNzUxMjIwOCwtNTMz
+NzI2ODUxLDE0NDQxNjY5MjUsMTI5MTc5MjY0NV19
 -->
