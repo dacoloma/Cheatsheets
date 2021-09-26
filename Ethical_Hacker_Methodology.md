@@ -64,6 +64,8 @@ Once you get the results, narrow the list down with https://github.com/tomnomnom
 It returns whether the website is up or down.
 ### Identifying website technologies
 #### builtwith.com
+Determine what tech is used in a website (framework, libraries, widget, etc.)
+#### wappalyzer (browser add-on)
 ### Burp Suite
 
 ### Google Fu
@@ -80,9 +82,10 @@ It returns whether the website is up or down.
 Read:
 Darknet diaries
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTgyMzEwMSwxODY1NjIyODEwLC0yMD
-gxNDYzMjE0LC0xMDE4MzYyNjcsLTQ3NDk5MDk4OCwtMTQ3MzEx
-NTM2LC0xMjQ0MTk3Mjk4LDc2Mjc4MjE2MiwtMTgzMTMzOTg5LD
-Q2MjAyNjY3NSwtMTE3Njk1NzY5MywtMTAwNzUxMjIwOCwtNTMz
-NzI2ODUxLDE0NDQxNjY5MjUsMTI5MTc5MjY0NV19
+eyJoaXN0b3J5IjpbMTk1MzIwOTQ2NywtMTQ5ODIzMTAxLDE4Nj
+U2MjI4MTAsLTIwODE0NjMyMTQsLTEwMTgzNjI2NywtNDc0OTkw
+OTg4LC0xNDczMTE1MzYsLTEyNDQxOTcyOTgsNzYyNzgyMTYyLC
+0xODMxMzM5ODksNDYyMDI2Njc1LC0xMTc2OTU3NjkzLC0xMDA3
+NTEyMjA4LC01MzM3MjY4NTEsMTQ0NDE2NjkyNSwxMjkxNzkyNj
+Q1XX0=
 -->
