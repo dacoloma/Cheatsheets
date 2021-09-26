@@ -63,11 +63,12 @@ Deep search. Install it via https://github.com/OWASP/Amass
 Once you get the results, narrow the list down with https://github.com/tomnomnom/httprobe
 It returns whether the website is up or down.
 ### Identifying website technologies
-Identifying technologies to determine 
+Identifying technologies to determine the version and see if there is any existing vulnerability 
 #### builtwith.com
 Determines what tech is used in a website (framework, libraries, widget, etc.)
 #### wappalyzer (browser add-on)
 Gives less information than builtwith.com but it gives you the information right away when you visit any page
+
 ### Burp Suite
 
 ### Google Fu
@@ -84,10 +85,10 @@ Gives less information than builtwith.com but it gives you the information right
 Read:
 Darknet diaries
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzAwMTMzMDgsLTE0OTgyMzEwMSwxOD
-Y1NjIyODEwLC0yMDgxNDYzMjE0LC0xMDE4MzYyNjcsLTQ3NDk5
-MDk4OCwtMTQ3MzExNTM2LC0xMjQ0MTk3Mjk4LDc2Mjc4MjE2Mi
-wtMTgzMTMzOTg5LDQ2MjAyNjY3NSwtMTE3Njk1NzY5MywtMTAw
-NzUxMjIwOCwtNTMzNzI2ODUxLDE0NDQxNjY5MjUsMTI5MTc5Mj
-Y0NV19
+eyJoaXN0b3J5IjpbMTY3NjI2OTY4NywtMTQ5ODIzMTAxLDE4Nj
+U2MjI4MTAsLTIwODE0NjMyMTQsLTEwMTgzNjI2NywtNDc0OTkw
+OTg4LC0xNDczMTE1MzYsLTEyNDQxOTcyOTgsNzYyNzgyMTYyLC
+0xODMxMzM5ODksNDYyMDI2Njc1LC0xMTc2OTU3NjkzLC0xMDA3
+NTEyMjA4LC01MzM3MjY4NTEsMTQ0NDE2NjkyNSwxMjkxNzkyNj
+Q1XX0=
 -->
