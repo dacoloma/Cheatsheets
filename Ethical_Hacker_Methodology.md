@@ -76,7 +76,8 @@ Not as pretty as above tools but might give more information like technology ver
 
 ### Burp Suite
 Configure proxy first. Go to browser Preferences > Network Proxy > Manual proxy
-Then typ
+Then type *127.0.0.1* as HTTP proxy and port *8080*
+OR use *foxy-proxy*
 ### Google Fu
 
 ### Social Media
@@ -91,10 +92,10 @@ Then typ
 Read:
 Darknet diaries
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5MDI3NTY5MywtMTQ5ODIzMTAxLDE4Nj
-U2MjI4MTAsLTIwODE0NjMyMTQsLTEwMTgzNjI2NywtNDc0OTkw
-OTg4LC0xNDczMTE1MzYsLTEyNDQxOTcyOTgsNzYyNzgyMTYyLC
-0xODMxMzM5ODksNDYyMDI2Njc1LC0xMTc2OTU3NjkzLC0xMDA3
-NTEyMjA4LC01MzM3MjY4NTEsMTQ0NDE2NjkyNSwxMjkxNzkyNj
-Q1XX0=
+eyJoaXN0b3J5IjpbNDkyODkxMzU0LC0xNDk4MjMxMDEsMTg2NT
+YyMjgxMCwtMjA4MTQ2MzIxNCwtMTAxODM2MjY3LC00NzQ5OTA5
+ODgsLTE0NzMxMTUzNiwtMTI0NDE5NzI5OCw3NjI3ODIxNjIsLT
+E4MzEzMzk4OSw0NjIwMjY2NzUsLTExNzY5NTc2OTMsLTEwMDc1
+MTIyMDgsLTUzMzcyNjg1MSwxNDQ0MTY2OTI1LDEyOTE3OTI2ND
+VdfQ==
 -->
