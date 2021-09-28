@@ -101,7 +101,8 @@ nikto -h [host]
 ```
 > Currently not working with SSL
 ### Enumeration
-####
+#### http (80), https (443)
+#### smb
 ## Gaining Access
 ## Maintaining Access
 ## Covering Tracks
@@ -109,7 +110,7 @@ nikto -h [host]
 Read:
 Darknet diaries
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyMzQwNTk4MSwyMDU0MTcwODU0LDE1Mz
+eyJoaXN0b3J5IjpbLTU0NzcwMzc2OSwyMDU0MTcwODU0LDE1Mz
 Q2OTIyNTQsLTM2MzE2MjAwOSw0OTI4OTEzNTQsLTE0OTgyMzEw
 MSwxODY1NjIyODEwLC0yMDgxNDYzMjE0LC0xMDE4MzYyNjcsLT
 Q3NDk5MDk4OCwtMTQ3MzExNTM2LC0xMjQ0MTk3Mjk4LDc2Mjc4
