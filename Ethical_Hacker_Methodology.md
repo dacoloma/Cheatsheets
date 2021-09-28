@@ -87,7 +87,9 @@ Use Social Media to find any information, pictures, videos that might be vulnera
 ## Scanning & Enumeration
 ### Nmap
 ```bash
-
+# Get all opened port
+nmap -T4 -p- <IP address>
+```
 ## Gaining Access
 ## Maintaining Access
 ## Covering Tracks
@@ -95,7 +97,7 @@ Use Social Media to find any information, pictures, videos that might be vulnera
 Read:
 Darknet diaries
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0ODAxNzQ5MSwtMzYzMTYyMDA5LDQ5Mj
+eyJoaXN0b3J5IjpbMTAyNzcxMzU1MSwtMzYzMTYyMDA5LDQ5Mj
 g5MTM1NCwtMTQ5ODIzMTAxLDE4NjU2MjI4MTAsLTIwODE0NjMy
 MTQsLTEwMTgzNjI2NywtNDc0OTkwOTg4LC0xNDczMTE1MzYsLT
 EyNDQxOTcyOTgsNzYyNzgyMTYyLC0xODMxMzM5ODksNDYyMDI2
