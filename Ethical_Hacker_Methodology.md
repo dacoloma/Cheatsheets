@@ -93,6 +93,8 @@ nmap -T4 -p- <IP address>
 # Get more info about found ports
 nmap -T4 -p port1,port2 -A <IP address>
 ```
+### Nikto
+
 ## Gaining Access
 ## Maintaining Access
 ## Covering Tracks
@@ -100,10 +102,11 @@ nmap -T4 -p port1,port2 -A <IP address>
 Read:
 Darknet diaries
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzNDY5MjI1NCwtMzYzMTYyMDA5LDQ5Mj
-g5MTM1NCwtMTQ5ODIzMTAxLDE4NjU2MjI4MTAsLTIwODE0NjMy
-MTQsLTEwMTgzNjI2NywtNDc0OTkwOTg4LC0xNDczMTE1MzYsLT
-EyNDQxOTcyOTgsNzYyNzgyMTYyLC0xODMxMzM5ODksNDYyMDI2
-Njc1LC0xMTc2OTU3NjkzLC0xMDA3NTEyMjA4LC01MzM3MjY4NT
-EsMTQ0NDE2NjkyNSwxMjkxNzkyNjQ1XX0=
+eyJoaXN0b3J5IjpbMjA1NDE3MDg1NCwxNTM0NjkyMjU0LC0zNj
+MxNjIwMDksNDkyODkxMzU0LC0xNDk4MjMxMDEsMTg2NTYyMjgx
+MCwtMjA4MTQ2MzIxNCwtMTAxODM2MjY3LC00NzQ5OTA5ODgsLT
+E0NzMxMTUzNiwtMTI0NDE5NzI5OCw3NjI3ODIxNjIsLTE4MzEz
+Mzk4OSw0NjIwMjY2NzUsLTExNzY5NTc2OTMsLTEwMDc1MTIyMD
+gsLTUzMzcyNjg1MSwxNDQ0MTY2OTI1LDEyOTE3OTI2NDVdfQ==
+
 -->
