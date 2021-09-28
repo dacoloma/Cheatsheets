@@ -82,8 +82,7 @@ This tool can also be used to identify website technology, but all requests as w
 ### Google Fu
 
 ### Social Media
-
-### OSINT Fundamentals
+Use Social Media to find any information, pictures, videos that might be vulnerable like work pictures who
 
 ## Scanning & Enumeration
 ## Gaining Access
@@ -93,10 +92,10 @@ This tool can also be used to identify website technology, but all requests as w
 Read:
 Darknet diaries
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2MzE2MjAwOSw0OTI4OTEzNTQsLTE0OT
-gyMzEwMSwxODY1NjIyODEwLC0yMDgxNDYzMjE0LC0xMDE4MzYy
-NjcsLTQ3NDk5MDk4OCwtMTQ3MzExNTM2LC0xMjQ0MTk3Mjk4LD
-c2Mjc4MjE2MiwtMTgzMTMzOTg5LDQ2MjAyNjY3NSwtMTE3Njk1
-NzY5MywtMTAwNzUxMjIwOCwtNTMzNzI2ODUxLDE0NDQxNjY5Mj
-UsMTI5MTc5MjY0NV19
+eyJoaXN0b3J5IjpbMTE1ODcwNjAxNiwtMzYzMTYyMDA5LDQ5Mj
+g5MTM1NCwtMTQ5ODIzMTAxLDE4NjU2MjI4MTAsLTIwODE0NjMy
+MTQsLTEwMTgzNjI2NywtNDc0OTkwOTg4LC0xNDczMTE1MzYsLT
+EyNDQxOTcyOTgsNzYyNzgyMTYyLC0xODMxMzM5ODksNDYyMDI2
+Njc1LC0xMTc2OTU3NjkzLC0xMDA3NTEyMjA4LC01MzM3MjY4NT
+EsMTQ0NDE2NjkyNSwxMjkxNzkyNjQ1XX0=
 -->
