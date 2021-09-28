@@ -89,6 +89,9 @@ Use Social Media to find any information, pictures, videos that might be vulnera
 ```bash
 # Get all opened port
 nmap -T4 -p- <IP address>
+
+# Get more info about found ports
+nmap -T4 -p port1,port2 -A 
 ```
 ## Gaining Access
 ## Maintaining Access
@@ -97,7 +100,7 @@ nmap -T4 -p- <IP address>
 Read:
 Darknet diaries
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyNzcxMzU1MSwtMzYzMTYyMDA5LDQ5Mj
+eyJoaXN0b3J5IjpbMTAxNDA5MzE3NSwtMzYzMTYyMDA5LDQ5Mj
 g5MTM1NCwtMTQ5ODIzMTAxLDE4NjU2MjI4MTAsLTIwODE0NjMy
 MTQsLTEwMTgzNjI2NywtNDc0OTkwOTg4LC0xNDczMTE1MzYsLT
 EyNDQxOTcyOTgsNzYyNzgyMTYyLC0xODMxMzM5ODksNDYyMDI2
