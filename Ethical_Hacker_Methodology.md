@@ -80,11 +80,14 @@ Then type *127.0.0.1* as HTTP proxy and port *8080*
 OR use *foxy-proxy*
 This tool can also be used to identify website technology, but all requests as well. It can read all the requests and edit them.
 ### Google Fu
-
+https://blog.tryhackme.com/google-fu/
 ### Social Media
-Use Social Media to find any information, pictures, videos that might be vulnerable like work pictures who
+Use Social Media to find any information, pictures, videos that might be vulnerable like work pictures showing a badge etc..
 
 ## Scanning & Enumeration
+### Nmap
+```bash
+
 ## Gaining Access
 ## Maintaining Access
 ## Covering Tracks
@@ -92,7 +95,7 @@ Use Social Media to find any information, pictures, videos that might be vulnera
 Read:
 Darknet diaries
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1ODcwNjAxNiwtMzYzMTYyMDA5LDQ5Mj
+eyJoaXN0b3J5IjpbMTk0ODAxNzQ5MSwtMzYzMTYyMDA5LDQ5Mj
 g5MTM1NCwtMTQ5ODIzMTAxLDE4NjU2MjI4MTAsLTIwODE0NjMy
 MTQsLTEwMTgzNjI2NywtNDc0OTkwOTg4LC0xNDczMTE1MzYsLT
 EyNDQxOTcyOTgsNzYyNzgyMTYyLC0xODMxMzM5ODksNDYyMDI2
