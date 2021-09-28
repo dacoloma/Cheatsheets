@@ -102,7 +102,9 @@ nikto -h [host]
 > Currently not working with SSL
 ### Enumeration
 #### http (80), https (443)
-#### smb
+Tools: dirbuster, BurpSuite
+#### smb (139, 445)
+Tools: Metasploit
 ## Gaining Access
 ## Maintaining Access
 ## Covering Tracks
@@ -110,11 +112,11 @@ nikto -h [host]
 Read:
 Darknet diaries
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0NzcwMzc2OSwyMDU0MTcwODU0LDE1Mz
-Q2OTIyNTQsLTM2MzE2MjAwOSw0OTI4OTEzNTQsLTE0OTgyMzEw
-MSwxODY1NjIyODEwLC0yMDgxNDYzMjE0LC0xMDE4MzYyNjcsLT
-Q3NDk5MDk4OCwtMTQ3MzExNTM2LC0xMjQ0MTk3Mjk4LDc2Mjc4
-MjE2MiwtMTgzMTMzOTg5LDQ2MjAyNjY3NSwtMTE3Njk1NzY5My
-wtMTAwNzUxMjIwOCwtNTMzNzI2ODUxLDE0NDQxNjY5MjUsMTI5
-MTc5MjY0NV19
+eyJoaXN0b3J5IjpbLTEwOTc4OTE4MTMsMjA1NDE3MDg1NCwxNT
+M0NjkyMjU0LC0zNjMxNjIwMDksNDkyODkxMzU0LC0xNDk4MjMx
+MDEsMTg2NTYyMjgxMCwtMjA4MTQ2MzIxNCwtMTAxODM2MjY3LC
+00NzQ5OTA5ODgsLTE0NzMxMTUzNiwtMTI0NDE5NzI5OCw3NjI3
+ODIxNjIsLTE4MzEzMzk4OSw0NjIwMjY2NzUsLTExNzY5NTc2OT
+MsLTEwMDc1MTIyMDgsLTUzMzcyNjg1MSwxNDQ0MTY2OTI1LDEy
+OTE3OTI2NDVdfQ==
 -->
