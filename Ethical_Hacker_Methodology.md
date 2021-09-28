@@ -94,7 +94,11 @@ nmap -T4 -p- <IP address>
 nmap -T4 -p port1,port2 -A <IP address>
 ```
 ### Nikto
-
+```bash
+# Get vuln information on host
+nikto -h [host]
+```
+> Currently not working with SSL
 ## Gaining Access
 ## Maintaining Access
 ## Covering Tracks
@@ -102,11 +106,11 @@ nmap -T4 -p port1,port2 -A <IP address>
 Read:
 Darknet diaries
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1NDE3MDg1NCwxNTM0NjkyMjU0LC0zNj
-MxNjIwMDksNDkyODkxMzU0LC0xNDk4MjMxMDEsMTg2NTYyMjgx
-MCwtMjA4MTQ2MzIxNCwtMTAxODM2MjY3LC00NzQ5OTA5ODgsLT
-E0NzMxMTUzNiwtMTI0NDE5NzI5OCw3NjI3ODIxNjIsLTE4MzEz
-Mzk4OSw0NjIwMjY2NzUsLTExNzY5NTc2OTMsLTEwMDc1MTIyMD
-gsLTUzMzcyNjg1MSwxNDQ0MTY2OTI1LDEyOTE3OTI2NDVdfQ==
-
+eyJoaXN0b3J5IjpbNDQ4NjQzMzE5LDIwNTQxNzA4NTQsMTUzND
+Y5MjI1NCwtMzYzMTYyMDA5LDQ5Mjg5MTM1NCwtMTQ5ODIzMTAx
+LDE4NjU2MjI4MTAsLTIwODE0NjMyMTQsLTEwMTgzNjI2NywtND
+c0OTkwOTg4LC0xNDczMTE1MzYsLTEyNDQxOTcyOTgsNzYyNzgy
+MTYyLC0xODMxMzM5ODksNDYyMDI2Njc1LC0xMTc2OTU3NjkzLC
+0xMDA3NTEyMjA4LC01MzM3MjY4NTEsMTQ0NDE2NjkyNSwxMjkx
+NzkyNjQ1XX0=
 -->
