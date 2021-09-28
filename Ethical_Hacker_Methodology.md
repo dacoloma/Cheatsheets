@@ -85,7 +85,8 @@ https://blog.tryhackme.com/google-fu/
 Use Social Media to find any information, pictures, videos that might be vulnerable like work pictures showing a badge etc..
 
 ## Scanning & Enumeration
-### Nmap
+### Scanning
+#### Nmap
 ```bash
 # Get all opened port
 nmap -T4 -p- <IP address>
@@ -93,12 +94,14 @@ nmap -T4 -p- <IP address>
 # Get more info about found ports
 nmap -T4 -p port1,port2 -A <IP address>
 ```
-### Nikto
+#### Nikto
 ```bash
 # Get vuln information on host
 nikto -h [host]
 ```
 > Currently not working with SSL
+### Enumeration
+####
 ## Gaining Access
 ## Maintaining Access
 ## Covering Tracks
@@ -106,11 +109,11 @@ nikto -h [host]
 Read:
 Darknet diaries
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ4NjQzMzE5LDIwNTQxNzA4NTQsMTUzND
-Y5MjI1NCwtMzYzMTYyMDA5LDQ5Mjg5MTM1NCwtMTQ5ODIzMTAx
-LDE4NjU2MjI4MTAsLTIwODE0NjMyMTQsLTEwMTgzNjI2NywtND
-c0OTkwOTg4LC0xNDczMTE1MzYsLTEyNDQxOTcyOTgsNzYyNzgy
-MTYyLC0xODMxMzM5ODksNDYyMDI2Njc1LC0xMTc2OTU3NjkzLC
-0xMDA3NTEyMjA4LC01MzM3MjY4NTEsMTQ0NDE2NjkyNSwxMjkx
-NzkyNjQ1XX0=
+eyJoaXN0b3J5IjpbMTQyMzQwNTk4MSwyMDU0MTcwODU0LDE1Mz
+Q2OTIyNTQsLTM2MzE2MjAwOSw0OTI4OTEzNTQsLTE0OTgyMzEw
+MSwxODY1NjIyODEwLC0yMDgxNDYzMjE0LC0xMDE4MzYyNjcsLT
+Q3NDk5MDk4OCwtMTQ3MzExNTM2LC0xMjQ0MTk3Mjk4LDc2Mjc4
+MjE2MiwtMTgzMTMzOTg5LDQ2MjAyNjY3NSwtMTE3Njk1NzY5My
+wtMTAwNzUxMjIwOCwtNTMzNzI2ODUxLDE0NDQxNjY5MjUsMTI5
+MTc5MjY0NV19
 -->
