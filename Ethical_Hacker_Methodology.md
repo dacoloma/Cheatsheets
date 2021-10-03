@@ -112,7 +112,8 @@ smbclient -L \\\\{IP address}\\
 # If results, do 
 smbclient \\\\{IP address}\\{repository name}
 ```
-> if the prompt changes and you have `smb: \>` you're in and you can try any command 
+> if the prompt changes and you have `smb: \>` you're in and you can try any SMB command
+#### ssh (22) 
 ## Gaining Access
 ## Maintaining Access
 ## Covering Tracks
@@ -120,11 +121,11 @@ smbclient \\\\{IP address}\\{repository name}
 Read:
 Darknet diaries
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDM4Mjg4NDIsLTEwOTc4OTE4MTMsMj
-A1NDE3MDg1NCwxNTM0NjkyMjU0LC0zNjMxNjIwMDksNDkyODkx
-MzU0LC0xNDk4MjMxMDEsMTg2NTYyMjgxMCwtMjA4MTQ2MzIxNC
-wtMTAxODM2MjY3LC00NzQ5OTA5ODgsLTE0NzMxMTUzNiwtMTI0
-NDE5NzI5OCw3NjI3ODIxNjIsLTE4MzEzMzk4OSw0NjIwMjY2Nz
-UsLTExNzY5NTc2OTMsLTEwMDc1MTIyMDgsLTUzMzcyNjg1MSwx
-NDQ0MTY2OTI1XX0=
+eyJoaXN0b3J5IjpbMTgxODE3NjIxOSwtMTA5Nzg5MTgxMywyMD
+U0MTcwODU0LDE1MzQ2OTIyNTQsLTM2MzE2MjAwOSw0OTI4OTEz
+NTQsLTE0OTgyMzEwMSwxODY1NjIyODEwLC0yMDgxNDYzMjE0LC
+0xMDE4MzYyNjcsLTQ3NDk5MDk4OCwtMTQ3MzExNTM2LC0xMjQ0
+MTk3Mjk4LDc2Mjc4MjE2MiwtMTgzMTMzOTg5LDQ2MjAyNjY3NS
+wtMTE3Njk1NzY5MywtMTAwNzUxMjIwOCwtNTMzNzI2ODUxLDE0
+NDQxNjY5MjVdfQ==
 -->
