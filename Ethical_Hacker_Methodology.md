@@ -109,7 +109,10 @@ Command:
 ```bash
 # Try with anonymous auth if you don't have any password
 smbclient -L \\\\{IP address}\\
+# If results, do 
+smbclient \\\\{IP address}\\{repository name}
 ```
+> if you have 
 ## Gaining Access
 ## Maintaining Access
 ## Covering Tracks
@@ -117,7 +120,7 @@ smbclient -L \\\\{IP address}\\
 Read:
 Darknet diaries
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2MzIyNDA2MywtMTA5Nzg5MTgxMywyMD
+eyJoaXN0b3J5IjpbLTgyMTEwODE4MywtMTA5Nzg5MTgxMywyMD
 U0MTcwODU0LDE1MzQ2OTIyNTQsLTM2MzE2MjAwOSw0OTI4OTEz
 NTQsLTE0OTgyMzEwMSwxODY1NjIyODEwLC0yMDgxNDYzMjE0LC
 0xMDE4MzYyNjcsLTQ3NDk5MDk4OCwtMTQ3MzExNTM2LC0xMjQ0
