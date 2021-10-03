@@ -105,6 +105,11 @@ nikto -h [host]
 Tools: dirbuster, BurpSuite
 #### smb (139, 445)
 Tools: Metasploit
+Command:
+```bash
+# Try with anonymous auth if you don't have any password
+smbclient -L \\\\{IP address}\\
+```
 ## Gaining Access
 ## Maintaining Access
 ## Covering Tracks
@@ -112,11 +117,11 @@ Tools: Metasploit
 Read:
 Darknet diaries
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTc4OTE4MTMsMjA1NDE3MDg1NCwxNT
-M0NjkyMjU0LC0zNjMxNjIwMDksNDkyODkxMzU0LC0xNDk4MjMx
-MDEsMTg2NTYyMjgxMCwtMjA4MTQ2MzIxNCwtMTAxODM2MjY3LC
-00NzQ5OTA5ODgsLTE0NzMxMTUzNiwtMTI0NDE5NzI5OCw3NjI3
-ODIxNjIsLTE4MzEzMzk4OSw0NjIwMjY2NzUsLTExNzY5NTc2OT
-MsLTEwMDc1MTIyMDgsLTUzMzcyNjg1MSwxNDQ0MTY2OTI1LDEy
-OTE3OTI2NDVdfQ==
+eyJoaXN0b3J5IjpbMTQ2MzIyNDA2MywtMTA5Nzg5MTgxMywyMD
+U0MTcwODU0LDE1MzQ2OTIyNTQsLTM2MzE2MjAwOSw0OTI4OTEz
+NTQsLTE0OTgyMzEwMSwxODY1NjIyODEwLC0yMDgxNDYzMjE0LC
+0xMDE4MzYyNjcsLTQ3NDk5MDk4OCwtMTQ3MzExNTM2LC0xMjQ0
+MTk3Mjk4LDc2Mjc4MjE2MiwtMTgzMTMzOTg5LDQ2MjAyNjY3NS
+wtMTE3Njk1NzY5MywtMTAwNzUxMjIwOCwtNTMzNzI2ODUxLDE0
+NDQxNjY5MjVdfQ==
 -->
