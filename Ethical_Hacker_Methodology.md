@@ -143,9 +143,12 @@ nc 192.168.156.2 4444
 ```
 ### Non-staged and Staged payload
 #### Non-staged payload
-Sends a shellcode all at once. It's larger than staged payload and does not always work. You can recognize it in Metasploit like this: `windows/meterpreter_reverse_tcp`
+Sends a shellcode all at once. It's larger than staged payload and does not always work. 
+You can recognize them in Metasploit like this: `windows/meterpreter_reverse_tcp`
 #### Staged payload
-Sends
+Sends a payload in staged. It's less stable. 
+You can recognize them in Metasploit like this: `windows/meterpreter/reverse_tcp`
+Notice the `/`replacing the `_` in the non-staged payload.
 ## Gaining Access
 ## Maintaining Access
 ## Covering Tracks
@@ -153,11 +156,11 @@ Sends
 Read:
 Darknet diaries
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc2ODgwOTQxLDE2Nzc0NTIxNzAsMTgxOD
-E3NjIxOSwtMTA5Nzg5MTgxMywyMDU0MTcwODU0LDE1MzQ2OTIy
-NTQsLTM2MzE2MjAwOSw0OTI4OTEzNTQsLTE0OTgyMzEwMSwxOD
-Y1NjIyODEwLC0yMDgxNDYzMjE0LC0xMDE4MzYyNjcsLTQ3NDk5
-MDk4OCwtMTQ3MzExNTM2LC0xMjQ0MTk3Mjk4LDc2Mjc4MjE2Mi
-wtMTgzMTMzOTg5LDQ2MjAyNjY3NSwtMTE3Njk1NzY5MywtMTAw
-NzUxMjIwOF19
+eyJoaXN0b3J5IjpbMjAzNDg2NDI3MSwxNjc3NDUyMTcwLDE4MT
+gxNzYyMTksLTEwOTc4OTE4MTMsMjA1NDE3MDg1NCwxNTM0Njky
+MjU0LC0zNjMxNjIwMDksNDkyODkxMzU0LC0xNDk4MjMxMDEsMT
+g2NTYyMjgxMCwtMjA4MTQ2MzIxNCwtMTAxODM2MjY3LC00NzQ5
+OTA5ODgsLTE0NzMxMTUzNiwtMTI0NDE5NzI5OCw3NjI3ODIxNj
+IsLTE4MzEzMzk4OSw0NjIwMjY2NzUsLTExNzY5NTc2OTMsLTEw
+MDc1MTIyMDhdfQ==
 -->
