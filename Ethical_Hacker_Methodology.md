@@ -169,17 +169,18 @@ msf5 > use {module_number}
 msf5 > use {module_name}
 ```
 At this point, the prompt should be different. You should see `msf5 {module_name} >`. 
+
 ## Maintaining Access
 ## Covering Tracks
 
 Read:
 Darknet diaries
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0NzQxMDA5OSwyMDM0ODY0MjcxLDE2Nz
-c0NTIxNzAsMTgxODE3NjIxOSwtMTA5Nzg5MTgxMywyMDU0MTcw
-ODU0LDE1MzQ2OTIyNTQsLTM2MzE2MjAwOSw0OTI4OTEzNTQsLT
-E0OTgyMzEwMSwxODY1NjIyODEwLC0yMDgxNDYzMjE0LC0xMDE4
-MzYyNjcsLTQ3NDk5MDk4OCwtMTQ3MzExNTM2LC0xMjQ0MTk3Mj
-k4LDc2Mjc4MjE2MiwtMTgzMTMzOTg5LDQ2MjAyNjY3NSwtMTE3
-Njk1NzY5M119
+eyJoaXN0b3J5IjpbLTE0MDgzNTY0NzUsMTc0NzQxMDA5OSwyMD
+M0ODY0MjcxLDE2Nzc0NTIxNzAsMTgxODE3NjIxOSwtMTA5Nzg5
+MTgxMywyMDU0MTcwODU0LDE1MzQ2OTIyNTQsLTM2MzE2MjAwOS
+w0OTI4OTEzNTQsLTE0OTgyMzEwMSwxODY1NjIyODEwLC0yMDgx
+NDYzMjE0LC0xMDE4MzYyNjcsLTQ3NDk5MDk4OCwtMTQ3MzExNT
+M2LC0xMjQ0MTk3Mjk4LDc2Mjc4MjE2MiwtMTgzMTMzOTg5LDQ2
+MjAyNjY3NV19
 -->
