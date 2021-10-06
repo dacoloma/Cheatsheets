@@ -101,7 +101,7 @@ nikto -h [host]
 ```
 > Currently not working with SSL
 #### Nessus
-Web app with great interface and great features like scheduled scanning, 
+Web app with great interface and great features like scheduled scanning but the app is not free
 ### Enumeration
 #### http (80), https (443)
 Tools: dirbuster, BurpSuite
@@ -116,6 +116,8 @@ smbclient \\\\{IP address}\\{repository name}
 ```
 > if the prompt changes and you have `smb: \>` you're in and you can try any SMB command
 #### ssh (22) 
+## Exploitation Basics
+### Reverse and Bind shell
 ## Gaining Access
 ## Maintaining Access
 ## Covering Tracks
@@ -123,11 +125,11 @@ smbclient \\\\{IP address}\\{repository name}
 Read:
 Darknet diaries
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0NTQ3NTYzOSwxODE4MTc2MjE5LC0xMD
-k3ODkxODEzLDIwNTQxNzA4NTQsMTUzNDY5MjI1NCwtMzYzMTYy
-MDA5LDQ5Mjg5MTM1NCwtMTQ5ODIzMTAxLDE4NjU2MjI4MTAsLT
-IwODE0NjMyMTQsLTEwMTgzNjI2NywtNDc0OTkwOTg4LC0xNDcz
-MTE1MzYsLTEyNDQxOTcyOTgsNzYyNzgyMTYyLC0xODMxMzM5OD
-ksNDYyMDI2Njc1LC0xMTc2OTU3NjkzLC0xMDA3NTEyMjA4LC01
-MzM3MjY4NTFdfQ==
+eyJoaXN0b3J5IjpbLTE0MTU5MzU4NjUsMTgxODE3NjIxOSwtMT
+A5Nzg5MTgxMywyMDU0MTcwODU0LDE1MzQ2OTIyNTQsLTM2MzE2
+MjAwOSw0OTI4OTEzNTQsLTE0OTgyMzEwMSwxODY1NjIyODEwLC
+0yMDgxNDYzMjE0LC0xMDE4MzYyNjcsLTQ3NDk5MDk4OCwtMTQ3
+MzExNTM2LC0xMjQ0MTk3Mjk4LDc2Mjc4MjE2MiwtMTgzMTMzOT
+g5LDQ2MjAyNjY3NSwtMTE3Njk1NzY5MywtMTAwNzUxMjIwOCwt
+NTMzNzI2ODUxXX0=
 -->
