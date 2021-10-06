@@ -154,18 +154,21 @@ Notice the `/`replacing the `_` in the non-staged payload.
 ### Gaining root with Metasploit
 First, search an exploit using the info you gathered with enumeration. Ex: smb
 ```bash
-searchsploit
+# In Kali
+searchsploit samba 2.2
+```
+You'll get a list of exploits that can be use to attack a machine. Select one exploit and run 
 ## Maintaining Access
 ## Covering Tracks
 
 Read:
 Darknet diaries
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4MjEwMzM4NSwyMDM0ODY0MjcxLDE2Nz
-c0NTIxNzAsMTgxODE3NjIxOSwtMTA5Nzg5MTgxMywyMDU0MTcw
-ODU0LDE1MzQ2OTIyNTQsLTM2MzE2MjAwOSw0OTI4OTEzNTQsLT
-E0OTgyMzEwMSwxODY1NjIyODEwLC0yMDgxNDYzMjE0LC0xMDE4
-MzYyNjcsLTQ3NDk5MDk4OCwtMTQ3MzExNTM2LC0xMjQ0MTk3Mj
-k4LDc2Mjc4MjE2MiwtMTgzMTMzOTg5LDQ2MjAyNjY3NSwtMTE3
-Njk1NzY5M119
+eyJoaXN0b3J5IjpbLTE2Mzk2NTc5OTksMjAzNDg2NDI3MSwxNj
+c3NDUyMTcwLDE4MTgxNzYyMTksLTEwOTc4OTE4MTMsMjA1NDE3
+MDg1NCwxNTM0NjkyMjU0LC0zNjMxNjIwMDksNDkyODkxMzU0LC
+0xNDk4MjMxMDEsMTg2NTYyMjgxMCwtMjA4MTQ2MzIxNCwtMTAx
+ODM2MjY3LC00NzQ5OTA5ODgsLTE0NzMxMTUzNiwtMTI0NDE5Nz
+I5OCw3NjI3ODIxNjIsLTE4MzEzMzk4OSw0NjIwMjY2NzUsLTEx
+NzY5NTc2OTNdfQ==
 -->
