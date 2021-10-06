@@ -151,18 +151,21 @@ You can recognize them in Metasploit like this: `windows/meterpreter_reverse_tcp
 Sends a payload in staged. It's less stable. 
 You can recognize them in Metasploit like this: `windows/meterpreter/reverse_tcp`
 Notice the `/`replacing the `_` in the non-staged payload.
-### 
+### Gaining root with Metasploit
+First, search an exploit using the info you gathered with enumeration. Ex: smb
+```bash
+searchsploit
 ## Maintaining Access
 ## Covering Tracks
 
 Read:
 Darknet diaries
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjYyMzgzNDEsMjAzNDg2NDI3MSwxNj
-c3NDUyMTcwLDE4MTgxNzYyMTksLTEwOTc4OTE4MTMsMjA1NDE3
-MDg1NCwxNTM0NjkyMjU0LC0zNjMxNjIwMDksNDkyODkxMzU0LC
-0xNDk4MjMxMDEsMTg2NTYyMjgxMCwtMjA4MTQ2MzIxNCwtMTAx
-ODM2MjY3LC00NzQ5OTA5ODgsLTE0NzMxMTUzNiwtMTI0NDE5Nz
-I5OCw3NjI3ODIxNjIsLTE4MzEzMzk4OSw0NjIwMjY2NzUsLTEx
-NzY5NTc2OTNdfQ==
+eyJoaXN0b3J5IjpbLTU4MjEwMzM4NSwyMDM0ODY0MjcxLDE2Nz
+c0NTIxNzAsMTgxODE3NjIxOSwtMTA5Nzg5MTgxMywyMDU0MTcw
+ODU0LDE1MzQ2OTIyNTQsLTM2MzE2MjAwOSw0OTI4OTEzNTQsLT
+E0OTgyMzEwMSwxODY1NjIyODEwLC0yMDgxNDYzMjE0LC0xMDE4
+MzYyNjcsLTQ3NDk5MDk4OCwtMTQ3MzExNTM2LC0xMjQ0MTk3Mj
+k4LDc2Mjc4MjE2MiwtMTgzMTMzOTg5LDQ2MjAyNjY3NSwtMTE3
+Njk1NzY5M119
 -->
