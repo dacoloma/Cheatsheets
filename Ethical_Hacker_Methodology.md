@@ -177,7 +177,7 @@ msf5 > set LHOST
 msf5 > set LPORT 
 msf5 > show targets
 msf5 > exploit # or run
-msf5 > set RPORT
+msf5 > set payload {OS}/{arch}/{payload} # Hit tab to autocomplete
 ```
 ## Maintaining Access
 ## Covering Tracks
@@ -185,11 +185,11 @@ msf5 > set RPORT
 Read:
 Darknet diaries
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5NDk0OTMyNywxNzQ3NDEwMDk5LDIwMz
-Q4NjQyNzEsMTY3NzQ1MjE3MCwxODE4MTc2MjE5LC0xMDk3ODkx
-ODEzLDIwNTQxNzA4NTQsMTUzNDY5MjI1NCwtMzYzMTYyMDA5LD
-Q5Mjg5MTM1NCwtMTQ5ODIzMTAxLDE4NjU2MjI4MTAsLTIwODE0
-NjMyMTQsLTEwMTgzNjI2NywtNDc0OTkwOTg4LC0xNDczMTE1Mz
-YsLTEyNDQxOTcyOTgsNzYyNzgyMTYyLC0xODMxMzM5ODksNDYy
-MDI2Njc1XX0=
+eyJoaXN0b3J5IjpbLTM4OTg3MTY0LDE3NDc0MTAwOTksMjAzND
+g2NDI3MSwxNjc3NDUyMTcwLDE4MTgxNzYyMTksLTEwOTc4OTE4
+MTMsMjA1NDE3MDg1NCwxNTM0NjkyMjU0LC0zNjMxNjIwMDksND
+kyODkxMzU0LC0xNDk4MjMxMDEsMTg2NTYyMjgxMCwtMjA4MTQ2
+MzIxNCwtMTAxODM2MjY3LC00NzQ5OTA5ODgsLTE0NzMxMTUzNi
+wtMTI0NDE5NzI5OCw3NjI3ODIxNjIsLTE4MzEzMzk4OSw0NjIw
+MjY2NzVdfQ==
 -->
