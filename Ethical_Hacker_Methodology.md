@@ -171,7 +171,8 @@ msf5 > use {module_name}
 At this point, the prompt should be different. You should see `msf5 {module_name} >`. 
 ```bash
 msf5 > options
-msf5 > set RHOST
+msf5 > set RHOSTS #
+msf5 > show targets
 ```
 ## Maintaining Access
 ## Covering Tracks
@@ -179,11 +180,11 @@ msf5 > set RHOST
 Read:
 Darknet diaries
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczNTIyMjM0MSwxNzQ3NDEwMDk5LDIwMz
-Q4NjQyNzEsMTY3NzQ1MjE3MCwxODE4MTc2MjE5LC0xMDk3ODkx
-ODEzLDIwNTQxNzA4NTQsMTUzNDY5MjI1NCwtMzYzMTYyMDA5LD
-Q5Mjg5MTM1NCwtMTQ5ODIzMTAxLDE4NjU2MjI4MTAsLTIwODE0
-NjMyMTQsLTEwMTgzNjI2NywtNDc0OTkwOTg4LC0xNDczMTE1Mz
-YsLTEyNDQxOTcyOTgsNzYyNzgyMTYyLC0xODMxMzM5ODksNDYy
-MDI2Njc1XX0=
+eyJoaXN0b3J5IjpbLTEwNDUzNTk0NjUsMTc0NzQxMDA5OSwyMD
+M0ODY0MjcxLDE2Nzc0NTIxNzAsMTgxODE3NjIxOSwtMTA5Nzg5
+MTgxMywyMDU0MTcwODU0LDE1MzQ2OTIyNTQsLTM2MzE2MjAwOS
+w0OTI4OTEzNTQsLTE0OTgyMzEwMSwxODY1NjIyODEwLC0yMDgx
+NDYzMjE0LC0xMDE4MzYyNjcsLTQ3NDk5MDk4OCwtMTQ3MzExNT
+M2LC0xMjQ0MTk3Mjk4LDc2Mjc4MjE2MiwtMTgzMTMzOTg5LDQ2
+MjAyNjY3NV19
 -->
