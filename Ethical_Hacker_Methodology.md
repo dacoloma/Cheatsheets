@@ -170,13 +170,14 @@ msf5 > use {module_name}
 ```
 At this point, the prompt should be different. You should see `msf5 {module_name} >`. 
 ```bash
-msf5 > options # shows more options after a failed att
+msf5 > options # shows more options after a failed attempt
 msf5 > set RHOSTS # or RHOST 
 msf5 > set RPORT
 msf5 > set LHOST
 msf5 > set LPORT 
 msf5 > show targets
 msf5 > exploit # or run
+msf5 > set RPORT
 ```
 ## Maintaining Access
 ## Covering Tracks
@@ -184,7 +185,7 @@ msf5 > exploit # or run
 Read:
 Darknet diaries
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxNzA3MzQ1MSwxNzQ3NDEwMDk5LDIwMz
+eyJoaXN0b3J5IjpbMjA5NDk0OTMyNywxNzQ3NDEwMDk5LDIwMz
 Q4NjQyNzEsMTY3NzQ1MjE3MCwxODE4MTc2MjE5LC0xMDk3ODkx
 ODEzLDIwNTQxNzA4NTQsMTUzNDY5MjI1NCwtMzYzMTYyMDA5LD
 Q5Mjg5MTM1NCwtMTQ5ODIzMTAxLDE4NjU2MjI4MTAsLTIwODE0
