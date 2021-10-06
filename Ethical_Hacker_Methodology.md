@@ -168,18 +168,18 @@ msf5 > use {module_number}
 # OR
 msf5 > use {module_name}
 ```
-At this point, the prompt should be different. 
+At this point, the prompt should be different. You should see `msf5 {module_name}
 ## Maintaining Access
 ## Covering Tracks
 
 Read:
 Darknet diaries
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzE1MzYzMjEsMjAzNDg2NDI3MSwxNj
-c3NDUyMTcwLDE4MTgxNzYyMTksLTEwOTc4OTE4MTMsMjA1NDE3
-MDg1NCwxNTM0NjkyMjU0LC0zNjMxNjIwMDksNDkyODkxMzU0LC
-0xNDk4MjMxMDEsMTg2NTYyMjgxMCwtMjA4MTQ2MzIxNCwtMTAx
-ODM2MjY3LC00NzQ5OTA5ODgsLTE0NzMxMTUzNiwtMTI0NDE5Nz
-I5OCw3NjI3ODIxNjIsLTE4MzEzMzk4OSw0NjIwMjY2NzUsLTEx
-NzY5NTc2OTNdfQ==
+eyJoaXN0b3J5IjpbMjA2Mjg3NTM4MSwyMDM0ODY0MjcxLDE2Nz
+c0NTIxNzAsMTgxODE3NjIxOSwtMTA5Nzg5MTgxMywyMDU0MTcw
+ODU0LDE1MzQ2OTIyNTQsLTM2MzE2MjAwOSw0OTI4OTEzNTQsLT
+E0OTgyMzEwMSwxODY1NjIyODEwLC0yMDgxNDYzMjE0LC0xMDE4
+MzYyNjcsLTQ3NDk5MDk4OCwtMTQ3MzExNTM2LC0xMjQ0MTk3Mj
+k4LDc2Mjc4MjE2MiwtMTgzMTMzOTg5LDQ2MjAyNjY3NSwtMTE3
+Njk1NzY5M119
 -->
