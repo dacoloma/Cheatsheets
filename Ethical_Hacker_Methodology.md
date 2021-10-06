@@ -168,14 +168,14 @@ msf5 > use {module_number}
 # OR
 msf5 > use {module_name}
 ```
-At this point, the prompt should be different. You should see `msf5 {module_name}
+At this point, the prompt should be different. You should see `msf5 {module_name} >`. 
 ## Maintaining Access
 ## Covering Tracks
 
 Read:
 Darknet diaries
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2Mjg3NTM4MSwyMDM0ODY0MjcxLDE2Nz
+eyJoaXN0b3J5IjpbMTc0NzQxMDA5OSwyMDM0ODY0MjcxLDE2Nz
 c0NTIxNzAsMTgxODE3NjIxOSwtMTA5Nzg5MTgxMywyMDU0MTcw
 ODU0LDE1MzQ2OTIyNTQsLTM2MzE2MjAwOSw0OTI4OTEzNTQsLT
 E0OTgyMzEwMSwxODY1NjIyODEwLC0yMDgxNDYzMjE0LC0xMDE4
