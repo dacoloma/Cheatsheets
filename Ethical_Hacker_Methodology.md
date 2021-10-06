@@ -157,18 +157,21 @@ First, search an exploit using the info you gathered with enumeration. Ex: smb
 # In Kali
 searchsploit samba 2.2
 ```
-You'll get a list of exploits that can be use to attack a machine. Select one exploit and run 
+You'll get a list of exploits that can be use to attack a machine. Select one exploit and run `msfconsole`: 
+```bash
+msf5 > search 
+```
 ## Maintaining Access
 ## Covering Tracks
 
 Read:
 Darknet diaries
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Mzk2NTc5OTksMjAzNDg2NDI3MSwxNj
-c3NDUyMTcwLDE4MTgxNzYyMTksLTEwOTc4OTE4MTMsMjA1NDE3
-MDg1NCwxNTM0NjkyMjU0LC0zNjMxNjIwMDksNDkyODkxMzU0LC
-0xNDk4MjMxMDEsMTg2NTYyMjgxMCwtMjA4MTQ2MzIxNCwtMTAx
-ODM2MjY3LC00NzQ5OTA5ODgsLTE0NzMxMTUzNiwtMTI0NDE5Nz
-I5OCw3NjI3ODIxNjIsLTE4MzEzMzk4OSw0NjIwMjY2NzUsLTEx
-NzY5NTc2OTNdfQ==
+eyJoaXN0b3J5IjpbLTgwNzUxODI1LDIwMzQ4NjQyNzEsMTY3Nz
+Q1MjE3MCwxODE4MTc2MjE5LC0xMDk3ODkxODEzLDIwNTQxNzA4
+NTQsMTUzNDY5MjI1NCwtMzYzMTYyMDA5LDQ5Mjg5MTM1NCwtMT
+Q5ODIzMTAxLDE4NjU2MjI4MTAsLTIwODE0NjMyMTQsLTEwMTgz
+NjI2NywtNDc0OTkwOTg4LC0xNDczMTE1MzYsLTEyNDQxOTcyOT
+gsNzYyNzgyMTYyLC0xODMxMzM5ODksNDYyMDI2Njc1LC0xMTc2
+OTU3NjkzXX0=
 -->
