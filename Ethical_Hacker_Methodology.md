@@ -170,8 +170,11 @@ msf5 > use {module_name}
 ```
 At this point, the prompt should be different. You should see `msf5 {module_name} >`. 
 ```bash
-msf5 > options #
+msf5 > options # shows more options after a failed att
 msf5 > set RHOSTS # or RHOST 
+msf5 > set RPORT
+msf5 > set LHOST
+msf5 > set LPORT 
 msf5 > show targets
 msf5 > exploit # or run
 ```
@@ -181,11 +184,11 @@ msf5 > exploit # or run
 Read:
 Darknet diaries
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0MDE0OTQ2LDE3NDc0MTAwOTksMjAzND
-g2NDI3MSwxNjc3NDUyMTcwLDE4MTgxNzYyMTksLTEwOTc4OTE4
-MTMsMjA1NDE3MDg1NCwxNTM0NjkyMjU0LC0zNjMxNjIwMDksND
-kyODkxMzU0LC0xNDk4MjMxMDEsMTg2NTYyMjgxMCwtMjA4MTQ2
-MzIxNCwtMTAxODM2MjY3LC00NzQ5OTA5ODgsLTE0NzMxMTUzNi
-wtMTI0NDE5NzI5OCw3NjI3ODIxNjIsLTE4MzEzMzk4OSw0NjIw
-MjY2NzVdfQ==
+eyJoaXN0b3J5IjpbLTkxNzA3MzQ1MSwxNzQ3NDEwMDk5LDIwMz
+Q4NjQyNzEsMTY3NzQ1MjE3MCwxODE4MTc2MjE5LC0xMDk3ODkx
+ODEzLDIwNTQxNzA4NTQsMTUzNDY5MjI1NCwtMzYzMTYyMDA5LD
+Q5Mjg5MTM1NCwtMTQ5ODIzMTAxLDE4NjU2MjI4MTAsLTIwODE0
+NjMyMTQsLTEwMTgzNjI2NywtNDc0OTkwOTg4LC0xNDczMTE1Mz
+YsLTEyNDQxOTcyOTgsNzYyNzgyMTYyLC0xODMxMzM5ODksNDYy
+MDI2Njc1XX0=
 -->
