@@ -161,14 +161,21 @@ You'll get a list of exploits that can be use to attack a machine. Select one ex
 ```bash
 msf5 > search {exploit_name}
 ```
-You'll get a list of module representing different OS. Select one that corresponds to vic
+You'll get a list of module representing different OS. Select one that corresponds to victim's machine. 
+
+```bash
+msf5 > use {module_number}
+# OR
+msf5 > use {module_name}
+```
+At this point, the prompt should be different. 
 ## Maintaining Access
 ## Covering Tracks
 
 Read:
 Darknet diaries
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzIzNzQzODUsMjAzNDg2NDI3MSwxNj
+eyJoaXN0b3J5IjpbLTIxMzE1MzYzMjEsMjAzNDg2NDI3MSwxNj
 c3NDUyMTcwLDE4MTgxNzYyMTksLTEwOTc4OTE4MTMsMjA1NDE3
 MDg1NCwxNTM0NjkyMjU0LC0zNjMxNjIwMDksNDkyODkxMzU0LC
 0xNDk4MjMxMDEsMTg2NTYyMjgxMCwtMjA4MTQ2MzIxNCwtMTAx
