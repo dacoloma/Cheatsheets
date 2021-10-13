@@ -199,19 +199,19 @@ msf5 > use auxiliary/scanner/ssh/ssh_login
 msf5 auxiliary(scanner/ssh/ssh_login) > options
 # set user, pass file, target IP, verbose, threads etc.
 ```
-### Credentials spraying
-
+### Credentials stuffing and password spraying
+Credential stuffing: Use a couple 
 ## Maintaining Access
 ## Covering Tracks
 
 Read:
 Darknet diaries
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg2NzgxOTM4LDY1Njk1ODMxMCwtMTg2OT
-I5MTI4MSwtOTMzNzkyNjM5LC0xMDM5MTQyMzMwLC0zODk4NzE2
-NCwxNzQ3NDEwMDk5LDIwMzQ4NjQyNzEsMTY3NzQ1MjE3MCwxOD
-E4MTc2MjE5LC0xMDk3ODkxODEzLDIwNTQxNzA4NTQsMTUzNDY5
-MjI1NCwtMzYzMTYyMDA5LDQ5Mjg5MTM1NCwtMTQ5ODIzMTAxLD
-E4NjU2MjI4MTAsLTIwODE0NjMyMTQsLTEwMTgzNjI2NywtNDc0
-OTkwOTg4XX0=
+eyJoaXN0b3J5IjpbMTE5MjM1MTExMSw2NTY5NTgzMTAsLTE4Nj
+kyOTEyODEsLTkzMzc5MjYzOSwtMTAzOTE0MjMzMCwtMzg5ODcx
+NjQsMTc0NzQxMDA5OSwyMDM0ODY0MjcxLDE2Nzc0NTIxNzAsMT
+gxODE3NjIxOSwtMTA5Nzg5MTgxMywyMDU0MTcwODU0LDE1MzQ2
+OTIyNTQsLTM2MzE2MjAwOSw0OTI4OTEzNTQsLTE0OTgyMzEwMS
+wxODY1NjIyODEwLC0yMDgxNDYzMjE0LC0xMDE4MzYyNjcsLTQ3
+NDk5MDk4OF19
 -->
