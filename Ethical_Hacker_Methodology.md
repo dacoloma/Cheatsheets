@@ -175,9 +175,10 @@ msf5 > set RHOSTS # or RHOST
 msf5 > set RPORT
 msf5 > set LHOST
 msf5 > set LPORT 
-msf5 > show targets
-msf5 > set payload {OS}/{arch}/{payload} # Hit tab to autocomplete
+msf5 > show targets # depending on the number of targets, you might need to select one manually
 msf5 > exploit # or run
+msf5 > set payload {OS}/{arch}/{payload} # Hit tab to autocomplete
+
 ```
 ### Gaining root manually
 Using information found in Enumeration step, find the appropriate exploit on github or whatever, read the instruction and you should get root access. 
@@ -187,7 +188,7 @@ Using information found in Enumeration step, find the appropriate exploit on git
 Read:
 Darknet diaries
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyMjA2NjYwMSwtMTAzOTE0MjMzMCwtMz
+eyJoaXN0b3J5IjpbLTQ5OTM3Mzk2NCwtMTAzOTE0MjMzMCwtMz
 g5ODcxNjQsMTc0NzQxMDA5OSwyMDM0ODY0MjcxLDE2Nzc0NTIx
 NzAsMTgxODE3NjIxOSwtMTA5Nzg5MTgxMywyMDU0MTcwODU0LD
 E1MzQ2OTIyNTQsLTM2MzE2MjAwOSw0OTI4OTEzNTQsLTE0OTgy
