@@ -197,7 +197,8 @@ msfconsole
 msf5 > search ssh # search for ssh login exploits
 msf5 > use auxiliary/scanner/ssh/ssh_login
 msf5 auxiliary(scanner/ssh/ssh_login) > options
-# set options
+# set user, pass file, target IP, verbose, threads etc.
+
 ```
 ## Maintaining Access
 ## Covering Tracks
@@ -205,11 +206,11 @@ msf5 auxiliary(scanner/ssh/ssh_login) > options
 Read:
 Darknet diaries
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwNTg0NDExOSwtMTg2OTI5MTI4MSwtOT
-MzNzkyNjM5LC0xMDM5MTQyMzMwLC0zODk4NzE2NCwxNzQ3NDEw
-MDk5LDIwMzQ4NjQyNzEsMTY3NzQ1MjE3MCwxODE4MTc2MjE5LC
-0xMDk3ODkxODEzLDIwNTQxNzA4NTQsMTUzNDY5MjI1NCwtMzYz
-MTYyMDA5LDQ5Mjg5MTM1NCwtMTQ5ODIzMTAxLDE4NjU2MjI4MT
-AsLTIwODE0NjMyMTQsLTEwMTgzNjI2NywtNDc0OTkwOTg4LC0x
-NDczMTE1MzZdfQ==
+eyJoaXN0b3J5IjpbNjU2OTU4MzEwLC0xODY5MjkxMjgxLC05Mz
+M3OTI2MzksLTEwMzkxNDIzMzAsLTM4OTg3MTY0LDE3NDc0MTAw
+OTksMjAzNDg2NDI3MSwxNjc3NDUyMTcwLDE4MTgxNzYyMTksLT
+EwOTc4OTE4MTMsMjA1NDE3MDg1NCwxNTM0NjkyMjU0LC0zNjMx
+NjIwMDksNDkyODkxMzU0LC0xNDk4MjMxMDEsMTg2NTYyMjgxMC
+wtMjA4MTQ2MzIxNCwtMTAxODM2MjY3LC00NzQ5OTA5ODgsLTE0
+NzMxMTUzNl19
 -->
