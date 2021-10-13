@@ -176,20 +176,21 @@ msf5 > set RPORT
 msf5 > set LHOST
 msf5 > set LPORT 
 msf5 > show targets
-msf5 > exploit # or run
 msf5 > set payload {OS}/{arch}/{payload} # Hit tab to autocomplete
+msf5 > exploit # or run
 ```
+### Gaining root with Metasploit
 ## Maintaining Access
 ## Covering Tracks
 
 Read:
 Darknet diaries
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4OTg3MTY0LDE3NDc0MTAwOTksMjAzND
-g2NDI3MSwxNjc3NDUyMTcwLDE4MTgxNzYyMTksLTEwOTc4OTE4
-MTMsMjA1NDE3MDg1NCwxNTM0NjkyMjU0LC0zNjMxNjIwMDksND
-kyODkxMzU0LC0xNDk4MjMxMDEsMTg2NTYyMjgxMCwtMjA4MTQ2
-MzIxNCwtMTAxODM2MjY3LC00NzQ5OTA5ODgsLTE0NzMxMTUzNi
-wtMTI0NDE5NzI5OCw3NjI3ODIxNjIsLTE4MzEzMzk4OSw0NjIw
-MjY2NzVdfQ==
+eyJoaXN0b3J5IjpbLTEwMzkxNDIzMzAsLTM4OTg3MTY0LDE3ND
+c0MTAwOTksMjAzNDg2NDI3MSwxNjc3NDUyMTcwLDE4MTgxNzYy
+MTksLTEwOTc4OTE4MTMsMjA1NDE3MDg1NCwxNTM0NjkyMjU0LC
+0zNjMxNjIwMDksNDkyODkxMzU0LC0xNDk4MjMxMDEsMTg2NTYy
+MjgxMCwtMjA4MTQ2MzIxNCwtMTAxODM2MjY3LC00NzQ5OTA5OD
+gsLTE0NzMxMTUzNiwtMTI0NDE5NzI5OCw3NjI3ODIxNjIsLTE4
+MzEzMzk4OV19
 -->
