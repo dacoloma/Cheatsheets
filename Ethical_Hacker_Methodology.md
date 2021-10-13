@@ -187,9 +187,9 @@ msf5 > set payload {OS}/{arch}/{payload} # Hit tab to autocomplete. Sometimes no
 ### Gaining root manually
 Using information found in Enumeration step, find the appropriate exploit on github or whatever, read the instruction and you should get root access. 
 ### Brute Force attack
-In Kali:
+Example: Kali Linux, SSH attack
 ```bash
-
+hydra -l root -P /usr/wordlists/metasploit
 ```
 ## Maintaining Access
 ## Covering Tracks
@@ -197,11 +197,11 @@ In Kali:
 Read:
 Darknet diaries
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjkyOTEyODEsLTkzMzc5MjYzOSwtMT
-AzOTE0MjMzMCwtMzg5ODcxNjQsMTc0NzQxMDA5OSwyMDM0ODY0
-MjcxLDE2Nzc0NTIxNzAsMTgxODE3NjIxOSwtMTA5Nzg5MTgxMy
-wyMDU0MTcwODU0LDE1MzQ2OTIyNTQsLTM2MzE2MjAwOSw0OTI4
-OTEzNTQsLTE0OTgyMzEwMSwxODY1NjIyODEwLC0yMDgxNDYzMj
-E0LC0xMDE4MzYyNjcsLTQ3NDk5MDk4OCwtMTQ3MzExNTM2LC0x
-MjQ0MTk3Mjk4XX0=
+eyJoaXN0b3J5IjpbMTA2MDE5MTUwOCwtMTg2OTI5MTI4MSwtOT
+MzNzkyNjM5LC0xMDM5MTQyMzMwLC0zODk4NzE2NCwxNzQ3NDEw
+MDk5LDIwMzQ4NjQyNzEsMTY3NzQ1MjE3MCwxODE4MTc2MjE5LC
+0xMDk3ODkxODEzLDIwNTQxNzA4NTQsMTUzNDY5MjI1NCwtMzYz
+MTYyMDA5LDQ5Mjg5MTM1NCwtMTQ5ODIzMTAxLDE4NjU2MjI4MT
+AsLTIwODE0NjMyMTQsLTEwMTgzNjI2NywtNDc0OTkwOTg4LC0x
+NDczMTE1MzZdfQ==
 -->
