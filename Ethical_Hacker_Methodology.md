@@ -206,18 +206,18 @@ Use a list of login:password to gain access. Sometimes servers get attacked and 
 #### Password spraying
 Use one password and a login list to bruteforce the login. Usually used with default password on application.
 `Burpsuite > Intruder > Attack type: Sniper`
-> Be careful during pentests. You need to know password policy or else you could lock out users with too many attempts
+> Be careful during pentests. You need to know password policy or else you could lock out users with too many attempts on both attacks
 ## Maintaining Access
 ## Covering Tracks
 
 Read:
 Darknet diaries
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDYxNjQxMDMsNjU2OTU4MzEwLC0xOD
-Y5MjkxMjgxLC05MzM3OTI2MzksLTEwMzkxNDIzMzAsLTM4OTg3
-MTY0LDE3NDc0MTAwOTksMjAzNDg2NDI3MSwxNjc3NDUyMTcwLD
-E4MTgxNzYyMTksLTEwOTc4OTE4MTMsMjA1NDE3MDg1NCwxNTM0
-NjkyMjU0LC0zNjMxNjIwMDksNDkyODkxMzU0LC0xNDk4MjMxMD
-EsMTg2NTYyMjgxMCwtMjA4MTQ2MzIxNCwtMTAxODM2MjY3LC00
-NzQ5OTA5ODhdfQ==
+eyJoaXN0b3J5IjpbNDQ5MTU4NDcwLDY1Njk1ODMxMCwtMTg2OT
+I5MTI4MSwtOTMzNzkyNjM5LC0xMDM5MTQyMzMwLC0zODk4NzE2
+NCwxNzQ3NDEwMDk5LDIwMzQ4NjQyNzEsMTY3NzQ1MjE3MCwxOD
+E4MTc2MjE5LC0xMDk3ODkxODEzLDIwNTQxNzA4NTQsMTUzNDY5
+MjI1NCwtMzYzMTYyMDA5LDQ5Mjg5MTM1NCwtMTQ5ODIzMTAxLD
+E4NjU2MjI4MTAsLTIwODE0NjMyMTQsLTEwMTgzNjI2NywtNDc0
+OTkwOTg4XX0=
 -->
