@@ -202,13 +202,14 @@ msf5 auxiliary(scanner/ssh/ssh_login) > options
 ### Credentials stuffing and password spraying
 Credential stuffing: Use a list of login:password to gain access. Sometimes servers get attacked and credentials are stolen. It is quite easy to get stolen credentials in web/darkweb. Usually this attack expect to find a user that has a bad habit of using the same password everywhere. 
 Password spraying: using one password to bruteforce the login. Usually used with default password on application.
+> Be careful during pentests. You need to know password policy or else you could lock out 
 ## Maintaining Access
 ## Covering Tracks
 
 Read:
 Darknet diaries
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzI0ODMzNzYsNjU2OTU4MzEwLC0xOD
+eyJoaXN0b3J5IjpbLTIwODM0NDE3NTMsNjU2OTU4MzEwLC0xOD
 Y5MjkxMjgxLC05MzM3OTI2MzksLTEwMzkxNDIzMzAsLTM4OTg3
 MTY0LDE3NDc0MTAwOTksMjAzNDg2NDI3MSwxNjc3NDUyMTcwLD
 E4MTgxNzYyMTksLTEwOTc4OTE4MTMsMjA1NDE3MDg1NCwxNTM0
