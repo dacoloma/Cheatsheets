@@ -170,7 +170,7 @@ msf5 > use {module_name}
 ```
 At this point, the prompt should be different. You should see `msf5 {module_name} >`. 
 ```bash
-msf5 > options # shows more options after a failed attempt
+msf5 > options 
 msf5 > set RHOSTS # or RHOST 
 msf5 > set RPORT
 msf5 > set LHOST
@@ -187,11 +187,11 @@ Using information found in Enumeration step, find the appropriate exploit on git
 Read:
 Darknet diaries
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzMyNTUyNzYsLTEwMzkxNDIzMzAsLT
-M4OTg3MTY0LDE3NDc0MTAwOTksMjAzNDg2NDI3MSwxNjc3NDUy
-MTcwLDE4MTgxNzYyMTksLTEwOTc4OTE4MTMsMjA1NDE3MDg1NC
-wxNTM0NjkyMjU0LC0zNjMxNjIwMDksNDkyODkxMzU0LC0xNDk4
-MjMxMDEsMTg2NTYyMjgxMCwtMjA4MTQ2MzIxNCwtMTAxODM2Mj
-Y3LC00NzQ5OTA5ODgsLTE0NzMxMTUzNiwtMTI0NDE5NzI5OCw3
-NjI3ODIxNjJdfQ==
+eyJoaXN0b3J5IjpbMjAyMjA2NjYwMSwtMTAzOTE0MjMzMCwtMz
+g5ODcxNjQsMTc0NzQxMDA5OSwyMDM0ODY0MjcxLDE2Nzc0NTIx
+NzAsMTgxODE3NjIxOSwtMTA5Nzg5MTgxMywyMDU0MTcwODU0LD
+E1MzQ2OTIyNTQsLTM2MzE2MjAwOSw0OTI4OTEzNTQsLTE0OTgy
+MzEwMSwxODY1NjIyODEwLC0yMDgxNDYzMjE0LC0xMDE4MzYyNj
+csLTQ3NDk5MDk4OCwtMTQ3MzExNTM2LC0xMjQ0MTk3Mjk4LDc2
+Mjc4MjE2Ml19
 -->
