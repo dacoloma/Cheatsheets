@@ -200,7 +200,7 @@ msf5 auxiliary(scanner/ssh/ssh_login) > options
 # set user, pass file, target IP, verbose, threads etc.
 ```
 ### Credentials stuffing and password spraying
-Credential stuffing: Use a couple 
+Credential stuffing: Use a list of login:password to gain access. Sometimes s
 Password spraying: using one password to bruteforce the login. Usually used with default password on application.
 ## Maintaining Access
 ## Covering Tracks
@@ -208,11 +208,11 @@ Password spraying: using one password to bruteforce the login. Usually used with
 Read:
 Darknet diaries
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyMTQ1NDE4OSw2NTY5NTgzMTAsLTE4Nj
-kyOTEyODEsLTkzMzc5MjYzOSwtMTAzOTE0MjMzMCwtMzg5ODcx
-NjQsMTc0NzQxMDA5OSwyMDM0ODY0MjcxLDE2Nzc0NTIxNzAsMT
-gxODE3NjIxOSwtMTA5Nzg5MTgxMywyMDU0MTcwODU0LDE1MzQ2
-OTIyNTQsLTM2MzE2MjAwOSw0OTI4OTEzNTQsLTE0OTgyMzEwMS
-wxODY1NjIyODEwLC0yMDgxNDYzMjE0LC0xMDE4MzYyNjcsLTQ3
-NDk5MDk4OF19
+eyJoaXN0b3J5IjpbLTE5MjU0Mjc3MzcsNjU2OTU4MzEwLC0xOD
+Y5MjkxMjgxLC05MzM3OTI2MzksLTEwMzkxNDIzMzAsLTM4OTg3
+MTY0LDE3NDc0MTAwOTksMjAzNDg2NDI3MSwxNjc3NDUyMTcwLD
+E4MTgxNzYyMTksLTEwOTc4OTE4MTMsMjA1NDE3MDg1NCwxNTM0
+NjkyMjU0LC0zNjMxNjIwMDksNDkyODkxMzU0LC0xNDk4MjMxMD
+EsMTg2NTYyMjgxMCwtMjA4MTQ2MzIxNCwtMTAxODM2MjY3LC00
+NzQ5OTA5ODhdfQ==
 -->
