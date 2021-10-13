@@ -179,18 +179,19 @@ msf5 > show targets
 msf5 > set payload {OS}/{arch}/{payload} # Hit tab to autocomplete
 msf5 > exploit # or run
 ```
-### Gaining root with Metasploit
+### Gaining root manually
+Using information found in Enumeration step, find the appropriate exploit on github or whatever, read the instruction 
 ## Maintaining Access
 ## Covering Tracks
 
 Read:
 Darknet diaries
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzkxNDIzMzAsLTM4OTg3MTY0LDE3ND
-c0MTAwOTksMjAzNDg2NDI3MSwxNjc3NDUyMTcwLDE4MTgxNzYy
-MTksLTEwOTc4OTE4MTMsMjA1NDE3MDg1NCwxNTM0NjkyMjU0LC
-0zNjMxNjIwMDksNDkyODkxMzU0LC0xNDk4MjMxMDEsMTg2NTYy
-MjgxMCwtMjA4MTQ2MzIxNCwtMTAxODM2MjY3LC00NzQ5OTA5OD
-gsLTE0NzMxMTUzNiwtMTI0NDE5NzI5OCw3NjI3ODIxNjIsLTE4
-MzEzMzk4OV19
+eyJoaXN0b3J5IjpbODY0MDEzNDg1LC0xMDM5MTQyMzMwLC0zOD
+k4NzE2NCwxNzQ3NDEwMDk5LDIwMzQ4NjQyNzEsMTY3NzQ1MjE3
+MCwxODE4MTc2MjE5LC0xMDk3ODkxODEzLDIwNTQxNzA4NTQsMT
+UzNDY5MjI1NCwtMzYzMTYyMDA5LDQ5Mjg5MTM1NCwtMTQ5ODIz
+MTAxLDE4NjU2MjI4MTAsLTIwODE0NjMyMTQsLTEwMTgzNjI2Ny
+wtNDc0OTkwOTg4LC0xNDczMTE1MzYsLTEyNDQxOTcyOTgsNzYy
+NzgyMTYyXX0=
 -->
