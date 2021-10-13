@@ -186,14 +186,18 @@ msf5 > set payload {OS}/{arch}/{payload} # Hit tab to autocomplete. Sometimes no
 ```
 ### Gaining root manually
 Using information found in Enumeration step, find the appropriate exploit on github or whatever, read the instruction and you should get root access. 
+### Brute Force attack
+In Kali:
+```bash
 
+```
 ## Maintaining Access
 ## Covering Tracks
 
 Read:
 Darknet diaries
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjM4MTAwOTMsLTkzMzc5MjYzOSwtMT
+eyJoaXN0b3J5IjpbLTE4NjkyOTEyODEsLTkzMzc5MjYzOSwtMT
 AzOTE0MjMzMCwtMzg5ODcxNjQsMTc0NzQxMDA5OSwyMDM0ODY0
 MjcxLDE2Nzc0NTIxNzAsMTgxODE3NjIxOSwtMTA5Nzg5MTgxMy
 wyMDU0MTcwODU0LDE1MzQ2OTIyNTQsLTM2MzE2MjAwOSw0OTI4
