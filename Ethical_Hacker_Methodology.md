@@ -177,6 +177,10 @@ msf5 > set LHOST
 msf5 > set LPORT 
 msf5 > show targets # depending on the number of targets, you might need to select one manually
 msf5 > exploit # or run
+```
+If it failed:
+```bash
+msf5 > options # should show Payload options after one failed attempt
 msf5 > set payload {OS}/{arch}/{payload} # Hit tab to autocomplete
 
 ```
@@ -188,11 +192,11 @@ Using information found in Enumeration step, find the appropriate exploit on git
 Read:
 Darknet diaries
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5OTM3Mzk2NCwtMTAzOTE0MjMzMCwtMz
-g5ODcxNjQsMTc0NzQxMDA5OSwyMDM0ODY0MjcxLDE2Nzc0NTIx
-NzAsMTgxODE3NjIxOSwtMTA5Nzg5MTgxMywyMDU0MTcwODU0LD
-E1MzQ2OTIyNTQsLTM2MzE2MjAwOSw0OTI4OTEzNTQsLTE0OTgy
-MzEwMSwxODY1NjIyODEwLC0yMDgxNDYzMjE0LC0xMDE4MzYyNj
-csLTQ3NDk5MDk4OCwtMTQ3MzExNTM2LC0xMjQ0MTk3Mjk4LDc2
-Mjc4MjE2Ml19
+eyJoaXN0b3J5IjpbODM4MzgyNjAxLC0xMDM5MTQyMzMwLC0zOD
+k4NzE2NCwxNzQ3NDEwMDk5LDIwMzQ4NjQyNzEsMTY3NzQ1MjE3
+MCwxODE4MTc2MjE5LC0xMDk3ODkxODEzLDIwNTQxNzA4NTQsMT
+UzNDY5MjI1NCwtMzYzMTYyMDA5LDQ5Mjg5MTM1NCwtMTQ5ODIz
+MTAxLDE4NjU2MjI4MTAsLTIwODE0NjMyMTQsLTEwMTgzNjI2Ny
+wtNDc0OTkwOTg4LC0xNDczMTE1MzYsLTEyNDQxOTcyOTgsNzYy
+NzgyMTYyXX0=
 -->
