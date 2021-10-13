@@ -186,17 +186,18 @@ msf5 > set payload {OS}/{arch}/{payload} # Hit tab to autocomplete. Sometimes no
 ```
 ### Gaining root manually
 Using information found in Enumeration step, find the appropriate exploit on github or whatever, read the instruction and you should get root access. 
+
 ## Maintaining Access
 ## Covering Tracks
 
 Read:
 Darknet diaries
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzMzc5MjYzOSwtMTAzOTE0MjMzMCwtMz
-g5ODcxNjQsMTc0NzQxMDA5OSwyMDM0ODY0MjcxLDE2Nzc0NTIx
-NzAsMTgxODE3NjIxOSwtMTA5Nzg5MTgxMywyMDU0MTcwODU0LD
-E1MzQ2OTIyNTQsLTM2MzE2MjAwOSw0OTI4OTEzNTQsLTE0OTgy
-MzEwMSwxODY1NjIyODEwLC0yMDgxNDYzMjE0LC0xMDE4MzYyNj
-csLTQ3NDk5MDk4OCwtMTQ3MzExNTM2LC0xMjQ0MTk3Mjk4LDc2
-Mjc4MjE2Ml19
+eyJoaXN0b3J5IjpbLTEwNjM4MTAwOTMsLTkzMzc5MjYzOSwtMT
+AzOTE0MjMzMCwtMzg5ODcxNjQsMTc0NzQxMDA5OSwyMDM0ODY0
+MjcxLDE2Nzc0NTIxNzAsMTgxODE3NjIxOSwtMTA5Nzg5MTgxMy
+wyMDU0MTcwODU0LDE1MzQ2OTIyNTQsLTM2MzE2MjAwOSw0OTI4
+OTEzNTQsLTE0OTgyMzEwMSwxODY1NjIyODEwLC0yMDgxNDYzMj
+E0LC0xMDE4MzYyNjcsLTQ3NDk5MDk4OCwtMTQ3MzExNTM2LC0x
+MjQ0MTk3Mjk4XX0=
 -->
