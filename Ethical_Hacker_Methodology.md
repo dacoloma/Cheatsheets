@@ -180,18 +180,18 @@ msf5 > set payload {OS}/{arch}/{payload} # Hit tab to autocomplete
 msf5 > exploit # or run
 ```
 ### Gaining root manually
-Using information found in Enumeration step, find the appropriate exploit on github or whatever, read the instruction 
+Using information found in Enumeration step, find the appropriate exploit on github or whatever, read the instruction and you should get root access. 
 ## Maintaining Access
 ## Covering Tracks
 
 Read:
 Darknet diaries
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY0MDEzNDg1LC0xMDM5MTQyMzMwLC0zOD
-k4NzE2NCwxNzQ3NDEwMDk5LDIwMzQ4NjQyNzEsMTY3NzQ1MjE3
-MCwxODE4MTc2MjE5LC0xMDk3ODkxODEzLDIwNTQxNzA4NTQsMT
-UzNDY5MjI1NCwtMzYzMTYyMDA5LDQ5Mjg5MTM1NCwtMTQ5ODIz
-MTAxLDE4NjU2MjI4MTAsLTIwODE0NjMyMTQsLTEwMTgzNjI2Ny
-wtNDc0OTkwOTg4LC0xNDczMTE1MzYsLTEyNDQxOTcyOTgsNzYy
-NzgyMTYyXX0=
+eyJoaXN0b3J5IjpbLTE5NzMyNTUyNzYsLTEwMzkxNDIzMzAsLT
+M4OTg3MTY0LDE3NDc0MTAwOTksMjAzNDg2NDI3MSwxNjc3NDUy
+MTcwLDE4MTgxNzYyMTksLTEwOTc4OTE4MTMsMjA1NDE3MDg1NC
+wxNTM0NjkyMjU0LC0zNjMxNjIwMDksNDkyODkxMzU0LC0xNDk4
+MjMxMDEsMTg2NTYyMjgxMCwtMjA4MTQ2MzIxNCwtMTAxODM2Mj
+Y3LC00NzQ5OTA5ODgsLTE0NzMxMTUzNiwtMTI0NDE5NzI5OCw3
+NjI3ODIxNjJdfQ==
 -->
