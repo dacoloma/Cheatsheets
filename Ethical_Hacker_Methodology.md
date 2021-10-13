@@ -201,13 +201,14 @@ msf5 auxiliary(scanner/ssh/ssh_login) > options
 ```
 ### Credentials stuffing and password spraying
 Credential stuffing: Use a couple 
+Password spraying: using one password to bruteforce the login. Usually used with default password on application.
 ## Maintaining Access
 ## Covering Tracks
 
 Read:
 Darknet diaries
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5MjM1MTExMSw2NTY5NTgzMTAsLTE4Nj
+eyJoaXN0b3J5IjpbLTUyMTQ1NDE4OSw2NTY5NTgzMTAsLTE4Nj
 kyOTEyODEsLTkzMzc5MjYzOSwtMTAzOTE0MjMzMCwtMzg5ODcx
 NjQsMTc0NzQxMDA5OSwyMDM0ODY0MjcxLDE2Nzc0NTIxNzAsMT
 gxODE3NjIxOSwtMTA5Nzg5MTgxMywyMDU0MTcwODU0LDE1MzQ2
