@@ -110,7 +110,8 @@ Command: nmap
 ```bash
 nmap --script smb-vuln* -p 445 <VICTIM_IP>
 ```
-> Should print 
+> Should print if a vulnerability exist with current version of smb
+
 Command: smbclient
 ```bash
 # Try with anonymous auth if you don't have any password
@@ -217,7 +218,7 @@ Use one password and a login list to bruteforce the login. Usually used with def
 Read:
 Darknet diaries
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0NjgyNTAxMiw0NDkxNTg0NzAsNjU2OT
+eyJoaXN0b3J5IjpbLTc3NzQyODEwNSw0NDkxNTg0NzAsNjU2OT
 U4MzEwLC0xODY5MjkxMjgxLC05MzM3OTI2MzksLTEwMzkxNDIz
 MzAsLTM4OTg3MTY0LDE3NDc0MTAwOTksMjAzNDg2NDI3MSwxNj
 c3NDUyMTcwLDE4MTgxNzYyMTksLTEwOTc4OTE4MTMsMjA1NDE3
