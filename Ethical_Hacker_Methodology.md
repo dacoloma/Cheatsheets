@@ -106,7 +106,7 @@ Web app with great interface and great features like scheduled scanning but the 
 #### http (80), https (443)
 Tools: dirbuster, BurpSuite
 #### smb (139, 445)
-Tools: Metasploit
+
 Command:
 ```bash
 # Try with anonymous auth if you don't have any password
@@ -213,11 +213,11 @@ Use one password and a login list to bruteforce the login. Usually used with def
 Read:
 Darknet diaries
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ5MTU4NDcwLDY1Njk1ODMxMCwtMTg2OT
-I5MTI4MSwtOTMzNzkyNjM5LC0xMDM5MTQyMzMwLC0zODk4NzE2
-NCwxNzQ3NDEwMDk5LDIwMzQ4NjQyNzEsMTY3NzQ1MjE3MCwxOD
-E4MTc2MjE5LC0xMDk3ODkxODEzLDIwNTQxNzA4NTQsMTUzNDY5
-MjI1NCwtMzYzMTYyMDA5LDQ5Mjg5MTM1NCwtMTQ5ODIzMTAxLD
-E4NjU2MjI4MTAsLTIwODE0NjMyMTQsLTEwMTgzNjI2NywtNDc0
-OTkwOTg4XX0=
+eyJoaXN0b3J5IjpbMTI4NDYwMTUyMyw0NDkxNTg0NzAsNjU2OT
+U4MzEwLC0xODY5MjkxMjgxLC05MzM3OTI2MzksLTEwMzkxNDIz
+MzAsLTM4OTg3MTY0LDE3NDc0MTAwOTksMjAzNDg2NDI3MSwxNj
+c3NDUyMTcwLDE4MTgxNzYyMTksLTEwOTc4OTE4MTMsMjA1NDE3
+MDg1NCwxNTM0NjkyMjU0LC0zNjMxNjIwMDksNDkyODkxMzU0LC
+0xNDk4MjMxMDEsMTg2NTYyMjgxMCwtMjA4MTQ2MzIxNCwtMTAx
+ODM2MjY3XX0=
 -->
