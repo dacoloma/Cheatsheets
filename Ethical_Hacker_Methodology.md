@@ -83,7 +83,9 @@ This tool can also be used to identify website technology, but all requests as w
 https://blog.tryhackme.com/google-fu/
 ### Social Media
 Use Social Media to find any information, pictures, videos that might be vulnerable like work pictures showing a badge etc..
-##
+### Active recon
+#### Web browser
+Tools: Wappalyzer, Fo
 ## Scanning & Enumeration
 ### Scanning
 #### Nmap
@@ -218,7 +220,7 @@ Use one password and a login list to bruteforce the login. Usually used with def
 Read:
 Darknet diaries
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTE1MTQ0MDksLTc3NzQyODEwNSw0ND
+eyJoaXN0b3J5IjpbLTE1Njk5MjgwNjYsLTc3NzQyODEwNSw0ND
 kxNTg0NzAsNjU2OTU4MzEwLC0xODY5MjkxMjgxLC05MzM3OTI2
 MzksLTEwMzkxNDIzMzAsLTM4OTg3MTY0LDE3NDc0MTAwOTksMj
 AzNDg2NDI3MSwxNjc3NDUyMTcwLDE4MTgxNzYyMTksLTEwOTc4
