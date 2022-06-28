@@ -86,6 +86,19 @@ Use Social Media to find any information, pictures, videos that might be vulnera
 ### Active recon
 #### Web browser
 Tools: Wappalyzer, Foxy Proxy, User-Agent Switcher and Manager
+#### Commands
+##### ping
+```bash
+ping HOSTNAME
+ping -c 10 HOSTNAME
+ping -s 10 HOSTNAME
+```
+##### tra
+```bash
+ping HOSTNAME
+ping -c 10 HOSTNAME
+ping -s 10 HOSTNAME
+```
 ## Scanning & Enumeration
 ### Scanning
 #### Nmap
@@ -220,11 +233,11 @@ Use one password and a login list to bruteforce the login. Usually used with def
 Read:
 Darknet diaries
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxMTcwNjAyMywtNzc3NDI4MTA1LDQ0OT
-E1ODQ3MCw2NTY5NTgzMTAsLTE4NjkyOTEyODEsLTkzMzc5MjYz
-OSwtMTAzOTE0MjMzMCwtMzg5ODcxNjQsMTc0NzQxMDA5OSwyMD
-M0ODY0MjcxLDE2Nzc0NTIxNzAsMTgxODE3NjIxOSwtMTA5Nzg5
-MTgxMywyMDU0MTcwODU0LDE1MzQ2OTIyNTQsLTM2MzE2MjAwOS
-w0OTI4OTEzNTQsLTE0OTgyMzEwMSwxODY1NjIyODEwLC0yMDgx
-NDYzMjE0XX0=
+eyJoaXN0b3J5IjpbMTA5MDU0NzQ0MCwxNTExNzA2MDIzLC03Nz
+c0MjgxMDUsNDQ5MTU4NDcwLDY1Njk1ODMxMCwtMTg2OTI5MTI4
+MSwtOTMzNzkyNjM5LC0xMDM5MTQyMzMwLC0zODk4NzE2NCwxNz
+Q3NDEwMDk5LDIwMzQ4NjQyNzEsMTY3NzQ1MjE3MCwxODE4MTc2
+MjE5LC0xMDk3ODkxODEzLDIwNTQxNzA4NTQsMTUzNDY5MjI1NC
+wtMzYzMTYyMDA5LDQ5Mjg5MTM1NCwtMTQ5ODIzMTAxLDE4NjU2
+MjI4MTBdfQ==
 -->
