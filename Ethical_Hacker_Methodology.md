@@ -83,7 +83,7 @@ This tool can also be used to identify website technology, but all requests as w
 https://blog.tryhackme.com/google-fu/
 ### Social Media
 Use Social Media to find any information, pictures, videos that might be vulnerable like work pictures showing a badge etc..
-
+##
 ## Scanning & Enumeration
 ### Scanning
 #### Nmap
@@ -218,11 +218,11 @@ Use one password and a login list to bruteforce the login. Usually used with def
 Read:
 Darknet diaries
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3NzQyODEwNSw0NDkxNTg0NzAsNjU2OT
-U4MzEwLC0xODY5MjkxMjgxLC05MzM3OTI2MzksLTEwMzkxNDIz
-MzAsLTM4OTg3MTY0LDE3NDc0MTAwOTksMjAzNDg2NDI3MSwxNj
-c3NDUyMTcwLDE4MTgxNzYyMTksLTEwOTc4OTE4MTMsMjA1NDE3
-MDg1NCwxNTM0NjkyMjU0LC0zNjMxNjIwMDksNDkyODkxMzU0LC
-0xNDk4MjMxMDEsMTg2NTYyMjgxMCwtMjA4MTQ2MzIxNCwtMTAx
-ODM2MjY3XX0=
+eyJoaXN0b3J5IjpbLTEyOTE1MTQ0MDksLTc3NzQyODEwNSw0ND
+kxNTg0NzAsNjU2OTU4MzEwLC0xODY5MjkxMjgxLC05MzM3OTI2
+MzksLTEwMzkxNDIzMzAsLTM4OTg3MTY0LDE3NDc0MTAwOTksMj
+AzNDg2NDI3MSwxNjc3NDUyMTcwLDE4MTgxNzYyMTksLTEwOTc4
+OTE4MTMsMjA1NDE3MDg1NCwxNTM0NjkyMjU0LC0zNjMxNjIwMD
+ksNDkyODkxMzU0LC0xNDk4MjMxMDEsMTg2NTYyMjgxMCwtMjA4
+MTQ2MzIxNF19
 -->
