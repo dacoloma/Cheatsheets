@@ -98,8 +98,11 @@ ping -n 10 HOSTNAME # MS Windows format
 ping -s 10 HOSTNAME
 ```
 ##### traceroute
-```bash
+```
+# MacOS and Linux
 traceroute HOSTNAME
+# MS Windows
+tracert HOSTNAME
 ```
 ## Scanning & Enumeration
 ### Scanning
@@ -235,11 +238,11 @@ Use one password and a login list to bruteforce the login. Usually used with def
 Read:
 Darknet diaries
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQxMzM4MDM1LDE1MTE3MDYwMjMsLTc3Nz
-QyODEwNSw0NDkxNTg0NzAsNjU2OTU4MzEwLC0xODY5MjkxMjgx
-LC05MzM3OTI2MzksLTEwMzkxNDIzMzAsLTM4OTg3MTY0LDE3ND
-c0MTAwOTksMjAzNDg2NDI3MSwxNjc3NDUyMTcwLDE4MTgxNzYy
-MTksLTEwOTc4OTE4MTMsMjA1NDE3MDg1NCwxNTM0NjkyMjU0LC
-0zNjMxNjIwMDksNDkyODkxMzU0LC0xNDk4MjMxMDEsMTg2NTYy
-MjgxMF19
+eyJoaXN0b3J5IjpbMTM4MDM5MTE3MCwxNTExNzA2MDIzLC03Nz
+c0MjgxMDUsNDQ5MTU4NDcwLDY1Njk1ODMxMCwtMTg2OTI5MTI4
+MSwtOTMzNzkyNjM5LC0xMDM5MTQyMzMwLC0zODk4NzE2NCwxNz
+Q3NDEwMDk5LDIwMzQ4NjQyNzEsMTY3NzQ1MjE3MCwxODE4MTc2
+MjE5LC0xMDk3ODkxODEzLDIwNTQxNzA4NTQsMTUzNDY5MjI1NC
+wtMzYzMTYyMDA5LDQ5Mjg5MTM1NCwtMTQ5ODIzMTAxLDE4NjU2
+MjI4MTBdfQ==
 -->
