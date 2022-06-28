@@ -91,9 +91,10 @@ Tools: Wappalyzer, Foxy Proxy, User-Agent Switcher and Manager
 ```bash
 # Basic format
 ping HOSTNAME
-# Send 10 
+# Send 10 requests
 ping -c 10 HOSTNAME
-ping -n 10 HOSTNAME
+ping -n 10 HOSTNAME # MS Windows format
+# Set packet size to 10 bytes (+ 8 bytes for Header)
 ping -s 10 HOSTNAME
 ```
 ##### traceroute
@@ -234,11 +235,11 @@ Use one password and a login list to bruteforce the login. Usually used with def
 Read:
 Darknet diaries
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM3NDE4NzAsMTUxMTcwNjAyMywtNzc3ND
-I4MTA1LDQ0OTE1ODQ3MCw2NTY5NTgzMTAsLTE4NjkyOTEyODEs
-LTkzMzc5MjYzOSwtMTAzOTE0MjMzMCwtMzg5ODcxNjQsMTc0Nz
-QxMDA5OSwyMDM0ODY0MjcxLDE2Nzc0NTIxNzAsMTgxODE3NjIx
-OSwtMTA5Nzg5MTgxMywyMDU0MTcwODU0LDE1MzQ2OTIyNTQsLT
-M2MzE2MjAwOSw0OTI4OTEzNTQsLTE0OTgyMzEwMSwxODY1NjIy
-ODEwXX0=
+eyJoaXN0b3J5IjpbNTQxMzM4MDM1LDE1MTE3MDYwMjMsLTc3Nz
+QyODEwNSw0NDkxNTg0NzAsNjU2OTU4MzEwLC0xODY5MjkxMjgx
+LC05MzM3OTI2MzksLTEwMzkxNDIzMzAsLTM4OTg3MTY0LDE3ND
+c0MTAwOTksMjAzNDg2NDI3MSwxNjc3NDUyMTcwLDE4MTgxNzYy
+MTksLTEwOTc4OTE4MTMsMjA1NDE3MDg1NCwxNTM0NjkyMjU0LC
+0zNjMxNjIwMDksNDkyODkxMzU0LC0xNDk4MjMxMDEsMTg2NTYy
+MjgxMF19
 -->
