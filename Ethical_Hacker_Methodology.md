@@ -104,6 +104,17 @@ traceroute HOSTNAME
 # MS Windows
 tracert HOSTNAME
 ```
+##### telnet
+```bash
+telnet HOST_IP PORT
+GET / HTTP/1.1
+Host: whatever
+# Type Enter twice to send request
+```
+##### nc
+```bash
+
+```
 ## Scanning & Enumeration
 ### Scanning
 #### Nmap
@@ -238,11 +249,11 @@ Use one password and a login list to bruteforce the login. Usually used with def
 Read:
 Darknet diaries
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI3MDI3MTU4LDE1MTE3MDYwMjMsLTc3Nz
-QyODEwNSw0NDkxNTg0NzAsNjU2OTU4MzEwLC0xODY5MjkxMjgx
-LC05MzM3OTI2MzksLTEwMzkxNDIzMzAsLTM4OTg3MTY0LDE3ND
-c0MTAwOTksMjAzNDg2NDI3MSwxNjc3NDUyMTcwLDE4MTgxNzYy
-MTksLTEwOTc4OTE4MTMsMjA1NDE3MDg1NCwxNTM0NjkyMjU0LC
-0zNjMxNjIwMDksNDkyODkxMzU0LC0xNDk4MjMxMDEsMTg2NTYy
-MjgxMF19
+eyJoaXN0b3J5IjpbLTkxNjEyNTk1MSw5MjcwMjcxNTgsMTUxMT
+cwNjAyMywtNzc3NDI4MTA1LDQ0OTE1ODQ3MCw2NTY5NTgzMTAs
+LTE4NjkyOTEyODEsLTkzMzc5MjYzOSwtMTAzOTE0MjMzMCwtMz
+g5ODcxNjQsMTc0NzQxMDA5OSwyMDM0ODY0MjcxLDE2Nzc0NTIx
+NzAsMTgxODE3NjIxOSwtMTA5Nzg5MTgxMywyMDU0MTcwODU0LD
+E1MzQ2OTIyNTQsLTM2MzE2MjAwOSw0OTI4OTEzNTQsLTE0OTgy
+MzEwMV19
 -->
