@@ -111,10 +111,8 @@ GET / HTTP/1.1
 Host: whatever
 # Type Enter twice to send request
 ```
-##### nc
-```bash
-
-```
+##### netcat
+Same as above but server side must set up a listener on a specific port. Ports number under 1024 need root privileges
 ## Scanning & Enumeration
 ### Scanning
 #### Nmap
@@ -249,11 +247,11 @@ Use one password and a login list to bruteforce the login. Usually used with def
 Read:
 Darknet diaries
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxNjEyNTk1MSw5MjcwMjcxNTgsMTUxMT
-cwNjAyMywtNzc3NDI4MTA1LDQ0OTE1ODQ3MCw2NTY5NTgzMTAs
-LTE4NjkyOTEyODEsLTkzMzc5MjYzOSwtMTAzOTE0MjMzMCwtMz
-g5ODcxNjQsMTc0NzQxMDA5OSwyMDM0ODY0MjcxLDE2Nzc0NTIx
-NzAsMTgxODE3NjIxOSwtMTA5Nzg5MTgxMywyMDU0MTcwODU0LD
-E1MzQ2OTIyNTQsLTM2MzE2MjAwOSw0OTI4OTEzNTQsLTE0OTgy
-MzEwMV19
+eyJoaXN0b3J5IjpbMTYyNzkyODYzLC05MTYxMjU5NTEsOTI3MD
+I3MTU4LDE1MTE3MDYwMjMsLTc3NzQyODEwNSw0NDkxNTg0NzAs
+NjU2OTU4MzEwLC0xODY5MjkxMjgxLC05MzM3OTI2MzksLTEwMz
+kxNDIzMzAsLTM4OTg3MTY0LDE3NDc0MTAwOTksMjAzNDg2NDI3
+MSwxNjc3NDUyMTcwLDE4MTgxNzYyMTksLTEwOTc4OTE4MTMsMj
+A1NDE3MDg1NCwxNTM0NjkyMjU0LC0zNjMxNjIwMDksNDkyODkx
+MzU0XX0=
 -->
