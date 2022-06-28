@@ -85,7 +85,7 @@ https://blog.tryhackme.com/google-fu/
 Use Social Media to find any information, pictures, videos that might be vulnerable like work pictures showing a badge etc..
 ### Active recon
 #### Web browser
-Tools: Wappalyzer, Fo
+Tools: Wappalyzer, Foxy Proxy, User-Agent Switcher and Manager
 ## Scanning & Enumeration
 ### Scanning
 #### Nmap
@@ -220,11 +220,11 @@ Use one password and a login list to bruteforce the login. Usually used with def
 Read:
 Darknet diaries
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Njk5MjgwNjYsLTc3NzQyODEwNSw0ND
-kxNTg0NzAsNjU2OTU4MzEwLC0xODY5MjkxMjgxLC05MzM3OTI2
-MzksLTEwMzkxNDIzMzAsLTM4OTg3MTY0LDE3NDc0MTAwOTksMj
-AzNDg2NDI3MSwxNjc3NDUyMTcwLDE4MTgxNzYyMTksLTEwOTc4
-OTE4MTMsMjA1NDE3MDg1NCwxNTM0NjkyMjU0LC0zNjMxNjIwMD
-ksNDkyODkxMzU0LC0xNDk4MjMxMDEsMTg2NTYyMjgxMCwtMjA4
-MTQ2MzIxNF19
+eyJoaXN0b3J5IjpbMTUxMTcwNjAyMywtNzc3NDI4MTA1LDQ0OT
+E1ODQ3MCw2NTY5NTgzMTAsLTE4NjkyOTEyODEsLTkzMzc5MjYz
+OSwtMTAzOTE0MjMzMCwtMzg5ODcxNjQsMTc0NzQxMDA5OSwyMD
+M0ODY0MjcxLDE2Nzc0NTIxNzAsMTgxODE3NjIxOSwtMTA5Nzg5
+MTgxMywyMDU0MTcwODU0LDE1MzQ2OTIyNTQsLTM2MzE2MjAwOS
+w0OTI4OTEzNTQsLTE0OTgyMzEwMSwxODY1NjIyODEwLC0yMDgx
+NDYzMjE0XX0=
 -->
