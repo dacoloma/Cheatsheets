@@ -89,15 +89,16 @@ Tools: Wappalyzer, Foxy Proxy, User-Agent Switcher and Manager
 #### Commands
 ##### ping
 ```bash
+# Basic format
 ping HOSTNAME
+# Send 10 
 ping -c 10 HOSTNAME
+ping -n 10 HOSTNAME
 ping -s 10 HOSTNAME
 ```
-##### tra
+##### traceroute
 ```bash
-ping HOSTNAME
-ping -c 10 HOSTNAME
-ping -s 10 HOSTNAME
+traceroute HOSTNAME
 ```
 ## Scanning & Enumeration
 ### Scanning
@@ -233,11 +234,11 @@ Use one password and a login list to bruteforce the login. Usually used with def
 Read:
 Darknet diaries
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5MDU0NzQ0MCwxNTExNzA2MDIzLC03Nz
-c0MjgxMDUsNDQ5MTU4NDcwLDY1Njk1ODMxMCwtMTg2OTI5MTI4
-MSwtOTMzNzkyNjM5LC0xMDM5MTQyMzMwLC0zODk4NzE2NCwxNz
-Q3NDEwMDk5LDIwMzQ4NjQyNzEsMTY3NzQ1MjE3MCwxODE4MTc2
-MjE5LC0xMDk3ODkxODEzLDIwNTQxNzA4NTQsMTUzNDY5MjI1NC
-wtMzYzMTYyMDA5LDQ5Mjg5MTM1NCwtMTQ5ODIzMTAxLDE4NjU2
-MjI4MTBdfQ==
+eyJoaXN0b3J5IjpbOTM3NDE4NzAsMTUxMTcwNjAyMywtNzc3ND
+I4MTA1LDQ0OTE1ODQ3MCw2NTY5NTgzMTAsLTE4NjkyOTEyODEs
+LTkzMzc5MjYzOSwtMTAzOTE0MjMzMCwtMzg5ODcxNjQsMTc0Nz
+QxMDA5OSwyMDM0ODY0MjcxLDE2Nzc0NTIxNzAsMTgxODE3NjIx
+OSwtMTA5Nzg5MTgxMywyMDU0MTcwODU0LDE1MzQ2OTIyNTQsLT
+M2MzE2MjAwOSw0OTI4OTEzNTQsLTE0OTgyMzEwMSwxODY1NjIy
+ODEwXX0=
 -->
