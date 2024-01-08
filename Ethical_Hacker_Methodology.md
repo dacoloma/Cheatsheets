@@ -150,7 +150,20 @@ smbclient \\\\{IP address}\\{repository name}
 ```
 > if the prompt changes and you have `smb: \>` you're in and you can try any SMB command
 #### ssh (22) 
+#### ftp (21)
+```sh
+ftp [IP ADDRESS]
 
+# if anonymous login allowed, just type 'anonymous' as Name
+Name (10.10.82.90:kali): anonymous
+```
+If after typing any command you get `229 Entering Extended Passive Mode` and not receiving any response, disable Passive mode by relauching ftp session and:
+```sh
+229 Entering Extended Passive Mode (|||49316|)
+# Relaunch ftp session then type 
+ftp> passive
+Passive mode: off; fallback to active mode: off.
+```
 ## Gaining Access
 ### Exploitation Basics
 #### Reverse and Bind shell
@@ -247,11 +260,11 @@ Use one password and a login list to bruteforce the login. Usually used with def
 Read:
 Darknet diaries
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyNzkyODYzLC05MTYxMjU5NTEsOTI3MD
-I3MTU4LDE1MTE3MDYwMjMsLTc3NzQyODEwNSw0NDkxNTg0NzAs
-NjU2OTU4MzEwLC0xODY5MjkxMjgxLC05MzM3OTI2MzksLTEwMz
-kxNDIzMzAsLTM4OTg3MTY0LDE3NDc0MTAwOTksMjAzNDg2NDI3
-MSwxNjc3NDUyMTcwLDE4MTgxNzYyMTksLTEwOTc4OTE4MTMsMj
-A1NDE3MDg1NCwxNTM0NjkyMjU0LC0zNjMxNjIwMDksNDkyODkx
-MzU0XX0=
+eyJoaXN0b3J5IjpbODEyMzc4NzI0LDE2Mjc5Mjg2MywtOTE2MT
+I1OTUxLDkyNzAyNzE1OCwxNTExNzA2MDIzLC03Nzc0MjgxMDUs
+NDQ5MTU4NDcwLDY1Njk1ODMxMCwtMTg2OTI5MTI4MSwtOTMzNz
+kyNjM5LC0xMDM5MTQyMzMwLC0zODk4NzE2NCwxNzQ3NDEwMDk5
+LDIwMzQ4NjQyNzEsMTY3NzQ1MjE3MCwxODE4MTc2MjE5LC0xMD
+k3ODkxODEzLDIwNTQxNzA4NTQsMTUzNDY5MjI1NCwtMzYzMTYy
+MDA5XX0=
 -->
